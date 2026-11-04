@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-brand: hsla(160, 100%, 37%, 1);
+}
