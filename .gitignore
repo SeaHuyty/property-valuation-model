@@ -44,3 +44,5 @@ __screenshots__/
 
 # Vite
 *.timestamp-*-*.mjs
+
+__pycache__/
