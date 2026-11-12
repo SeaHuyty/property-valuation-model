@@ -45,4 +45,10 @@ __screenshots__/
 # Vite
 *.timestamp-*-*.mjs
 
+# Raw scraped data (large, contains seller-written descriptions with phone
+# numbers; regenerate with laboratory/scrapers/khmer24.py)
+laboratory/data/raw/
+
+# Python
 __pycache__/
+*.pyc
