@@ -32,7 +32,7 @@ Run from `laboratory/`, in order:
 | `price_usd` | Asking price (target). Log-transform before training. |
 | `property_type` | Condo, Villa, Flat, House, Shophouse, Twin Villa, Link House, Land |
 | `province`, `district`, `commune` | Location; spellings unified (14 Phnom Penh districts) |
-| `borey_name`, `in_borey` | Gated community name ("No Borey" if none) and 0/1 flag |
+| `borey_name`, `in_borey` | Gated community / project name in English, one per developer or project (e.g. all "ប៉េងហួតបឹងស្នោរ …" and "Borey Peng Huoth: The Star …" variants → "Peng Huoth"); "No Borey" if none or when the scraped text was not a name (then `in_borey` = 0). Normalized by `scripts/normalize_borey.py` (rules in `engines/borey.py`) — 1,094 raw values → 181. 0/1 flag |
 | `title_deed` | Hard / Strata / Soft / Long-Term Leasehold / Unknown |
 | `area_m2` | **Condo: unit floor area. All other types: land (plot) area.** |
 | `land_width_m`, `land_length_m` | Plot frontage × depth (house dims as fallback). 0 for condos. |
