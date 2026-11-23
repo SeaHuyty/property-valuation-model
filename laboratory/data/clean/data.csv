@@ -24,7 +24,7 @@
 183000.0,House,Phnom Penh,Russey Keo,Tuol Sangkae 1,No Borey,0,Unknown,77.9,4.2,15.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 200000.0,Shophouse,Phnom Penh,Sen Sok,Phnom Penh Thmei,អង្គ,1,Unknown,102.0,4.2,24.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,1
 900000.0,Villa,Phnom Penh,7 Makara,Boeng Prolit,No Borey,0,Unknown,264.0,12.0,22.0,0.0,4.0,6.0,0,0,0,0,0,0,0,1,0,0,0
-255000.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 2,ជីបម៉ុងលែន ផាកលែនពោធិ៍ចិនតុង,1,Unknown,180.0,9.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+255000.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 2,Chipmongលែន ផាកលែនពោធិ៍ចិនតុង,1,Unknown,180.0,9.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 79999.0,House,Phnom Penh,Dangkao,Prey Sa,ពិភពថ្មីចំការដូង3,1,Unknown,88.0,4.0,15.1,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 250000.0,Villa,Phnom Penh,Dangkao,Dangkao,No Borey,0,Unknown,253.0,11.0,21.0,0.0,5.0,6.0,0,0,0,0,0,0,1,0,0,0,1
 360000.0,Flat,Phnom Penh,Tuol Kouk,Tuek L'ak 3,No Borey,0,Unknown,27.0,4.2,16.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,1
@@ -40,7 +40,7 @@
 96000.0,Shophouse,Phnom Penh,Chbar Ampov,Nirouth,មង្គលភ្នំពេញ,1,Unknown,97.5,6.5,15.0,0.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,0
 459900.0,Villa,Phnom Penh,Russey Keo,Russey Keo,អារីហ្ស៊តវីឡា,1,Unknown,378.0,21.0,18.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 187000.0,Villa,Siem Reap,Siem Reap,Svay Dangkum,No Borey,0,Unknown,235.0,11.0,17.0,0.0,3.0,3.0,0,0,0,0,0,0,0,0,0,0,1
-529000.0,Villa,Phnom Penh,Sen Sok,Khmuonh,ជីបម៉ុងហ្គ្រែនភ្នំពេញ / Villa Queen,1,Unknown,299.0,13.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+529000.0,Villa,Phnom Penh,Sen Sok,Khmuonh,Chipmongហ្គ្រែនភ្នំពេញ / Villa Queen,1,Unknown,299.0,13.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 358000.0,Villa,Kandal,Mukh Kampul,Sambuor Meas,Amory 7មករា,1,Unknown,420.47,20.07,20.95,0.0,6.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 250000.0,Flat,Phnom Penh,Daun Penh,Srah Chak,No Borey,0,Unknown,88.0,4.0,22.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 13000.0,Flat,Phnom Penh,Dangkao,Krang Pongro,No Borey,0,Unknown,88.1,4.1,19.0,0.0,2.0,1.0,0,0,0,0,0,0,1,0,0,0,1
@@ -48,7 +48,7 @@
 270000.0,Flat,Phnom Penh,Tuol Kouk,Tuek L'ak 3,No Borey,0,Unknown,92.0,86.0,4.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,0
 195000.0,Flat,Phnom Penh,Russey Keo,Russey Keo,វិមានភ្នំពេញ,1,Unknown,108.0,4.5,24.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 230000.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 3,No Borey,0,Unknown,382.5,17.0,22.75,0.0,6.0,5.0,0,0,0,0,0,0,1,0,0,0,1
-1080000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,ជីបម៉ុង60ម,1,Unknown,391.0,17.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
+1080000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,Chipmong60ម,1,Unknown,391.0,17.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
 499999.0,Villa,Phnom Penh,Por Senchey,Kakab 1,បើធៀបនឹងទំហំផ្ទះឬដី,1,Unknown,400.0,13.5,17.5,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
 105000.0,Flat,Preah Sihanouk,Krong Preah Sihanouk,Sangkat 1,No Borey,0,Unknown,101.0,15.0,15.0,0.0,6.0,6.0,0,0,0,0,0,0,0,0,1,0,0
 195000.0,Shophouse,Phnom Penh,Sen Sok,Phnom Penh Thmei,កាំកូស៊ីធី និង 5នាទីពីផ្សារទំនើប អុីអន2,1,Unknown,77.7,4.2,18.5,0.0,4.0,3.0,0,0,0,0,0,0,0,0,0,0,0
@@ -72,8 +72,8 @@
 269000.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 1,ភ្នំពេញថ្មីក្រោយបុរីអរគីដេ2004,1,Unknown,154.8,7.2,21.5,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 68000.0,Shophouse,Phnom Penh,Kamboul,Phleung Chheh Roteh,No Borey,0,Unknown,110.81,4.1,24.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 88000.0,House,Phnom Penh,Por Senchey,Trapeang Krasang,បឹងបៃតង,1,Unknown,118.0,4.0,16.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,0
-670000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,ជីបម៉ុង ហ្គ្រេនភ្នំពេញ,1,Unknown,322.0,14.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
-233000.0,Villa,Phnom Penh,Mean Chey,Boeng Tumpun 1,ជីបម៉ុង 271,1,Unknown,130.0,6.5,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+670000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,Chipmong ហ្គ្រេនភ្នំពេញ,1,Unknown,322.0,14.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+233000.0,Villa,Phnom Penh,Mean Chey,Boeng Tumpun 1,Chipmong 271,1,Unknown,130.0,6.5,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 700000.0,House,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Unknown,131.0,8.1,18.4,0.0,3.0,3.0,0,0,0,0,0,0,1,1,1,0,1
 73000.0,Villa,Phnom Penh,Chbar Ampov,Preaek Pra,No Borey,0,Unknown,68.0,4.0,17.0,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 79100.0,Flat,Phnom Penh,Russey Keo,Russey Keo,No Borey,0,Unknown,96.0,4.2,22.3,0.0,4.0,3.0,0,0,0,0,0,0,1,0,0,0,1
@@ -125,7 +125,7 @@
 67500.0,Condo,Phnom Penh,Chamkar Mon,Tuol Tumpung 1,No Borey,0,Unknown,35.0,0.0,0.0,35.0,1.0,1.0,0,0,0,0,0,0,0,0,1,0,0
 87000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,45.0,0.0,0.0,16.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 250000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,91.0,0.0,0.0,29.0,2.0,2.0,0,0,0,0,0,0,0,0,1,0,0
-195000.0,Condo,Phnom Penh,Mean Chey,Chak Angrae Kraom,ជីបម៉ុង50ម,1,Unknown,54.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,1,1,1,1,0
+195000.0,Condo,Phnom Penh,Mean Chey,Chak Angrae Kraom,Chipmong50ម,1,Unknown,54.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,1,1,1,1,0
 59000.0,Condo,Phnom Penh,Sen Sok,Ou Baek K'am,No Borey,0,Unknown,55.0,0.0,0.0,9.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 47000.0,Condo,Phnom Penh,Mean Chey,Boeng Tumpun 1,No Borey,0,Unknown,50.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 65000.0,Condo,Phnom Penh,Mean Chey,Stueng Mean Chey 1,No Borey,0,Unknown,50.0,0.0,0.0,50.0,1.0,1.0,0,0,0,0,0,0,0,0,1,0,0
@@ -191,7 +191,7 @@
 239000.0,Villa,Phnom Penh,Sen Sok,Krang Thnong,ភ្នំពេញថ្មី Elite Park 2,1,Unknown,168.0,8.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 335000.0,House,Kampong Chhnang,Kampong Tralach,Kampong Tralach,No Borey,0,Unknown,118.0,5.0,19.0,0.0,4.0,4.0,0,0,0,0,0,0,1,0,0,0,1
 380000.0,House,Kandal,Ta Khmau,Ta Khmau,No Borey,0,Unknown,300.0,14.0,30.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,1
-2680000.0,Villa,Phnom Penh,Mean Chey,Chak Angrae Kraom,ជីបម៉ុងលែនម៉ាម271/ Corner Villa Queen,1,Unknown,575.0,25.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
+2680000.0,Villa,Phnom Penh,Mean Chey,Chak Angrae Kraom,Chipmongលែនម៉ាម271/ Corner Villa Queen,1,Unknown,575.0,25.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
 125000.0,Villa,Phnom Penh,Sen Sok,Krang Thnong,វ៉ារីណាដឹហ្សប,1,Unknown,79.05,5.1,15.5,0.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,0
 190000.0,Villa,Phnom Penh,Chroy Changvar,Chroy Changvar,អាម៉ូរី 7 មករា,1,Unknown,189.0,10.0,21.5,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 58000.0,Flat,Banteay Meanchey,Paoy Paet,Paoy Paet,No Borey,0,Unknown,84.0,4.0,17.0,0.0,3.0,4.0,0,0,0,0,0,0,1,0,0,0,0
@@ -205,10 +205,10 @@
 320000.0,Shophouse,Phnom Penh,Chamkar Mon,Tuol Tumpung 1,No Borey,0,Unknown,100.0,4.0,25.0,0.0,1.0,1.0,0,0,0,0,0,0,0,1,1,0,0
 139900.0,Villa,Phnom Penh,Dangkao,Dangkao,ឡុងនី3,1,Unknown,102.0,6.8,15.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 1000000.0,Villa,Phnom Penh,Chbar Ampov,Veal Sbov,ប៉េងហួតបឹងស្នោរ,1,Unknown,835.0,21.4,30.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,1
-222799.0,Shophouse,Phnom Penh,Mean Chey,Chak Angrae Kraom,ជីបម៉ុងទួលពង្រ,1,Unknown,113.4,4.2,27.0,0.0,6.0,7.0,0,0,0,0,0,0,0,0,1,0,0
+222799.0,Shophouse,Phnom Penh,Mean Chey,Chak Angrae Kraom,Chipmongទួលពង្រ,1,Unknown,113.4,4.2,27.0,0.0,6.0,7.0,0,0,0,0,0,0,0,0,1,0,0
 62000.0,Flat,Kandal,Kandal Stueng,Cheung Kaeub,5 star គួរស្រូវ,1,Unknown,67.5,4.5,15.0,0.0,3.0,2.0,0,0,0,0,0,0,1,0,0,0,1
 295000.0,Flat,Phnom Penh,Sen Sok,Phnom Penh Thmei,No Borey,0,Unknown,139.0,6.2,24.0,0.0,6.0,6.0,0,0,0,0,0,0,1,0,0,0,1
-269000.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 1,ជីបម៉ុងពោធិ៍ចិនតុង Twin Villa Big,1,Unknown,189.0,9.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+269000.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 1,Chipmongពោធិ៍ចិនតុង Twin Villa Big,1,Unknown,189.0,9.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 699900.0,Shophouse,Phnom Penh,Tuol Kouk,Boeng Salang,No Borey,0,Unknown,72.41,8.0,23.5,0.0,2.0,1.0,0,0,0,0,0,0,1,0,0,0,0
 185000.0,House,Siem Reap,Siem Reap,Sala Kamraeuk,No Borey,0,Unknown,557.0,8.0,15.0,0.0,3.0,2.0,0,0,0,0,0,0,0,0,0,0,0
 38500.0,House,Siem Reap,Siem Reap,Kouk Chak,No Borey,0,Unknown,213.0,10.0,21.0,0.0,2.0,1.0,0,0,0,0,0,0,1,0,0,0,1
@@ -269,9 +269,9 @@
 199000.0,Flat,Phnom Penh,Por Senchey,Chaom Chau 1,#Flat,1,Unknown,164.0,8.0,20.5,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 85000.0,Villa,Phnom Penh,Sen Sok,Krang Thnong,ថៃឈុនគ្រី ខណ្ឌសែនសុខ,1,Unknown,73.5,5.0,14.7,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 159000.0,Shophouse,Phnom Penh,Chroy Changvar,Preaek Lieb,អ័រគីដេ,1,Unknown,108.0,4.5,24.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
-245000.0,Twin Villa,Phnom Penh,Por Senchey,Kakab 1,ជីបម៉ុង,1,Unknown,180.0,9.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
+245000.0,Twin Villa,Phnom Penh,Por Senchey,Kakab 1,Chipmong,1,Unknown,180.0,9.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 259000.0,House,Phnom Penh,Sen Sok,Krang Thnong,វ៉ារីណា ខណ្ឌសែនសុខ,1,Unknown,300.0,10.0,30.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
-159000.0,Link House,Phnom Penh,Por Senchey,Kakab 1,ជីបម៉ុង,1,Unknown,100.0,5.0,20.0,0.0,3.0,4.0,0,0,0,0,0,0,0,1,1,0,0
+159000.0,Link House,Phnom Penh,Por Senchey,Kakab 1,Chipmong,1,Unknown,100.0,5.0,20.0,0.0,3.0,4.0,0,0,0,0,0,0,0,1,1,0,0
 149000.0,Villa,Phnom Penh,Sen Sok,Krang Thnong,ពិភពថ្មី ឡាសែនសុខ ខណ្ឌសែនសុខ,1,Unknown,115.77,5.1,22.7,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 359000.0,Shophouse,Phnom Penh,Chbar Ampov,Veal Sbov,ប៉េងហួត,1,Unknown,137.5,5.0,27.5,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 149000.0,Shophouse,Phnom Penh,Chbar Ampov,Veal Sbov,ប៉េងហួត,1,Unknown,79.8,4.2,19.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
@@ -279,12 +279,12 @@
 248000.0,Shophouse,Phnom Penh,Chbar Ampov,Veal Sbov,ប៉េងហួត,1,Unknown,99.0,4.5,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 269900.0,Twin Villa,Phnom Penh,Chbar Ampov,Veal Sbov,ប៉េងហួត,1,Unknown,169.4,7.7,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 875000.0,Villa,Phnom Penh,Dangkao,Prey Sa,Chip Mong 50m,1,Unknown,483.0,21.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
-1500000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,ជីបម៉ុងលែនម៉ាក60ម៉ែត្រ/ Corner Villa Queen,1,Unknown,575.0,23.0,25.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
+1500000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,Chipmongលែនម៉ាក60ម៉ែត្រ/ Corner Villa Queen,1,Unknown,575.0,23.0,25.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
 34000.0,House,Phnom Penh,7 Makara,Ou Ruessei 2,No Borey,0,Unknown,69.0,4.4,11.4,0.0,1.0,1.0,0,0,0,0,0,0,1,0,0,0,0
 72000.0,Flat,Phnom Penh,Dangkao,Dangkao,ពិភពថ្មីចំការដូង1,1,Unknown,94.5,4.2,22.5,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 920000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហួតបឹងស្នោរ,1,Unknown,355.2,14.8,24.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
 750000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,Chip Mong Grand Pnom,1,Unknown,391.0,17.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
-850000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,ជីបម៉ុង លែនម៉ាក 60ម៉ែត្រ,1,Unknown,425.5,18.5,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
+850000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,Chipmong លែនម៉ាក 60ម៉ែត្រ,1,Unknown,425.5,18.5,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
 580000.0,Villa,Phnom Penh,Sen Sok,Krang Thnong,ភ្នំពេញថ្មីអេលីតផាក2,1,Unknown,368.0,16.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
 220000.0,Villa,Phnom Penh,Mean Chey,Chak Angrae Kraom,** Contact,1,Unknown,100.0,5.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 1300000.0,Villa,Phnom Penh,Chbar Ampov,Veal Sbov,No Borey,0,Unknown,835.0,21.4,30.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,1
@@ -301,7 +301,7 @@
 278000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,No Borey,0,Unknown,193.6,8.8,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 226000.0,Twin Villa,Phnom Penh,Dangkao,Cheung Aek,ប៉េងហួត 50m,1,Unknown,165.0,7.5,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 225000.0,Villa,Phnom Penh,Dangkao,Spean Thma,Ml ព្រែកជ្រៃ,1,Unknown,294.0,14.0,21.0,0.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0
-275000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,ជីបម៉ុង 598,1,Unknown,184.0,8.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+275000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,Chipmong 598,1,Unknown,184.0,8.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 225000.0,Villa,Phnom Penh,Dangkao,Spean Thma,ML ព្រែកជ្រៃ / Villa,1,Unknown,231.0,11.0,21.0,0.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0
 132000.0,Flat,Phnom Penh,Mean Chey,Chak Angrae Kraom,No Borey,0,Unknown,93.0,4.2,22.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 43000.0,Flat,Kandal,Angk Snuol,Baek Chan,ពិភពថ្មី កំបូល 3,1,Unknown,84.0,4.1,20.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
@@ -319,17 +319,17 @@
 79000.0,Villa,Phnom Penh,Dangkao,Preaek Kampis,ពិភពថ្មីគួរស្រូវ2 ចូលពី,1,Unknown,184.0,11.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 169000.0,Villa,Phnom Penh,Chroy Changvar,Chroy Changvar,ភ្នំពេញផាក,1,Unknown,108.12,5.1,21.2,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 169000.0,Shophouse,Phnom Penh,Sen Sok,Phnom Penh Thmei,ពិភពថ្មីជាប់ AEON 2,1,Unknown,92.0,4.0,23.0,0.0,6.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-490000.0,Shophouse,Phnom Penh,Mean Chey,Chak Angrae Leu,ជីបម៉ុងលែនម៉ាក271/ Shop House for,1,Unknown,143.0,5.5,26.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
+490000.0,Shophouse,Phnom Penh,Mean Chey,Chak Angrae Leu,Chipmongលែនម៉ាក271/ Shop House for,1,Unknown,143.0,5.5,26.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
 75000.0,Flat,Phnom Penh,Por Senchey,Chaom Chau 3,No Borey,0,Unknown,78.0,4.15,16.0,0.0,3.0,3.0,0,0,0,0,0,0,0,0,0,0,1
 80000.0,Flat,Phnom Penh,Dangkao,Roluos,អាចបើកអាជីវកម្មបាន,1,Unknown,88.1,4.1,12.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,0
-450000.0,Villa,Phnom Penh,Sen Sok,Khmuonh,ជីបម៉ុងហ្គ្រេនភ្នំពេញនៅជាប់ក្រសួងដែនដី Queen B2 Villa,1,Unknown,253.0,11.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
-899900.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 1,ជីបម៉ុង271,1,Unknown,322.0,14.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+450000.0,Villa,Phnom Penh,Sen Sok,Khmuonh,Chipmongហ្គ្រេនភ្នំពេញនៅជាប់ក្រសួងដែនដី Queen B2 Villa,1,Unknown,253.0,11.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
+899900.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 1,Chipmong271,1,Unknown,322.0,14.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 26000.0,House,Phnom Penh,Por Senchey,Chaom Chau 2,No Borey,0,Hard Title,100.0,5.0,19.5,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 700000.0,Villa,Kep,Krong Kaeb,Prey Thum,No Borey,0,Unknown,780.0,20.0,39.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 350000.0,House,Kep,Krong Kaeb,Prey Thum,No Borey,0,Unknown,800.0,10.0,51.8,0.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,1
 400000.0,Villa,Kep,Krong Kaeb,Kaeb,No Borey,0,Unknown,900.0,10.0,17.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 165000.0,House,Phnom Penh,Sen Sok,Kouk Khleang,No Borey,0,Hard Title,180.0,10.0,18.0,0.0,3.0,3.0,0,0,0,0,0,0,0,0,0,0,0
-680000.0,House,Phnom Penh,Dangkao,Dangkao,ជីបម៉ុង60ម៉ែត្រ,1,Unknown,253.0,11.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+680000.0,House,Phnom Penh,Dangkao,Dangkao,Chipmong60ម៉ែត្រ,1,Unknown,253.0,11.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 228000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,ប៉េង ហួត ដឹស្តា មេរ៉ាហ្គាដេន,1,Unknown,171.6,7.8,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 149000.0,Villa,Phnom Penh,Chroy Changvar,Chroy Changvar,អ័រគីដេ ដឹប៊ូតានិចសីធី,1,Unknown,160.0,10.0,16.0,0.0,3.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 298000.0,Twin Villa,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 3,ប៉េងហួត,1,Unknown,176.0,8.0,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
@@ -345,7 +345,7 @@
 179000.0,Villa,Phnom Penh,Sen Sok,Tuek Thla,ពិភពថ្មីនៅជាប់ផ្សារ រតនាផ្លាហ្សានិងនៅជិតអាសុីអាគ្នេយ៍,1,Unknown,168.0,8.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 169000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,No Borey,0,Unknown,104.0,5.2,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 287000.0,Villa,Phnom Penh,Dangkao,Prey Sa,ប៉េងហួតដឹស្តាមេរាហ្គាដិន 50ម,1,Unknown,171.6,7.8,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-229000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,ជីបម៉ុងសែនសុខនៅជិតផ្សារអុីអន2 Link House,1,Unknown,200.0,10.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+229000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,Chipmongសែនសុខ,1,Unknown,200.0,10.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 120000.0,Shophouse,Phnom Penh,Por Senchey,Chaom Chau 1,ហុងឡាយត្រពាំងថ្លឹង សង្កាត់ចោមចៅ ខ័ណ្ឌពោធិ៍សែនជ័យ,1,Unknown,86.4,4.1,20.75,0.0,5.0,6.0,0,0,0,0,0,0,1,0,0,0,1
 199000.0,Shophouse,Phnom Penh,Sen Sok,Tuek Thla,No Borey,0,Unknown,177.0,8.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 435000.0,Shophouse,Phnom Penh,Chbar Ampov,Nirouth,No Borey,0,Unknown,132.0,6.0,22.0,0.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,0
@@ -354,7 +354,7 @@
 125000.0,Shophouse,Phnom Penh,Sen Sok,Kouk Khleang,No Borey,0,Unknown,89.64500000000001,4.2,22.25,0.0,3.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 168168.0,Land,Kampong Speu,Phnum Sruoch,Traeng Trayueng,No Borey,0,Unknown,237.16,7.72,18.0,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,1
 500000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,ចន្ទគីរី,1,Unknown,299.0,13.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-269900.0,Shophouse,Phnom Penh,Sen Sok,Phnom Penh Thmei,ជីបម៉ុង សែនសុខ ជិតផ្សារទំនើប អ៊ីអន2,1,Unknown,92.4,4.2,22.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+269900.0,Shophouse,Phnom Penh,Sen Sok,Phnom Penh Thmei,Chipmong សែនសុខ ជិតផ្សារទំនើប អ៊ីអន2,1,Unknown,92.4,4.2,22.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 98000.0,Flat,Phnom Penh,Kamboul,Kamboul,No Borey,0,Unknown,100.0,4.6,20.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 29000.0,Flat,Kandal,Akreiy Ksatr,Akreiy Ksatr,East Land and home,1,Unknown,84.0,4.5,7.7,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,0
 280000.0,Flat,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Unknown,104.6,6.65,15.73,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
@@ -368,7 +368,7 @@
 188000.0,Shophouse,Phnom Penh,Mean Chey,Stueng Mean Chey 1,No Borey,0,Unknown,115.0,4.2,21.0,0.0,4.0,5.0,0,0,0,0,0,0,1,1,0,0,1
 240000.0,Shophouse,Phnom Penh,Russey Keo,Tuol Sangkae 1,No Borey,0,Unknown,116.55,6.3,18.5,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 65000.0,Flat,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Unknown,91.0,4.1,10.0,0.0,4.0,3.0,0,0,0,0,0,0,1,0,0,0,0
-1480000.0,Villa,Phnom Penh,Sen Sok,Khmuonh,ជីបម៉ុងហ្ក្រេន / Corner Queen,1,Unknown,644.0,23.0,28.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
+1480000.0,Villa,Phnom Penh,Sen Sok,Khmuonh,Chipmongហ្ក្រេន,1,Unknown,644.0,23.0,28.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 1400000.0,Villa,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Unknown,300.0,15.0,20.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 185000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,អ័រគីដេវីឡា,1,Unknown,160.0,10.0,16.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 139000.0,Flat,Phnom Penh,Chbar Ampov,Chbar Ampov 1,No Borey,0,Unknown,80.0,4.1,16.0,0.0,2.0,2.0,0,0,0,0,0,0,1,0,0,0,1
@@ -388,7 +388,7 @@
 79000.0,Flat,Phnom Penh,Chroy Changvar,Preaek Lieb,The flora,1,Unknown,81.6,4.5,18.5,0.0,3.0,4.0,0,0,0,0,0,0,1,0,0,0,1
 350000.0,Flat,Phnom Penh,7 Makara,Mittapheap,No Borey,0,Unknown,78.91499999999999,4.0,16.8,0.0,6.0,3.0,0,0,0,0,0,0,1,0,0,0,0
 58800.0,House,Phnom Penh,Dangkao,Spean Thma,No Borey,0,Unknown,119.0,4.2,21.0,0.0,3.0,4.0,0,0,0,0,0,0,1,0,0,0,1
-65800.0,Villa,Phnom Penh,Dangkao,Cheung Aek,អិល វ័ន 🌟,1,Unknown,95.0,5.5,18.85,0.0,3.0,4.0,0,0,0,0,0,0,1,0,0,0,1
+65800.0,Villa,Phnom Penh,Dangkao,Cheung Aek,អិល វ័ន,1,Unknown,95.0,5.5,18.85,0.0,3.0,4.0,0,0,0,0,0,0,1,0,0,0,1
 105000.0,Flat,Phnom Penh,Russey Keo,Svay Pak,វិមានភ្នំពេញ,1,Unknown,66.0,4.0,16.75,0.0,3.0,4.0,0,0,0,0,0,0,1,0,0,0,1
 132500.0,Shophouse,Phnom Penh,Prek Pnov,Preaek Pnov,No Borey,0,Unknown,110.0,4.0,20.5,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 130000.0,House,Phnom Penh,Tuol Kouk,Phsar Depou 1,No Borey,0,Unknown,73.0,4.0,15.3,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
@@ -397,22 +397,22 @@
 52800.0,Flat,Phnom Penh,Por Senchey,Chaom Chau 2,No Borey,0,Unknown,76.0,4.15,16.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 365000.0,Villa,Phnom Penh,Chbar Ampov,Preaek Aeng,ប៉េងហួតគម្រោងអេកូរ៉ូមែនស៍,1,Unknown,259.25,8.5,30.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 155000.0,House,Siem Reap,Banteay Srei,Khun Ream,No Borey,0,Unknown,450.0,15.0,30.0,0.0,2.0,2.0,0,0,0,0,0,0,1,0,0,0,1
-59000.0,Flat,Siem Reap,Siem Reap,Chreav,សៀងណាំចុងកៅស៊ូ សៀមរាប ដែលមានបន្ទប់គេង5 បន្ទប់ទឹក6,1,Unknown,192.0,7.0,26.0,0.0,5.0,6.0,0,0,0,0,0,0,1,0,0,0,1
+59000.0,Flat,Siem Reap,Siem Reap,Chreav,No Borey,1,Unknown,192.0,7.0,26.0,0.0,5.0,6.0,0,0,0,0,0,0,1,0,0,0,1
 63000.0,House,Stung Treng,Stueng Traeng,Stueng Traeng,No Borey,0,Unknown,544.0,17.0,32.0,0.0,1.0,1.0,0,0,0,0,0,0,0,0,0,0,0
-85000.0,Flat,Phnom Penh,Mean Chey,Chak Angrae Kraom,ប៉ែងហួត ចម្ងាយ 50 ពីសាលាសុវណ្ណភូមិ,1,Unknown,67.2,4.2,16.0,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
+85000.0,Flat,Phnom Penh,Mean Chey,Chak Angrae Kraom,ប៉ែងហួត,1,Unknown,67.2,4.2,16.0,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 480000.0,Flat,Phnom Penh,Sen Sok,Khmuonh,No Borey,0,Unknown,94.0,4.2,22.5,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
 150000.0,Villa,Kandal,Akreiy Ksatr,Akreiy Ksatr,No Borey,0,Unknown,88.0,5.5,16.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 66999.0,Shophouse,Battambang,Battambang,Ou Char,No Borey,0,Unknown,97.0,4.2,22.0,0.0,2.0,2.0,0,0,0,0,0,0,1,0,0,0,1
 85000.0,Villa,Phnom Penh,Kamboul,Snao,No Borey,0,Unknown,220.0,10.0,22.0,0.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0
 455000.0,Flat,Phnom Penh,Mean Chey,Stueng Mean Chey 1,No Borey,0,Unknown,87.75,4.0,21.0,0.0,5.0,6.0,0,0,0,0,0,0,1,0,1,0,1
-45000.0,House,Phnom Penh,Dangkao,Spean Thma,VIP នៅ ភូមិ ម៉ឺនត្រា,1,Unknown,18.0,1.5,12.0,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
+45000.0,House,Phnom Penh,Dangkao,Spean Thma,No Borey,1,Unknown,18.0,1.5,12.0,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 165000.0,Villa,Kandal,Ta Khmau,Ta Khmau,No Borey,0,Unknown,225.5,11.0,20.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 85000.0,Flat,Kandal,Ta Khmau,Ta Kdol,No Borey,0,Unknown,90.3,4.2,22.45,0.0,3.0,4.0,0,0,0,0,0,0,1,0,0,0,1
 145000.0,Shophouse,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហួតបឹងស្នោរ,1,Unknown,90.0,4.5,21.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 2000000.0,Villa,Phnom Penh,Chamkar Mon,Tonle Bassac,វីរជន កោះពេជ្រ,1,Unknown,300.0,15.0,20.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 87000.0,Flat,Phnom Penh,Sen Sok,Ou Baek K'am,No Borey,0,Unknown,94.0,4.2,22.5,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 999999.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហួតបឹងស្នោរ,1,Unknown,1006.5,30.5,33.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
-499000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,ជីបម៉ុងលែនផាកលែន 6A,1,Unknown,317.25,13.5,23.5,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+499000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,Chipmongលែនផាកលែន 6A,1,Unknown,317.25,13.5,23.5,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 380000.0,Villa,Phnom Penh,Chbar Ampov,Preaek Aeng,ប៉េងហួតបឹងស្នោរ,1,Unknown,476.0,17.0,28.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 255000.0,Villa,Phnom Penh,Dangkao,Preaek Kampis,Chankiri,1,Unknown,157.5,7.5,21.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 300000.0,Villa,Phnom Penh,Mean Chey,Chak Angrae Kraom,វូតលែន,1,Unknown,150.0,7.5,20.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
@@ -422,7 +422,7 @@
 1800000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,No Borey,0,Unknown,750.0,25.0,30.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 26800.0,Flat,Phnom Penh,Mean Chey,Chak Angrae Leu,No Borey,0,Unknown,144.0,5.3,22.0,0.0,1.0,1.0,0,0,0,0,0,0,1,0,0,0,1
 26500.0,Flat,Phnom Penh,7 Makara,Ou Ruessei 4,No Borey,0,Unknown,78.91499999999999,4.0,15.0,0.0,2.0,2.0,0,0,0,0,0,0,1,0,0,0,1
-195000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,ជីបម៉ុង 598,1,Unknown,115.0,5.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+195000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,Chipmong,1,Unknown,115.0,5.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 800000.0,Villa,Phnom Penh,Russey Keo,Tuol Sangkae 1,កាំកូស៊ីធី,1,Unknown,320.0,16.0,23.0,0.0,6.0,6.0,0,0,0,0,0,0,0,0,0,0,1
 620000.0,Villa,Phnom Penh,Sen Sok,Ou Baek K'am,ភ្នំពេញថ្មី,1,Unknown,320.0,16.0,20.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 470000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,Title,1,Unknown,160.0,8.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
@@ -436,8 +436,8 @@
 1200000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហួត បឹងស្នោរ,1,Unknown,429.0,16.5,26.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 77500.0,Flat,Phnom Penh,Tuol Kouk,Tuek L'ak 1,No Borey,0,Unknown,81.0,5.0,17.5,0.0,2.0,1.0,0,0,0,0,0,0,1,0,0,0,1
 1350000.0,Villa,Phnom Penh,Russey Keo,Tuol Sangkae 1,វិមានភ្នំពេញ,1,Unknown,472.5,17.5,27.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
-650000.0,Villa,Phnom Penh,Sen Sok,Khmuonh,ជីបម៉ុងហ្គ្រេន,1,Unknown,425.5,18.5,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
-2450000.0,Villa,Phnom Penh,Sen Sok,Khmuonh,ជីបម៉ុងលែន ហ្គ្រេនភ្នំពេញ l ខណ្ឌសែនសុខ!,1,Unknown,1122.0,34.0,33.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
+650000.0,Villa,Phnom Penh,Sen Sok,Khmuonh,Chipmongហ្គ្រេន,1,Unknown,425.5,18.5,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
+2450000.0,Villa,Phnom Penh,Sen Sok,Khmuonh,Chipmongលែន ហ្គ្រេនភ្នំពេញ l ខណ្ឌសែនសុខ!,1,Unknown,1122.0,34.0,33.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 75000.0,Villa,Phnom Penh,Kamboul,Snao,ម៉នដានី គម្រោង 10 សង្កាត់ស្នោរ,1,Unknown,200.0,10.0,20.0,0.0,3.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 350000.0,Villa,Kandal,Ta Khmau,Kampong Samnanh,អិមអិលធារ៉ា 50 ម៉ែត្រ,1,Unknown,210.0,10.0,21.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 120000.0,Flat,Phnom Penh,Por Senchey,Kakab 1,No Borey,0,Unknown,105.0,4.2,25.0,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
@@ -481,9 +481,9 @@
 130000.0,Flat,Phnom Penh,Por Senchey,Samraong Kraom,No Borey,0,Unknown,91.0,4.1,20.2,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 90000.0,Flat,Phnom Penh,Russey Keo,Chrang Chamreh 2,No Borey,0,Unknown,96.0,4.2,15.5,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,0
 278800.0,Villa,Phnom Penh,Dangkao,Preaek Kampis,Chankiri Urbanland II,1,Unknown,189.0,10.5,18.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-168000.0,Flat,Phnom Penh,Sen Sok,Kouk Khleang,ពិភពថ្មីឈូកមាស សង្កាត់គោកឃ្លាង ខណ្ឌសែនសុខ រាជធានីភ្នំពេញ,1,Unknown,96.6,4.2,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+168000.0,Flat,Phnom Penh,Sen Sok,Kouk Khleang,Piphobtmey,1,Unknown,96.6,4.2,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 530000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,ភ្នំពេញថ្មី Elite Park 2,1,Unknown,368.0,16.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
-625000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,ជីបម៉ុង,1,Unknown,425.5,18.5,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
+625000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,Chipmong,1,Unknown,425.5,18.5,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
 230000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Ta Sek,មេគង្គរ៉ូយ៉ាល់6អា សង្កាត់ព្រែកតាសេក ខណ្ឌជ្រោយចង្វារ រាជធានីភ្នំពេញ,1,Unknown,189.0,9.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 239000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Ta Sek,អរ័គីដេ6អា សង្កាត់ព្រែកតាសេក ខណ្ឌជ្រោយចង្វារ រាជធានីភ្នំពេញ,1,Unknown,210.0,10.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 738500.0,Villa,Phnom Penh,Sen Sok,Kouk Khleang,មហាសែនសុខ,1,Unknown,600.0,20.0,30.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
@@ -498,7 +498,7 @@
 735000.0,Shophouse,Phnom Penh,Tuol Kouk,Boeng Kak 2,No Borey,0,Unknown,240.0,8.0,30.0,0.0,6.0,7.0,0,0,0,0,0,0,0,1,1,0,0
 680000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,ភ្នំពេញថ្មីអេលីតផាក2 ខណ្ឌសែនសុខ,1,Unknown,330.0,15.0,22.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 700000.0,Shophouse,Phnom Penh,Tuol Kouk,Phsar Daeum Kor,No Borey,0,Unknown,72.41,8.0,23.0,0.0,2.0,2.0,0,0,0,0,0,0,1,0,0,0,0
-120000.0,Flat,Phnom Penh,Sen Sok,Kouk Khleang,ពិភពថ្មីឈូកមាស សង្កាត់គោកឃ្លាង ខណ្ឌសែនសុខ រាជធានីភ្នំពេញ,1,Unknown,96.6,4.2,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+120000.0,Flat,Phnom Penh,Sen Sok,Kouk Khleang,Piphobtmey,1,Unknown,96.6,4.2,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 690000.0,Flat,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Unknown,84.0,4.0,21.0,0.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0
 70000.0,Flat,Phnom Penh,7 Makara,Ou Ruessei 1,No Borey,0,Unknown,64.0,4.0,15.0,0.0,3.0,2.0,0,0,0,0,0,0,1,0,0,0,1
 105000.0,Flat,Phnom Penh,Dangkao,Dangkao,HengKheang,1,Unknown,90.2,4.1,19.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
@@ -520,9 +520,9 @@
 380000.0,Shophouse,Phnom Penh,Dangkao,Dangkao,ជីម៉ុងលែនចំការដូង The Land Rich,1,Unknown,94.5,8.4,16.0,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,0
 898000.0,Shophouse,Phnom Penh,Chbar Ampov,Nirouth,ប៉េង ហួត បឹងស្នោរ,1,Unknown,240.0,10.0,24.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 535000.0,Villa,Phnom Penh,Sen Sok,Kouk Khleang,No Borey,0,Unknown,500.0,20.0,25.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
-199000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,ជីបម៉ុងសែនសុខនៅ ជិតផ្សារអុីអន2 Link House,1,Unknown,100.0,5.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+199000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,Chipmongសែនសុខនៅ ជិតផ្សារអុីអន2 Link House,1,Unknown,100.0,5.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 115000.0,Flat,Phnom Penh,Mean Chey,Boeng Tumpun 2,No Borey,0,Unknown,89.2,4.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
-175000.0,Flat,Phnom Penh,Mean Chey,Boeng Tumpun 2,ជីបម៉ុង,1,Unknown,115.0,5.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+175000.0,Flat,Phnom Penh,Mean Chey,Boeng Tumpun 2,Chipmong,1,Unknown,115.0,5.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 92500.0,Flat,Kampong Speu,Kong Pisei,Angk Popel,No Borey,0,Unknown,90.25,4.1,20.0,0.0,3.0,3.0,0,0,0,0,0,0,1,1,1,0,1
 76000.0,Flat,Phnom Penh,Por Senchey,Chaom Chau 3,សុខចំរើន,1,Unknown,91.0,4.1,20.2,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 360000.0,House,Phnom Penh,Sen Sok,Tuek Thla,No Borey,0,Unknown,96.6,5.0,16.0,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
@@ -547,7 +547,7 @@
 584000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,ប៉េងហួត,1,Unknown,360.0,15.0,24.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
 511000.0,House,Phnom Penh,Chamkar Mon,Phsar Daeum Thkov,No Borey,0,Unknown,175.0,7.0,25.0,0.0,5.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 160000.0,House,Kampong Speu,Samraong Tong,Saen Dei,No Borey,0,Unknown,875.0,25.0,35.0,0.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0
-975000.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 2,ជីបម៉ុង60ម,1,Unknown,460.0,20.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
+975000.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 2,Chipmong60ម,1,Unknown,460.0,20.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 85000.0,Flat,Phnom Penh,Por Senchey,Kakab 1,តាំងកសាង ក្នុងសង្កាត់កាកាបទី1ខណ្ឌពោធិសែនជ័,1,Unknown,63.0,4.5,14.0,0.0,2.0,3.0,0,0,0,0,0,0,0,1,1,0,0
 6999900.0,Villa,Phnom Penh,Tuol Kouk,Boeng Kak 2,No Borey,0,Unknown,2014.5,39.5,51.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
 125000.0,Flat,Phnom Penh,Sen Sok,Phnom Penh Thmei,ពិភពថ្មីសំរោងអណ្ដែត និង 800មពីផ្សារបឹងបៃតង,1,Unknown,120.0,5.0,24.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
@@ -560,7 +560,7 @@
 135000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,L1 ជិត,1,Unknown,184.0,11.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 88800.0,Flat,Phnom Penh,Mean Chey,Stueng Mean Chey 2,No Borey,0,Unknown,89.2,4.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 69900.0,Flat,Phnom Penh,Chroy Changvar,Bak Khaeng,វិមានភ្នំពេញនៅលើ,1,Unknown,100.0,4.2,14.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,0
-162001.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,ជីបម៉ុង598 សង្កាត់ច្រាំងចំរេះទី1 ខណ្ឌឬស្សីកែវ រាជធានីភ្នំពេញ,1,Unknown,115.05,6.5,17.7,0.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,0
+162001.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,Chipmong598 សង្កាត់ច្រាំងចំរេះទី1 ខណ្ឌឬស្សីកែវ រាជធានីភ្នំពេញ,1,Unknown,115.05,6.5,17.7,0.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,0
 150000.0,Flat,Phnom Penh,Por Senchey,Chaom Chau 3,No Borey,0,Unknown,91.0,4.2,16.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,0
 265000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,ប៉េងហ៊ួត មេរ៉ាហ្កាដេន,1,Unknown,179.4,7.8,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 289000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,ទំនាក់ទំនង ម្ចាស់ផ្ទះ 070 222,1,Unknown,184.0,6.0,15.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,0
@@ -628,7 +628,7 @@
 36000.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Unknown,72.5,5.0,19.5,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 1780000.0,Villa,Phnom Penh,Tuol Kouk,Boeng Kak 2,No Borey,0,Unknown,580.0,20.0,29.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
 219000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,អ័រគីដេវីឡា 6A,1,Unknown,210.0,10.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-88000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,🥰,1,Unknown,77.52,5.2,18.5,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
+88000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,No Borey,1,Unknown,77.52,5.2,18.5,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 870000.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 1,ឡុងនី2,1,Unknown,382.5,17.0,22.5,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 350000.0,Flat,Phnom Penh,Sen Sok,Krang Thnong,ពិភពថ្មីផ្សារឈូកមាស,1,Unknown,94.0,4.2,22.5,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 38000.0,Flat,Phnom Penh,Por Senchey,Trapeang Krasang,ម៉នដានី ភូមិអណ្ដូង,1,Unknown,76.0,4.15,16.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,1,0,1
@@ -647,24 +647,22 @@
 233000.0,Shophouse,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Hard Title,86.4,4.1,20.75,0.0,5.0,6.0,0,0,0,0,0,0,1,0,0,0,1
 230500.0,Shophouse,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Hard Title,86.4,4.1,20.75,0.0,5.0,6.0,0,0,0,0,0,0,1,0,0,0,1
 230000.0,Shophouse,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Unknown,86.4,4.1,20.75,0.0,5.0,6.0,0,0,0,0,0,0,1,0,0,0,1
-20000000.0,House,Svay Rieng,Krong Bavet,Bavet,No Borey,0,Unknown,119.0,5.0,19.0,0.0,3.0,3.0,0,0,0,0,0,0,1,1,1,0,1
 52000.0,Shophouse,Kandal,Ta Khmau,Preaek Hour,No Borey,0,Unknown,92.4,4.2,17.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
-9000000.0,House,Svay Rieng,Krong Bavet,Prasat,No Borey,0,Unknown,119.0,5.0,19.0,0.0,3.0,3.0,0,0,0,0,0,0,1,1,1,0,1
 52000.0,Shophouse,Kandal,Ta Khmau,Preaek Hour,L Village Residence,1,Unknown,92.4,4.2,17.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
-460000.0,Villa,Phnom Penh,Dangkao,Prey Sa,ជីបម៉ុង50ម,1,Unknown,299.0,13.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
+460000.0,Villa,Phnom Penh,Dangkao,Prey Sa,Chipmong50ម,1,Unknown,299.0,13.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
 199900.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 1,ប៉េងហួតស្ទឹងមានជ័យ,1,Unknown,90.0,5.0,18.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 17500.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,អ័រគីដេវីឡា 6A,1,Unknown,160.0,10.0,16.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 499999.0,Villa,Phnom Penh,Mean Chey,Chak Angrae Leu,ជីពម៉ុង 60ម៉ែត្រ,1,Hard Title,322.0,14.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
 699900.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហួតបឹងស្នោ,1,Unknown,325.89,12.78,25.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-399000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,ជីបម៉ុងសែនសុខ,1,Unknown,302.0,16.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,1,1,1,0,1
+399000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,Chipmongសែនសុខ,1,Unknown,302.0,16.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,1,1,1,0,1
 102000.0,House,Phnom Penh,Chbar Ampov,Nirouth,No Borey,0,Unknown,199.0,8.0,19.0,0.0,3.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 999999.0,Villa,Phnom Penh,Sen Sok,Khmuonh,Angkor Phnom Penh,1,Unknown,368.0,16.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
-580000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,ជីបម៉ុង,1,Unknown,322.0,14.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+580000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,Chipmong,1,Unknown,322.0,14.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 380000.0,Villa,Phnom Penh,Chbar Ampov,Preaek Aeng,No Borey,0,Unknown,510.0,17.0,30.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 182000.0,House,Phnom Penh,Chbar Ampov,Veal Sbov,ប៉េង ហួត បឹងស្នោរ ច្បារអំពៅ,1,Unknown,100.0,5.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 96500.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 3,ធូលន,1,Unknown,102.5,5.0,20.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 147000.0,Flat,Phnom Penh,Dangkao,Dangkao,ពិភពថ្មីចំការដូង1 E0E1E2,1,Unknown,109.44,5.3,22.0,0.0,5.0,6.0,0,0,0,0,0,0,1,0,0,0,1
-159900.0,Villa,Phnom Penh,Por Senchey,Kakab 2,ជីបម៉ុង លែនពោធិ៍ចិនតុង,1,Unknown,100.0,5.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+159900.0,Villa,Phnom Penh,Por Senchey,Kakab 2,Chipmong លែនពោធិ៍ចិនតុង,1,Unknown,100.0,5.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 68000.0,House,Phnom Penh,Por Senchey,Chaom Chau 2,No Borey,0,Unknown,131.0,8.1,18.4,0.0,3.0,4.0,0,0,0,0,0,0,1,0,0,0,1
 63000.0,Flat,Battambang,Battambang,Rotanak,No Borey,0,Unknown,130.0,4.2,18.5,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,0
 68000.0,Flat,Phnom Penh,Kamboul,Kamboul,No Borey,0,Unknown,82.0,4.5,20.0,0.0,2.0,3.0,0,0,0,0,0,0,1,1,1,0,1
@@ -714,7 +712,7 @@
 850000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,No Borey,0,Unknown,600.0,20.0,30.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 77888.0,House,Phnom Penh,Dangkao,Preaek Kampis,ពិភពថ្មីគួស្រូវ2 ត្រឹម100ម ពីផ្សារ,1,Unknown,88.0,4.0,15.1,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 67888.0,Flat,Phnom Penh,Chbar Ampov,Veal Sbov,ភ្នំមាស វាលស្បូវ,1,Unknown,80.0,4.1,16.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
-325000.0,Villa,Phnom Penh,Dangkao,Prey Sa,ជីបម៉ុង50ម ចំការដូង,1,Unknown,253.0,11.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+325000.0,Villa,Phnom Penh,Dangkao,Prey Sa,Chipmong50ម ចំការដូង,1,Unknown,253.0,11.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 53000.0,Flat,Phnom Penh,Dangkao,Dangkao,No Borey,0,Unknown,90.3,4.2,21.5,0.0,3.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 200000.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 1,ប៉េងហួតស្ទឹងមានជ័យ,1,Unknown,160.0,8.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 60000.0,Flat,Phnom Penh,Mean Chey,Chak Angrae Kraom,No Borey,0,Unknown,114.0,6.0,19.0,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
@@ -743,19 +741,19 @@
 180000.0,Shophouse,Phnom Penh,Dangkao,Dangkao,ប៉េងអ៊ីម,1,Unknown,168.75,7.5,22.5,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 239000.0,Shophouse,Phnom Penh,Russey Keo,Chrang Chamreh 1,ជីប ម៉ុង598,1,Unknown,79.8,4.2,19.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 1200000.0,Villa,Phnom Penh,Tuol Kouk,Boeng Kak 2,ប៉េងហួតបឹងស្នោរ,1,Unknown,300.0,10.0,30.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
-205000.0,Link House,Phnom Penh,Russey Keo,Chrang Chamreh 2,ជីបម៉ុង 598 សង្កាត់ច្រាំងចំរេះ2 ខណ្ឌ,1,Unknown,115.0,5.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+205000.0,Link House,Phnom Penh,Russey Keo,Chrang Chamreh 2,Chipmong,1,Unknown,115.0,5.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 320000.0,Shophouse,Phnom Penh,Russey Keo,Chrang Chamreh 2,វិមានភ្នំពេញ598 គម្រោងទី12 សង្កាត់ច្រាំងចំរេះទី2 ខណ្ឌឬស្សីកែវ,1,Unknown,103.2,4.3,24.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,0,0,0
 98000.0,Flat,Phnom Penh,Chbar Ampov,Veal Sbov,ហុកលីវាលស្បូវ ផ្ទះបែរមុខទៅជើងឈៀងកើតត្រជាក់ល្អ ទំហំ 4,1,Unknown,80.0,4.1,16.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
-450000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,ជីបម៉ុង,1,Unknown,333.5,14.5,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
-550000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,ជីបម៉ុង,1,Unknown,322.0,14.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
-82000.0,Flat,Phnom Penh,Mean Chey,Boeng Tumpun 1,999 ជា,1,Unknown,144.0,4.0,36.0,0.0,1.0,2.0,0,0,0,0,0,0,0,0,0,0,0
-990000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 2,ជីបម៉ុង 598 សង្កាត់ច្រាំងចំរេះទី2 ខណ្ឌឬស្សីកែវ,1,Unknown,506.0,22.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
+450000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,Chipmong,1,Unknown,333.5,14.5,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+550000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,Chipmong,1,Unknown,322.0,14.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+82000.0,Flat,Phnom Penh,Mean Chey,Boeng Tumpun 1,No Borey,1,Unknown,144.0,4.0,36.0,0.0,1.0,2.0,0,0,0,0,0,0,0,0,0,0,0
+990000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 2,Chipmong 598 សង្កាត់ច្រាំងចំរេះទី2 ខណ្ឌឬស្សីកែវ,1,Unknown,506.0,22.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 48000.0,House,Pailin,Sala Krau,Stueng Kach,No Borey,0,Unknown,90.5,4.2,16.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 179000.0,Shophouse,Phnom Penh,Chroy Changvar,Chroy Changvar,អ័រគីដេ,1,Unknown,101.0,4.5,18.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,0
-190000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,វិមានភ្នំពេញ គម្រោងទី4 សង្កាត់ច្រាំងចំរេះទី1 ខណ្ឌឬស្សីកែវ,1,Unknown,115.5,5.5,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-160000.0,Flat,Phnom Penh,Sen Sok,Kouk Khleang,ពិភពថ្មីឈូកមាស សង្កាត់គោកឃ្លាង ខណ្ឌសែនសុខ រាជធានីភ្នំពេញ,1,Unknown,94.3,4.1,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+190000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,Vimean Phnom Penh,1,Unknown,115.5,5.5,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+160000.0,Flat,Phnom Penh,Sen Sok,Kouk Khleang,Piphobtmey,1,Unknown,94.3,4.1,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 186000.0,Flat,Phnom Penh,Chroy Changvar,Chroy Changvar,ប៉េងហួត,1,Unknown,85.5,4.5,19.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-145000.0,Flat,Phnom Penh,Sen Sok,Kouk Khleang,ពិភពថ្មីឈូកមាស សង្កាត់គោកឃ្លាង ខណ្ឌសែនសុខ រាជធានីភ្នំពេញ,1,Unknown,94.3,4.1,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+145000.0,Flat,Phnom Penh,Sen Sok,Kouk Khleang,Piphobtmey,1,Unknown,94.3,4.1,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 189999.0,Villa,Phnom Penh,Russey Keo,Russey Keo,ប៉េងហួត,1,Unknown,80.0,5.0,16.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 1080000.0,Shophouse,Phnom Penh,Chbar Ampov,Nirouth,នេះ ទាំងស្អាត មានសុវត្ថភាព,1,Hard Title,90.0,10.0,16.0,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,0
 181000.0,House,Phnom Penh,Por Senchey,Chaom Chau 3,No Borey,0,Unknown,265.0,10.0,26.5,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
@@ -764,7 +762,7 @@
 78000.0,Shophouse,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Unknown,135.5,5.0,14.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,0
 389000.0,House,Phnom Penh,Mean Chey,Boeng Tumpun 1,No Borey,0,Unknown,260.0,13.0,20.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 165000.0,Flat,Phnom Penh,Por Senchey,Chaom Chau 2,No Borey,0,Unknown,161.6,8.0,20.2,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
-2420000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 2,ជីបម៉ុងហ្គ្រែនភ្នំពេញ / King Villa,1,Unknown,444.0,21.0,14.5,0.0,6.0,8.0,0,0,0,0,0,0,1,0,1,0,0
+2420000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 2,Chipmongហ្គ្រែនភ្នំពេញ / King Villa,1,Unknown,444.0,21.0,14.5,0.0,6.0,8.0,0,0,0,0,0,0,1,0,1,0,0
 42500.0,Villa,Kandal,Ta Khmau,Ta Khmau,No Borey,0,Unknown,210.0,10.0,21.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 230000.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 2,ឡុងនី2,1,Unknown,154.0,7.0,22.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 615000.0,Villa,Phnom Penh,Chbar Ampov,Veal Sbov,ប៉េង ហួត បឹងស្នោរ,1,Unknown,270.0,12.0,22.5,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
@@ -786,9 +784,9 @@
 45635.0,House,Phnom Penh,Prek Pnov,Kouk Roka,តែម្តង,1,Unknown,90.5,5.0,12.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 54000.0,House,Phnom Penh,Dangkao,Prey Sa,No Borey,0,Unknown,119.0,4.2,21.0,0.0,2.0,2.0,0,0,0,0,0,0,1,1,1,0,1
 159900.0,Flat,Phnom Penh,Sen Sok,Krang Thnong,ពិភពថ្មីឈូកមាស,1,Unknown,99.0,4.5,22.0,0.0,6.0,6.0,0,0,0,0,0,0,0,0,1,0,0
-944999.0,Villa,Phnom Penh,Dangkao,Dangkao,ជីបម៉ុង,1,Unknown,460.0,20.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
+944999.0,Villa,Phnom Penh,Dangkao,Dangkao,Chipmong,1,Unknown,460.0,20.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 125000.0,House,Preah Sihanouk,Krong Preah Sihanouk,Sangkat 4,Lorn City O4,1,Unknown,134.415,7.5,18.5,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
-179000.0,Shophouse,Phnom Penh,Dangkao,Prey Sa,ជីបម៉ុង50ម,1,Unknown,114.8,5.6,20.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+179000.0,Shophouse,Phnom Penh,Dangkao,Prey Sa,Chipmong50ម,1,Unknown,114.8,5.6,20.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 72500.0,Shophouse,Phnom Penh,Dangkao,Krang Pongro,ពិភពថ្មី,1,Unknown,73.8,4.1,18.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 56000.0,Flat,Kandal,Mukh Kampul,Preaek Anhchanh,វិមានភ្នំពេញ ព្រែកអញ្ជាញ,1,Unknown,88.2,4.2,21.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 2300000.0,Villa,Phnom Penh,Boeng Keng Kang,Tuol Svay Prey 1,No Borey,0,Unknown,475.0,19.0,25.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
@@ -815,7 +813,7 @@
 250000.0,Villa,Preah Sihanouk,Krong Preah Sihanouk,Sangkat 4,No Borey,0,Unknown,130.0,5.3,19.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,1
 95000.0,Flat,Phnom Penh,Chbar Ampov,Chbar Ampov 1,No Borey,0,Unknown,90.3,4.45,21.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 9950.0,House,Tboung Khmum,Dambae,Chong Cheach,No Borey,0,Unknown,120.0,5.0,24.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
-259000.0,Villa,Phnom Penh,Dangkao,Prey Sa,ជីបម៉ុង 50m,1,Unknown,184.0,8.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+259000.0,Villa,Phnom Penh,Dangkao,Prey Sa,Chipmong 50m,1,Unknown,184.0,8.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 109000.0,House,Phnom Penh,Russey Keo,Chrang Chamreh 2,ប៉េងហួត ជាសុផារ៉ា 598,1,Unknown,69.87,5.1,13.7,0.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,0
 169900.0,Villa,Phnom Penh,Sen Sok,Krang Thnong,ពិភពថ្មី សំរោងអណ្ដែត,1,Unknown,147.0,7.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 290000.0,Shophouse,Phnom Penh,Prek Pnov,Preaek Pnov,No Borey,0,Unknown,180.0,6.0,30.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
@@ -835,15 +833,15 @@
 109000.0,House,Phnom Penh,Sen Sok,Krang Thnong,ងាយស្រួលទទួលបាន កម្ចីពីធនាគារ,1,Unknown,87.29,4.3,20.3,0.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,0
 50000.0,House,Kampot,Kampot,Kampong Bay,No Borey,0,Unknown,45.0,9.0,5.0,0.0,1.0,2.0,0,0,0,0,0,0,0,0,0,0,0
 60000.0,House,Kampot,Kampot,Andoung Khmaer,No Borey,0,Unknown,191.0,7.5,18.5,0.0,2.0,2.0,0,0,0,0,0,0,0,0,0,0,1
-679000.0,Villa,Phnom Penh,Russey Keo,Russey Keo,ជីបម៉ុង 598,1,Unknown,425.5,18.5,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
-650000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,ជីបម៉ុង ដឹផាកលែន,1,Unknown,425.5,18.5,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
+679000.0,Villa,Phnom Penh,Russey Keo,Russey Keo,Chipmong 598,1,Unknown,425.5,18.5,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
+650000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,Chipmong ដឹផាកលែន,1,Unknown,425.5,18.5,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
 285000.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 1,No Borey,0,Unknown,225.0,9.0,25.0,0.0,2.0,4.0,0,0,0,0,0,0,0,0,0,0,0
-118000.0,Shophouse,Phnom Penh,Por Senchey,Chaom Chau 1,ជីបម៉ុងទួលពង្រ,1,Unknown,109.2,4.2,26.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+118000.0,Shophouse,Phnom Penh,Por Senchey,Chaom Chau 1,Chipmongទួលពង្រ,1,Unknown,109.2,4.2,26.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 55000.0,Shophouse,Kampot,Kampot,Andoung Khmaer,No Borey,0,Unknown,171.0,6.0,15.0,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 55000.0,Flat,Phnom Penh,7 Makara,Ou Ruessei 2,No Borey,0,Unknown,98.9,4.3,23.0,0.0,1.0,1.0,0,0,0,0,0,0,0,0,0,0,0
 40000.0,Shophouse,Kampot,Kampot,Krang Ampil,No Borey,0,Unknown,171.0,6.0,15.0,0.0,2.0,2.0,0,0,0,0,0,0,1,0,0,0,0
 280000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,No Borey,0,Unknown,165.0,7.5,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-710000.0,Villa,Phnom Penh,Chroy Changvar,Bak Khaeng,ជីបម៉ុង6A ផ្ទះថ្មី,1,Unknown,491.0,21.58,28.0,0.0,6.0,8.0,0,0,0,0,0,0,1,0,1,0,1
+710000.0,Villa,Phnom Penh,Chroy Changvar,Bak Khaeng,Chipmong6A ផ្ទះថ្មី,1,Unknown,491.0,21.58,28.0,0.0,6.0,8.0,0,0,0,0,0,0,1,0,1,0,1
 390000.0,Villa,Kandal,Mukh Kampul,Sambuor Meas,No Borey,0,Unknown,118.3,4.7,22.5,0.0,2.0,2.0,0,0,0,0,0,0,1,0,0,0,1
 450000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,Chip Mong 598,1,Unknown,253.0,11.0,23.0,0.0,6.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 150000.0,Flat,Phnom Penh,Tuol Kouk,Tuek L'ak 3,No Borey,0,Unknown,78.93,4.2,16.0,0.0,3.0,3.0,0,0,0,0,0,0,1,0,0,0,1
@@ -855,7 +853,7 @@
 95000.0,Villa,Preah Sihanouk,Krong Preah Sihanouk,Sangkat 4,No Borey,0,Unknown,184.5,9.0,20.0,0.0,4.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 150000.0,Shophouse,Phnom Penh,Chbar Ampov,Chbar Ampov 2,No Borey,0,Unknown,90.0,4.5,21.0,0.0,1.0,1.0,0,0,0,0,0,0,1,0,0,0,1
 429900.0,Villa,Phnom Penh,Sen Sok,Krang Thnong,វ៉ារីណា ក្រាំងធ្នង់,1,Unknown,344.0,16.0,21.5,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
-249900.0,Villa,Phnom Penh,Sen Sok,Kouk Khleang,អ័រគីដេពោធិ៍ចិនតុង,1,Unknown,160.0,8.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+249900.0,Villa,Phnom Penh,Sen Sok,Kouk Khleang,Orkide,1,Unknown,160.0,8.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 160000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,ហាយធិចចំប៉ាក្បាលកោះ,1,Unknown,168.0,7.0,24.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 163000.0,Flat,Phnom Penh,Mean Chey,Boeng Tumpun 1,No Borey,0,Unknown,87.75,4.0,21.0,0.0,5.0,4.0,0,0,0,0,0,0,1,0,0,0,1
 36500.0,Flat,Phnom Penh,Kamboul,Kamboul,No Borey,0,Unknown,80.0,4.05,16.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
@@ -916,11 +914,11 @@
 127000.0,Shophouse,Phnom Penh,Sen Sok,Tuek Thla,ពិភពថ្មីនៅជិតផ្សាររតនាផ្លាហ្សា SH,1,Unknown,92.0,4.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 109000.0,House,Phnom Penh,Mean Chey,Chak Angrae Kraom,No Borey,0,Unknown,143.0,6.5,22.0,0.0,4.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 25000.0,Flat,Phnom Penh,Prek Pnov,Ponsang,No Borey,0,Unknown,89.0,4.15,21.1,0.0,3.0,2.0,0,0,0,0,0,0,1,0,0,0,1
-259000.0,Shophouse,Phnom Penh,Sen Sok,Phnom Penh Thmei,ជីបម៉ុងសែនសុខ Shop House,1,Unknown,92.0,4.0,23.0,0.0,5.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+259000.0,Shophouse,Phnom Penh,Sen Sok,Phnom Penh Thmei,Chipmongសែនសុខ Shop House,1,Unknown,92.0,4.0,23.0,0.0,5.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 219900.0,Villa,Phnom Penh,Sen Sok,Krang Thnong,វ៉ារីណា ដឹសែនសុខ,1,Unknown,160.0,8.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 600000.0,Villa,Phnom Penh,Mean Chey,Boeng Tumpun 1,No Borey,0,Unknown,920.0,23.0,40.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
 159900.0,Flat,Phnom Penh,Por Senchey,Chaom Chau 2,No Borey,0,Unknown,188.6,8.2,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-229000.0,Shophouse,Phnom Penh,Sen Sok,Krang Thnong,អ័រគីដេពោធិ៍ចិនតុង,1,Unknown,117.0,4.5,26.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+229000.0,Shophouse,Phnom Penh,Sen Sok,Krang Thnong,Orkide,1,Unknown,117.0,4.5,26.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 93000.0,House,Phnom Penh,Russey Keo,Russey Keo,No Borey,0,Unknown,98.5,4.5,20.1,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 52000.0,Flat,Phnom Penh,Kamboul,Kamboul,ពិភពថ្មីកំបូល1,1,Unknown,80.0,4.2,16.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,0
 230000.0,Villa,Phnom Penh,Chbar Ampov,Preaek Aeng,No Borey,0,Unknown,243.0,13.5,18.0,0.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0
@@ -1002,7 +1000,7 @@
 75000.0,Shophouse,Phnom Penh,Dangkao,Roluos,No Borey,0,Unknown,52.0,4.0,13.0,0.0,2.0,2.0,0,0,0,0,0,0,0,0,0,0,0
 380000.0,Villa,Phnom Penh,Chbar Ampov,Preaek Aeng,ប៉េងហ៊ួតបឹងស្នោរ សង្កាត់ព្រែកឯង ខណ្ឌច្បារអំពៅ ភ្នំពេញ,1,Unknown,476.0,17.0,28.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
 76000.0,Flat,Phnom Penh,Chbar Ampov,Veal Sbov,វាលស្បូវ ច្បារអំពៅ,1,Hard Title,84.0,4.0,21.0,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
-135000.0,House,Phnom Penh,Dangkao,Prey Sa,ជីបម៉ុង,1,Unknown,163.0,4.2,16.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,0
+135000.0,House,Phnom Penh,Dangkao,Prey Sa,Chipmong,1,Unknown,163.0,4.2,16.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,0
 125000.0,Villa,Phnom Penh,Chbar Ampov,Preaek Aeng,សម្បត្តិមានហេង3,1,Unknown,102.6,6.0,17.1,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 155000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,ហាយធិចតាងៅ,1,Unknown,98.6,5.8,17.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 820000.0,Villa,Phnom Penh,Chbar Ampov,Veal Sbov,ប៉េងហួតបឹងស្នោ,1,Unknown,442.8,16.4,27.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
@@ -1028,8 +1026,8 @@
 440000.0,Twin Villa,Phnom Penh,Russey Keo,Chrang Chamreh 2,វិមានភ្នំពេញក្បែរផ្សារទំនើបAeon2 សង្កាត់ច្រាំងចំរេះទី2 ខណ្ឌឬស្សីកែវ គម្រោងទី2,1,Unknown,315.0,15.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 26900.0,Flat,Kandal,Popnhea Lueu,Preaek Ta Teaen,សែនមនោរម្យ តាទែន,1,Unknown,88.23,5.1,17.3,0.0,2.0,2.0,0,0,0,0,0,0,0,0,0,0,0
 90000.0,Flat,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Unknown,92.0,4.1,20.2,0.0,5.0,4.0,0,0,0,0,0,0,1,0,0,0,1
-450000.0,Villa,Phnom Penh,Dangkao,Dangkao,ជីបម៉ុង50ម,1,Unknown,287.5,12.5,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
-205000.0,Shophouse,Phnom Penh,Sen Sok,Krang Thnong,អ័រគីដេពោធិ៍ចិនតុង,1,Unknown,126.0,4.5,28.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+450000.0,Villa,Phnom Penh,Dangkao,Dangkao,Chipmong50ម,1,Unknown,287.5,12.5,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
+205000.0,Shophouse,Phnom Penh,Sen Sok,Krang Thnong,Orkide,1,Unknown,126.0,4.5,28.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 130000.0,Shophouse,Phnom Penh,Dangkao,Dangkao,HP ចំការដូង3,1,Unknown,92.25,4.1,22.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 225000.0,Shophouse,Phnom Penh,Sen Sok,Krang Thnong,ខេស៊ី,1,Unknown,104.0,4.0,26.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 380000.0,Flat,Phnom Penh,Boeng Keng Kang,Tuol Svay Prey 1,No Borey,0,Unknown,101.5,4.0,16.0,0.0,5.0,4.0,0,0,0,0,0,0,1,0,0,0,0
@@ -1041,7 +1039,7 @@
 71500.0,Flat,Phnom Penh,Dangkao,Prey Sa,Malis Soksan ព្រៃស ខណ្ឌដង្កោ,1,Unknown,88.1,4.1,19.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 115000.0,House,Phnom Penh,Russey Keo,Tuol Sangkae 2,មង្គលភ្នំពេញ,1,Unknown,77.9,4.1,19.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 30000.0,House,Phnom Penh,Por Senchey,Chaom Chau 2,No Borey,0,Unknown,125.0,8.1,18.4,0.0,1.0,1.0,0,0,0,0,0,0,1,0,0,0,1
-289000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,ជីបម៉ុង 598,1,Unknown,172.5,7.5,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+289000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,Chipmong 598,1,Unknown,172.5,7.5,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 379000.0,Twin Villa,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហួតបឹងស្នោ,1,Unknown,192.0,8.0,24.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 315000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហួតបឹងស្នោ,1,Unknown,176.0,8.0,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 200000.0,Flat,Phnom Penh,Por Senchey,Chaom Chau 2,No Borey,0,Unknown,123.75,4.5,27.5,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
@@ -1066,7 +1064,7 @@
 97000.0,House,Phnom Penh,Sen Sok,Krang Thnong,ពិភពថ្មី សំរោងអណ្ដែត,1,Unknown,96.6,5.0,16.0,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
 185000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,ភ្នំពេញផាក 6A,1,Unknown,107.1,5.1,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 155000.0,Villa,Kandal,Mukh Kampul,Preaek Anhchanh,វិមាន ភ្នំពេញ,1,Unknown,231.0,11.0,21.0,0.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0
-175000.0,Shophouse,Phnom Penh,Sen Sok,Phnom Penh Thmei,ជីបម៉ុង #Orkide#បុរីវិមានភ្នំពេញ#បុរីដឹព្រីមៀរ៍#ភ្នំពេញថ្មី #SenSok #Russeykeo,1,Unknown,96.6,4.2,22.25,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
+175000.0,Shophouse,Phnom Penh,Sen Sok,Phnom Penh Thmei,Chipmong #Orkide#បុរីវិមានភ្នំពេញ#បុរីដឹព្រីមៀរ៍#ភ្នំពេញថ្មី #SenSok #Russeykeo,1,Unknown,96.6,4.2,22.25,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
 245000.0,Twin Villa,Phnom Penh,Chroy Changvar,Preaek Ta Sek,អ័រគីដេ វីឡា ដឹប៊ូតានិច ស៊ីធី,1,Unknown,210.0,10.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 100000.0,House,Phnom Penh,Sen Sok,Phnom Penh Thmei,អ័រគីដេ 2004,1,Unknown,96.6,5.0,16.0,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
 210000.0,Shophouse,Phnom Penh,Sen Sok,Phnom Penh Thmei,ភ្នំពេញថ្មីផាកសុីធី,1,Unknown,100.8,4.2,24.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
@@ -1098,7 +1096,7 @@
 85000.0,Villa,Kandal,Mukh Kampul,Preaek Anhchanh,វិមានភ្នំពេញ 6A,1,Unknown,119.6,5.2,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 118000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,ជីប ម៉ុង ផាកលែន 6A,1,Unknown,65.1,4.2,15.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 100000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,ប៉េងហួត,1,Unknown,71.24,5.2,13.7,0.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,0
-153000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 2,ជីបម៉ុងផាកលែន598,1,Unknown,90.0,5.0,18.0,0.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,0
+153000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 2,Chipmongផាកលែន598,1,Unknown,90.0,5.0,18.0,0.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,0
 590000.0,Villa,Siem Reap,Prasat Bakong,Bakong,No Borey,0,Unknown,620.0,20.0,31.0,0.0,8.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 1300000.0,House,Phnom Penh,Chamkar Mon,Tuol Tumpung 2,No Borey,0,Unknown,221.0,13.0,17.0,0.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0
 269000.0,House,Phnom Penh,Tuol Kouk,Phsar Depou 3,No Borey,0,Unknown,82.0,4.0,20.5,0.0,4.0,3.0,0,0,0,0,0,0,0,0,0,0,0
@@ -1134,7 +1132,7 @@
 199000.0,Villa,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,189.0,10.0,21.5,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 225000.0,Flat,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,121.6,4.6,21.0,0.0,3.0,1.0,0,0,0,0,0,0,1,0,0,0,1
 270000.0,Shophouse,Phnom Penh,Sen Sok,Phnom Penh Thmei,No Borey,0,Unknown,192.4,5.2,37.0,0.0,5.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-180000.0,House,Phnom Penh,Sen Sok,Khmuonh,ជីបម៉ុងសែនសុខ ជិត Aeon2,1,Unknown,100.0,5.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+180000.0,House,Phnom Penh,Sen Sok,Khmuonh,Chipmongសែនសុខ ជិត Aeon2,1,Unknown,100.0,5.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 380000.0,Shophouse,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហួតបឹងស្នោ,1,Unknown,120.0,5.0,24.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 230000.0,Shophouse,Phnom Penh,Chroy Changvar,Preaek Ta Sek,អរគីដេ6អា សង្កាត់ព្រែកតាសេក,1,Unknown,105.0,4.2,25.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 157000.0,Shophouse,Phnom Penh,Chbar Ampov,Veal Sbov,ប៉េងហួត បឹងស្នោ,1,Unknown,97.5,4.2,10.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,0
@@ -1168,7 +1166,7 @@
 290000.0,Shophouse,Phnom Penh,Mean Chey,Boeng Tumpun 2,តូចធំជាច្រើន,1,Unknown,104.0,5.0,20.8,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 68888.0,House,Kandal,Kien Svay,Kokir,ខេ អេស កៀនស្វាយ,1,Unknown,119.0,5.0,19.0,0.0,3.0,3.0,0,0,0,0,0,0,1,1,1,0,1
 80000.0,Flat,Kandal,Ta Khmau,Ta Khmau,ពិភពថ្មី តាខ្មៅគម្រោងទី1,1,Unknown,42.0,4.1,13.25,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
-347000.0,Villa,Phnom Penh,Dangkao,Prey Sa,ជីបម៉ុង50ម,1,Unknown,253.0,11.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+347000.0,Villa,Phnom Penh,Dangkao,Prey Sa,Chipmong50ម,1,Unknown,253.0,11.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 635000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហួត បឹងស្នោ,1,Unknown,288.0,12.0,24.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 145000.0,Flat,Phnom Penh,Por Senchey,Kakab 2,No Borey,0,Unknown,104.0,4.1,20.2,0.0,6.0,6.0,0,0,0,0,0,0,0,0,0,0,1
 145000.0,House,Phnom Penh,Por Senchey,Kakab 2,No Borey,0,Unknown,104.0,5.0,19.5,0.0,6.0,6.0,0,0,0,0,0,0,0,0,0,0,1
@@ -1238,7 +1236,7 @@
 580000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Ta Sek,អ័រគីដេ,1,Unknown,420.0,20.0,21.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 67800.0,Flat,Phnom Penh,Kamboul,Kantaok,No Borey,0,Unknown,80.0,4.05,16.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 850000.0,Villa,Phnom Penh,Mean Chey,Boeng Tumpun 1,ប៉េសេ,1,Unknown,420.0,20.0,21.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
-599000.0,Shophouse,Phnom Penh,Mean Chey,Chak Angrae Kraom,ជីបម៉ុង 271,1,Unknown,148.5,5.5,27.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
+599000.0,Shophouse,Phnom Penh,Mean Chey,Chak Angrae Kraom,Chipmong 271,1,Unknown,148.5,5.5,27.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
 120000.0,Flat,Phnom Penh,Mean Chey,Stueng Mean Chey 3,No Borey,0,Unknown,80.0,4.0,20.0,0.0,5.0,4.0,0,0,0,0,0,0,0,0,0,0,0
 13000.0,House,Preah Sihanouk,Krong Preah Sihanouk,Sangkat 1,No Borey,0,Unknown,190.0,7.5,18.5,0.0,1.0,1.0,0,0,0,0,0,0,1,0,0,0,1
 139900.0,Flat,Phnom Penh,Mean Chey,Stueng Mean Chey 1,ភ្នំមាសចំការដូង,1,Unknown,91.14,4.2,21.7,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
@@ -1263,13 +1261,13 @@
 230000.0,Villa,Phnom Penh,Mean Chey,Chak Angrae Kraom,999,1,Unknown,161.25,7.5,21.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 95000.0,Flat,Phnom Penh,Por Senchey,Chaom Chau 1,ហុងឡាយទួលពង្រ,1,Unknown,95.4,4.5,21.2,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 179000.0,Shophouse,Phnom Penh,Mean Chey,Chak Angrae Leu,ភ្នំពេញថ្មី,1,Unknown,94.5,4.2,22.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-490000.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 1,ជីបម៉ុងលែន 60ម,1,Unknown,218.5,9.5,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-1198000.0,Shophouse,Phnom Penh,Mean Chey,Chak Angrae Kraom,ជីបម៉ុង 271,1,Unknown,297.0,11.0,27.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
+490000.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 1,Chipmongលែន 60ម,1,Unknown,218.5,9.5,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+1198000.0,Shophouse,Phnom Penh,Mean Chey,Chak Angrae Kraom,Chipmong 271,1,Unknown,297.0,11.0,27.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
 150000.0,Flat,Phnom Penh,Por Senchey,Chaom Chau 1,ហុងឡាយទួលពង្រ,1,Unknown,88.15,4.1,21.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-659900.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 1,ជីបម៉ុងលែន60ម,1,Unknown,253.0,11.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+659900.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 1,Chipmongលែន60ម,1,Unknown,253.0,11.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 370000.0,Shophouse,Phnom Penh,Mean Chey,Chak Angrae Kraom,Woodland Residence 60ម,1,Unknown,118.25,5.5,21.5,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 340000.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 1,ប៉េងហួត60ម,1,Unknown,192.75,7.5,25.7,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-489000.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 1,ជីបម៉ុង271,1,Unknown,176.0,8.0,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+489000.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 1,Chipmong271,1,Unknown,176.0,8.0,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 125000.0,Flat,Phnom Penh,Mean Chey,Stueng Mean Chey 1,ហុងឡាយ ក្រោយផ្សារលូប្រាំ,1,Unknown,90.2,4.1,22.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 900000.0,House,Phnom Penh,Mean Chey,Boeng Tumpun 1,No Borey,0,Unknown,708.4,15.4,46.0,0.0,1.0,1.0,0,0,0,0,0,0,0,0,0,0,0
 85000.0,Flat,Phnom Penh,Mean Chey,Boeng Tumpun 1,No Borey,0,Unknown,70.0,4.0,17.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
@@ -1297,13 +1295,13 @@
 150000.0,House,Phnom Penh,Kamboul,Kantaok,No Borey,0,Unknown,107.035,5.425,19.25,0.0,2.0,2.0,0,0,0,0,0,0,1,0,1,0,1
 690000.0,Villa,Kandal,Angk Snuol,Baek Chan,No Borey,0,Unknown,300.0,15.0,20.0,0.0,6.0,4.0,0,0,0,0,0,0,1,0,0,0,1
 1300000.0,Villa,Phnom Penh,Chbar Ampov,Veal Sbov,No Borey,0,Unknown,835.0,21.4,30.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,1
-725000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,ជីបម៉ុង598,1,Unknown,444.0,18.5,24.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
+725000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,Chipmong598,1,Unknown,444.0,18.5,24.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 210000.0,Flat,Phnom Penh,Russey Keo,Tuol Sangkae 1,No Borey,0,Unknown,94.0,5.0,17.0,0.0,5.0,5.0,0,0,0,0,0,0,1,0,0,0,0
-1350000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,ជីបម៉ុងលែនម៉ាក 60m,1,Unknown,460.0,20.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+1350000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,Chipmongលែនម៉ាក 60m,1,Unknown,460.0,20.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 75000.0,House,Siem Reap,Siem Reap,Sala Kamraeuk,No Borey,0,Unknown,200.0,10.0,20.0,0.0,1.0,1.0,0,0,0,0,0,0,0,0,0,0,0
 68000.0,House,Siem Reap,Siem Reap,Sala Kamraeuk,No Borey,0,Unknown,250.0,10.0,25.0,0.0,1.0,1.0,0,0,0,0,0,0,0,0,0,0,0
 220000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,វិមានភ្នំពេញក្បែរផ្សារទំនើបAeon2 គម្រោងទី6 សង្កាត់ច្រាំងចំរេះទី1 ខណ្ឌឬស្សីកែវ,1,Unknown,154.0,5.1,19.700000000000003,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
-180000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,ជីបម៉ុងសែន សង្កាត់ភ្នំពេញថ្មី ខណ្ឌសែនសុខ,1,Unknown,160.0,5.5,20.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
+180000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,Chipmongសែន សង្កាត់ភ្នំពេញថ្មី ខណ្ឌសែនសុខ,1,Unknown,160.0,5.5,20.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 140000.0,Shophouse,Phnom Penh,Chbar Ampov,Veal Sbov,ប៉េងហួតបឹងស្នោរ,1,Unknown,92.65,5.45,17.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 511100.0,House,Phnom Penh,Chamkar Mon,Phsar Daeum Thkov,No Borey,0,Unknown,175.0,7.0,25.0,0.0,5.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 950000.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 1,ឡុងនី2,1,Unknown,382.5,17.0,22.5,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
@@ -1333,8 +1331,8 @@
 285000.0,Shophouse,Phnom Penh,Chroy Changvar,Preaek Ta Sek,អរគីដេ6A នៅលើ,1,Unknown,101.0,4.5,24.5,0.0,4.0,6.0,0,0,0,0,0,0,1,1,0,0,1
 320000.0,Shophouse,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហួតបឹងស្នោរ នៅ លេី,1,Unknown,103.5,4.5,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 1000000.0,Flat,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Unknown,92.0,4.1,16.0,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,0
-250000.0,Twin Villa,Phnom Penh,Dangkao,Dangkao,ជីបម៉ុង 50M,1,Unknown,184.0,8.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
-255000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,ជីបម៉ុង 60ម,1,Unknown,118.5,5.0,23.7,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+250000.0,Twin Villa,Phnom Penh,Dangkao,Dangkao,Chipmong 50M,1,Unknown,184.0,8.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
+255000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,Chipmong 60ម,1,Unknown,118.5,5.0,23.7,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 315000.0,Twin Villa,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហួតបឹងស្នោរ l Borey Peng,1,Unknown,187.0,8.5,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 125000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,រ៉ូយ៉ាល់មេកគង្គ,1,Unknown,128.0,6.0,16.0,0.0,3.0,4.0,0,0,0,0,0,0,1,0,0,0,1
 335000.0,Twin Villa,Phnom Penh,Mean Chey,Chak Angrae Kraom,* ទិសបែរ,1,Unknown,193.16,8.78,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
@@ -1343,11 +1341,11 @@
 320000.0,Shophouse,Phnom Penh,Chbar Ampov,Veal Sbov,ប៉េងហួតបឹងស្នោរ,1,Unknown,99.0,4.5,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 1300000.0,Villa,Phnom Penh,Chbar Ampov,Preaek Aeng,No Borey,0,Unknown,600.0,30.0,20.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
 1200000.0,Villa,Phnom Penh,Sen Sok,Ou Baek K'am,No Borey,0,Unknown,455.0,16.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,1
-550000.0,Shophouse,Phnom Penh,Chamkar Mon,Phsar Daeum Thkov,ជីបម៉ុងលែនម៉ាក271,1,Unknown,143.0,5.5,26.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
+550000.0,Shophouse,Phnom Penh,Chamkar Mon,Phsar Daeum Thkov,Chipmongលែនម៉ាក271,1,Unknown,143.0,5.5,26.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
 900000.0,Villa,Phnom Penh,Dangkao,Prey Sa,Chip Mong 50m,1,Unknown,460.0,20.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
-255000.0,Twin Villa,Phnom Penh,Dangkao,Dangkao,ជីបម៉ុង 50M,1,Unknown,184.0,8.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
-335000.0,Villa,Phnom Penh,Dangkao,Prey Sa,ជីបម៉ុង លែនម៉ាក 50ម,1,Unknown,253.0,11.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
-195000.0,Villa,Phnom Penh,Russey Keo,Tuol Sangkae 1,ជីបម៉ុងហ្គ្រេនភ្នំពេញ ជិតក្រសួងដែនដី,1,Unknown,100.0,5.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+255000.0,Twin Villa,Phnom Penh,Dangkao,Dangkao,Chipmong 50M,1,Unknown,184.0,8.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
+335000.0,Villa,Phnom Penh,Dangkao,Prey Sa,Chipmong លែនម៉ាក 50ម,1,Unknown,253.0,11.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
+195000.0,Villa,Phnom Penh,Russey Keo,Tuol Sangkae 1,Chipmongហ្គ្រេនភ្នំពេញ ជិតក្រសួងដែនដី,1,Unknown,100.0,5.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 730000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,Chip Mong Grand Pnom,1,Unknown,391.0,17.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
 299000.0,Shophouse,Phnom Penh,Chbar Ampov,Nirouth,No Borey,0,Unknown,103.5,4.5,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 398000.0,Villa,Phnom Penh,Dangkao,Preaek Kampis,Chankiri I,1,Unknown,231.0,7.7,12.6,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
@@ -1363,7 +1361,7 @@
 240000.0,Shophouse,Phnom Penh,Por Senchey,Chaom Chau 1,វី អេស អិល,1,Unknown,86.4,4.0,16.0,0.0,5.0,6.0,0,0,0,0,0,0,1,0,1,0,0
 450000.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Unknown,558.0,18.6,30.0,0.0,4.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 190000.0,Villa,Phnom Penh,Russey Keo,Kilomaetr Lekh Prammuoy,មនោរម្យអូដឹម,1,Unknown,315.0,15.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-550000.0,Villa,Phnom Penh,Russey Keo,Tuol Sangkae 1,ជីបម៉ុងហ្រ្គេនភ្នំពេញ,1,Unknown,299.0,13.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+550000.0,Villa,Phnom Penh,Russey Keo,Tuol Sangkae 1,Chipmongហ្រ្គេនភ្នំពេញ,1,Unknown,299.0,13.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 110000.0,Flat,Phnom Penh,Prek Pnov,Samraong,ហុងឡេងយី នៅជិតផ្សាព្រែកព្នៅ,1,Unknown,165.98,8.4,19.76,0.0,6.0,6.0,0,0,0,0,0,0,0,0,1,0,0
 120000.0,Flat,Phnom Penh,Mean Chey,Chak Angrae Leu,No Borey,0,Unknown,144.0,8.0,18.0,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 280000.0,Twin Villa,Phnom Penh,Chbar Ampov,Veal Sbov,ប៉េងហួត បឹងស្នោរ,1,Unknown,120.0,6.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
@@ -1469,7 +1467,7 @@
 1850000.0,Villa,Phnom Penh,Dangkao,Prey Sa,ប៉េងហួត ច្បារអំពៅ,1,Unknown,720.0,24.0,30.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
 1000000.0,Villa,Phnom Penh,Dangkao,Prey Sa,ប៉េងហួត ច្បារអំពៅ,1,Unknown,385.0,17.5,22.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
 1300000.0,House,Phnom Penh,7 Makara,Veal Vong,No Borey,0,Unknown,79.0,4.2,11.0,0.0,2.0,2.0,0,0,0,0,0,0,1,1,1,0,1
-105000.0,Shophouse,Phnom Penh,Russey Keo,Russey Keo,ជីបម៉ុង 60m,1,Unknown,103.2,4.3,16.0,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,0
+105000.0,Shophouse,Phnom Penh,Russey Keo,Russey Keo,Chipmong 60m,1,Unknown,103.2,4.3,16.0,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,0
 130000.0,Shophouse,Phnom Penh,Daun Penh,Phsar Kandal 1,ហ្គោលដេន ផាក 6A,1,Unknown,97.0,4.5,16.0,0.0,2.0,3.0,0,0,0,0,0,0,1,1,1,0,0
 600000.0,Villa,Phnom Penh,Dangkao,Pong Tuek,No Borey,0,Unknown,435.0,15.0,29.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
 139000.0,Link House,Phnom Penh,Russey Keo,Russey Keo,Vimean Phnom Penh,1,Unknown,99.25,4.6,21.75,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
@@ -1518,7 +1516,7 @@
 275000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 2,វិមានភ្នំពេញ 598,1,Unknown,146.88,6.8,21.6,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 225000.0,Flat,Phnom Penh,Prek Pnov,Ponhea Pon,No Borey,0,Unknown,86.1,15.0,26.0,0.0,2.0,3.0,0,0,0,0,0,0,1,1,1,0,0
 269000.0,Villa,Phnom Penh,Russey Keo,Tuol Sangkae 1,ភ្នំពេញថ្មី 598,1,Unknown,150.0,7.5,20.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
-209900.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 2,ជីបម៉ុង 598,1,Unknown,117.3,5.1,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+209900.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 2,Chipmong 598,1,Unknown,117.3,5.1,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 790000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហួតបឹងស្នោ,1,Unknown,372.6,16.2,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 171000.0,Flat,Phnom Penh,Russey Keo,Chrang Chamreh 2,ភ្នំពេញសុខសាន្ត ជិតសាលារៀន AUPP ខណ្ឌឫស្សីកែវ,1,Unknown,78.0,4.0,19.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 130000.0,Flat,Phnom Penh,Russey Keo,Kilomaetr Lekh Prammuoy,No Borey,0,Unknown,88.15,4.1,21.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
@@ -1635,7 +1633,7 @@
 130000.0,Flat,Kampot,Kampong Trach,Svay Tong Khang Tboung,No Borey,0,Unknown,90.25,4.2,21.5,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
 325000.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 1,ប៉េងហួត50ម,1,Unknown,169.4,7.7,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 150000.0,Villa,Phnom Penh,Dangkao,Dangkao,រំចេកគម្រោង6,1,Unknown,135.45,6.3,21.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-335000.0,Villa,Phnom Penh,Dangkao,Dangkao,ជីបម៉ុង50ម,1,Unknown,253.0,11.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+335000.0,Villa,Phnom Penh,Dangkao,Dangkao,Chipmong50ម,1,Unknown,253.0,11.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 130000.0,Flat,Phnom Penh,Dangkao,Prey Sa,ពិភពថ្មីចំការដូង2,1,Unknown,145.55,4.1,35.5,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 98000.0,Flat,Phnom Penh,Dangkao,Dangkao,ពិភពថ្មីចំការដូង1,1,Unknown,90.2,4.1,22.0,0.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0
 78000.0,Flat,Phnom Penh,Dangkao,Dangkao,ឡាយគង់ ជិត,1,Unknown,83.2,4.0,20.8,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
@@ -1646,7 +1644,7 @@
 230000.0,Flat,Phnom Penh,Dangkao,Dangkao,ឡាយគង់,1,Unknown,155.4,7.0,22.2,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 1650000.0,Villa,Phnom Penh,Dangkao,Preaek Kampis,ចន្ទគីរី សម្រាប់,1,Unknown,810.0,27.0,30.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
 99500.0,House,Phnom Penh,Dangkao,Dangkao,Sunny,1,Unknown,180.4,8.2,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
-325000.0,Villa,Phnom Penh,Dangkao,Dangkao,ជីបម៉ុង50ម,1,Unknown,253.0,11.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
+325000.0,Villa,Phnom Penh,Dangkao,Dangkao,Chipmong50ម,1,Unknown,253.0,11.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
 3200000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,ប៉េងហួត50ម,1,Unknown,1813.0,51.8,35.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
 120000.0,Flat,Phnom Penh,Dangkao,Dangkao,ពិភពថ្មីចំការដូង1,1,Unknown,90.2,4.1,22.0,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 79000.0,Villa,Phnom Penh,Dangkao,Dangkao,គៀងហ៊ត,1,Unknown,115.2,8.0,14.4,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
@@ -1675,7 +1673,7 @@
 178000.0,Flat,Phnom Penh,Mean Chey,Boeng Tumpun 1,No Borey,0,Unknown,88.2,4.2,21.0,0.0,4.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 348000.0,Villa,Phnom Penh,Mean Chey,Chak Angrae Leu,ប៉េងហួតផ្សារប៉េសេ,1,Unknown,165.0,7.5,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 950000.0,Twin Villa,Phnom Penh,Mean Chey,Chak Angrae Kraom,ប៉េងហួត60ម,1,Unknown,386.32,17.56,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
-1150000.0,Villa,Phnom Penh,Mean Chey,Chak Angrae Leu,ជីបម៉ុងលែន 271,1,Unknown,506.0,22.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+1150000.0,Villa,Phnom Penh,Mean Chey,Chak Angrae Leu,Chipmongលែន 271,1,Unknown,506.0,22.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 199900.0,Flat,Phnom Penh,Mean Chey,Stueng Mean Chey 1,ជ័យជំនះ,1,Unknown,198.0,9.0,22.0,0.0,4.0,6.0,0,0,0,0,0,0,0,1,0,0,0
 150000.0,Flat,Phnom Penh,Mean Chey,Stueng Mean Chey 1,No Borey,0,Unknown,97.86,4.2,23.3,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 125000.0,Flat,Phnom Penh,Mean Chey,Stueng Mean Chey 2,No Borey,0,Unknown,86.1,4.2,20.5,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
@@ -1685,28 +1683,28 @@
 160000.0,Flat,Phnom Penh,Mean Chey,Boeng Tumpun 1,No Borey,0,Unknown,110.0,5.0,22.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 295000.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 2,ជារី,1,Unknown,157.5,7.5,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 179900.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 3,ភ្នំពេញថ្មីរីជិនផាក,1,Unknown,82.15,5.3,15.5,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
-550000.0,Shophouse,Phnom Penh,Mean Chey,Chak Angrae Leu,ជីបម៉ុង271,1,Unknown,143.0,5.5,26.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
+550000.0,Shophouse,Phnom Penh,Mean Chey,Chak Angrae Leu,Chipmong271,1,Unknown,143.0,5.5,26.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
 110000.0,Flat,Phnom Penh,Mean Chey,Stueng Mean Chey 2,No Borey,0,Unknown,84.8,4.0,21.2,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 155000.0,Flat,Phnom Penh,Mean Chey,Boeng Tumpun 1,No Borey,0,Unknown,94.0,4.0,23.5,0.0,5.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-999000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,ជីបម៉ុង60ម,1,Unknown,391.0,17.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
+999000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,Chipmong60ម,1,Unknown,391.0,17.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 115000.0,Flat,Phnom Penh,Mean Chey,Stueng Mean Chey 3,ហុងឡាយក្រោយផ្សារលូប្រាំ,1,Unknown,88.0,4.0,22.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
-699000.0,Shophouse,Phnom Penh,Mean Chey,Chak Angrae Kraom,ជីបម៉ុង271,1,Unknown,143.0,5.5,26.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
-2990000.0,Villa,Phnom Penh,Dangkao,Dangkao,ជីបម៉ុងលែន60ម,1,Unknown,900.0,30.0,30.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
+699000.0,Shophouse,Phnom Penh,Mean Chey,Chak Angrae Kraom,Chipmong271,1,Unknown,143.0,5.5,26.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
+2990000.0,Villa,Phnom Penh,Dangkao,Dangkao,Chipmongលែន60ម,1,Unknown,900.0,30.0,30.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 139900.0,Flat,Phnom Penh,Mean Chey,Stueng Mean Chey 1,No Borey,0,Unknown,92.4,4.2,22.0,0.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0
 220000.0,Flat,Phnom Penh,Mean Chey,Stueng Mean Chey 3,No Borey,0,Unknown,107.1,4.2,25.5,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 345000.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 1,Woodland Residence,1,Unknown,150.0,7.5,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,1,0,0
 189000.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 1,ប៉េងហួតផ្សារប៉េសេ,1,Unknown,100.0,5.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-350000.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 1,ជីបម៉ុង60ម,1,Unknown,184.0,8.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+350000.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 1,Chipmong60ម,1,Unknown,184.0,8.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 189000.0,Flat,Phnom Penh,Mean Chey,Boeng Tumpun 1,No Borey,0,Unknown,141.0,4.3,16.3,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 146000.0,Flat,Phnom Penh,Mean Chey,Stueng Mean Chey 1,No Borey,0,Unknown,88.2,4.2,21.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 99900.0,Flat,Phnom Penh,Mean Chey,Stueng Mean Chey 1,No Borey,0,Unknown,100.0,5.0,20.0,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 125000.0,Flat,Phnom Penh,Mean Chey,Stueng Mean Chey 3,ហុងឡាយក្រោយផ្សារលូប្រាំ,1,Unknown,88.15,4.1,21.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 115000.0,Flat,Phnom Penh,Mean Chey,Stueng Mean Chey 1,No Borey,0,Unknown,75.6,4.2,18.0,0.0,5.0,4.0,0,0,0,0,0,0,0,0,0,0,0
-120000.0,Shophouse,Phnom Penh,Por Senchey,Chaom Chau 1,ជីបម៉ុងទួលពង្រ,1,Unknown,100.36,5.2,19.3,0.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,0
+120000.0,Shophouse,Phnom Penh,Por Senchey,Chaom Chau 1,Chipmongទួលពង្រ,1,Unknown,100.36,5.2,19.3,0.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,0
 255000.0,Shophouse,Phnom Penh,Mean Chey,Stueng Mean Chey 2,ហុងឡាយទួលពង្រ,1,Unknown,166.6,6.8,24.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 250000.0,Villa,Phnom Penh,Mean Chey,Chak Angrae Leu,ប៉េងហួតប៉េសេ,1,Unknown,96.6,4.2,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 429900.0,Flat,Phnom Penh,Mean Chey,Boeng Tumpun 1,No Borey,0,Unknown,220.0,10.0,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
-135000.0,Shophouse,Phnom Penh,Mean Chey,Stueng Mean Chey 1,ជីបម៉ុងទួលពង្រ,1,Unknown,98.7,4.2,23.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+135000.0,Shophouse,Phnom Penh,Mean Chey,Stueng Mean Chey 1,Chipmongទួលពង្រ,1,Unknown,98.7,4.2,23.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 128000.0,Flat,Phnom Penh,Mean Chey,Stueng Mean Chey 1,No Borey,0,Unknown,86.0,4.0,21.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 230000.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 3,Moon Town,1,Unknown,115.0,5.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 47000.0,Flat,Phnom Penh,Por Senchey,Chaom Chau 2,No Borey,0,Unknown,52.92,4.2,12.6,0.0,2.0,3.0,0,0,0,0,0,0,0,1,1,0,0
@@ -1763,7 +1761,7 @@
 198888.0,Flat,Kampong Speu,Samraong Tong,Samraong Tong,No Borey,0,Unknown,84.0,4.2,18.2,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,0
 49999.0,House,Phnom Penh,Daun Penh,Phsar Chas,No Borey,0,Unknown,47.0,4.1,13.3,0.0,1.0,1.0,0,0,0,0,0,0,1,0,0,0,1
 285000.0,Shophouse,Phnom Penh,Chbar Ampov,Nirouth,No Borey,0,Unknown,103.5,4.5,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-700000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,ជីបម៉ុង598,1,Unknown,368.0,16.0,23.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+700000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,Chipmong598,1,Unknown,368.0,16.0,23.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 128000.0,Flat,Phnom Penh,Russey Keo,Chrang Chamreh 2,No Borey,0,Unknown,75.0,4.0,16.75,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 133000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហួតបឹងស្នោរ សង្កាត់និរោធ ខណ្ឌច្បារអំពៅ,1,Unknown,77.91,5.3,14.7,0.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,0
 199900.0,Flat,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Unknown,123.75,4.5,27.5,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
@@ -1793,10 +1791,10 @@
 259900.0,Shophouse,Phnom Penh,Por Senchey,Chaom Chau 3,ឡុងនី2 លើ,1,Unknown,86.4,4.0,21.6,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 109900.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 2,ធូលន,1,Unknown,76.0,4.0,19.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 285000.0,House,Phnom Penh,Por Senchey,Chaom Chau 3,No Borey,0,Unknown,200.0,10.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
-269900.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 3,ជីបម៉ុងលែន ផាកលែនពោធិ៍ចិនតុង,1,Unknown,160.0,8.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+269900.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 3,Chipmongលែន ផាកលែនពោធិ៍ចិនតុង,1,Unknown,160.0,8.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 169900.0,Shophouse,Phnom Penh,Por Senchey,Samraong Kraom,No Borey,0,Unknown,109.2,4.2,26.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 390000.0,Shophouse,Phnom Penh,Por Senchey,Trapeang Krasang,រិទ្ធីស័ក្ដ,1,Unknown,210.0,10.0,21.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
-160000.0,Flat,Phnom Penh,Por Senchey,Kakab 1,ជីបម៉ុងលែនពោធិ៍ចិនតុង,1,Unknown,101.0,5.0,20.2,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
+160000.0,Flat,Phnom Penh,Por Senchey,Kakab 1,Chipmongលែនពោធិ៍ចិនតុង,1,Unknown,101.0,5.0,20.2,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 109000.0,Flat,Phnom Penh,Por Senchey,Chaom Chau 1,សុខចម្រើន,1,Unknown,76.02,4.2,18.1,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 115000.0,Shophouse,Phnom Penh,Sen Sok,Krang Thnong,ហូមប្រាយ,1,Unknown,92.8,4.0,23.2,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 129900.0,Flat,Phnom Penh,Por Senchey,Chaom Chau 3,LV,1,Unknown,131.24,6.8,19.3,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
@@ -1841,11 +1839,11 @@
 650000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,ភ្នំពេញថ្មីអេលីតផាក2,1,Unknown,368.0,16.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
 118000.0,Flat,Phnom Penh,Por Senchey,Chaom Chau 1,ពិភពថ្មី ត្រពាំងថ្លឹង,1,Unknown,104.0,4.0,26.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 105000.0,Flat,Phnom Penh,Sen Sok,Kouk Khleang,លីសុវណ្ណ ជិតផ្សារឈូកមាស,1,Unknown,86.0,4.0,21.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-159900.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,ជីបម៉ុងសែនសុខ,1,Unknown,75.0,5.0,15.0,0.0,3.0,3.0,0,0,0,0,0,0,0,0,0,0,0
+159900.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,Chipmongសែនសុខ,1,Unknown,75.0,5.0,15.0,0.0,3.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 225000.0,Flat,Phnom Penh,Sen Sok,Kouk Khleang,ពិភពថ្មីឈូកមាស,1,Unknown,92.25,4.1,22.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 339900.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,ប៉េងហួត អ៊េមឺរ៉លដ៏,1,Unknown,180.0,7.5,24.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 426000.0,Flat,Phnom Penh,Sen Sok,Phnom Penh Thmei,ពិភពថ្មី AEON2 ទល់មុខផ្សារទំនើបម៉ាក្រូ,1,Unknown,113.4,4.2,27.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-499500.0,Villa,Phnom Penh,Sen Sok,Krang Thnong,អ័រគីដេពោធិ៍ចិនតុង,1,Unknown,288.0,12.0,24.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+499500.0,Villa,Phnom Penh,Sen Sok,Krang Thnong,Orkide,1,Unknown,288.0,12.0,24.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 119900.0,Villa,Phnom Penh,Sen Sok,Kouk Khleang,វ៉ារីណាឈូកមាស,1,Unknown,100.0,5.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 182000.0,Shophouse,Phnom Penh,Sen Sok,Ou Baek K'am,រតនាផ្លាហ្សា,1,Unknown,207.0,9.0,23.0,0.0,4.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 83000.0,House,Phnom Penh,Sen Sok,Krang Thnong,ពិភពថ្មី 2005,1,Unknown,124.74,6.6,18.9,0.0,4.0,2.0,0,0,0,0,0,0,0,0,0,0,0
@@ -1869,7 +1867,7 @@
 290000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហួតបឹងស្នោរ,1,Unknown,142.5,7.5,19.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 280000.0,Shophouse,Phnom Penh,Chbar Ampov,Veal Sbov,ប៉េង ហួត បឹងស្នោរ,1,Unknown,99.0,4.5,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 35000.0,House,Phnom Penh,Dangkao,Spean Thma,No Borey,0,Unknown,88.0,4.2,9.0,0.0,2.0,2.0,0,0,0,0,0,0,1,0,0,0,0
-425000.0,Villa,Phnom Penh,Mean Chey,Chak Angrae Leu,ជីបម៉ុង Chip Mong Land,1,Unknown,157.875,5.6,20.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
+425000.0,Villa,Phnom Penh,Mean Chey,Chak Angrae Leu,Chipmong Chip Mong Land,1,Unknown,157.875,5.6,20.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 58000.0,Flat,Kandal,Ta Khmau,Ta Khmau,ពិភពថ្មី2 តាខ្មៅ,1,Unknown,42.0,4.1,13.25,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 57000.0,Flat,Phnom Penh,Chbar Ampov,Nirouth,No Borey,0,Unknown,80.0,4.1,16.0,0.0,2.0,2.0,0,0,0,0,0,0,1,0,0,0,1
 215000.0,Villa,Phnom Penh,Chbar Ampov,Preaek Aeng,• ក្នុងផ្ទះមានការដេរគ័រច្រើន,1,Unknown,165.0,7.5,22.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
@@ -2164,21 +2162,21 @@
 850000.0,Shophouse,Phnom Penh,Sen Sok,Phnom Penh Thmei,No Borey,0,Unknown,207.0,9.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
 415000.0,Villa,Phnom Penh,Tuol Kouk,Boeng Kak 2,No Borey,0,Unknown,176.0,9.25,23.5,0.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,1
 730000.0,Villa,Phnom Penh,Chamkar Mon,Phsar Daeum Thkov,No Borey,0,Unknown,412.5,15.0,27.5,0.0,5.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-295000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,ជីបម៉ុងសែនសុខនៅជាប់ផ្សារអុីអន2 Twin Villa,1,Unknown,168.0,8.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+295000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,Chipmongសែនសុខនៅជាប់ផ្សារអុីអន2 Twin Villa,1,Unknown,168.0,8.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 300000.0,Flat,Phnom Penh,Por Senchey,Kakab 1,No Borey,0,Unknown,74.76,4.2,17.8,0.0,2.0,3.0,0,0,0,0,0,0,0,1,1,0,0
 130000.0,Flat,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Unknown,86.0,4.2,20.0,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
 120000.0,House,Kandal,Akreiy Ksatr,Preaek Luong,No Borey,0,Unknown,392.0,14.0,28.0,0.0,3.0,2.0,0,0,0,0,0,0,0,0,0,0,0
 86800.0,Flat,Phnom Penh,Dangkao,Dangkao,No Borey,0,Unknown,88.1,4.1,19.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 358000.0,Villa,Phnom Penh,Chbar Ampov,Veal Sbov,ប៉េងហួតបឹងស្នោ,1,Unknown,213.6,8.9,24.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 78000.0,Flat,Phnom Penh,Tuol Kouk,Tuek L'ak 2,No Borey,0,Unknown,81.0,5.0,17.5,0.0,2.0,1.0,0,0,0,0,0,0,1,0,0,0,1
-134168.0,Shophouse,Phnom Penh,Chroy Changvar,Preaek Lieb,ជីបម៉ុង 6A,1,Unknown,81.9,4.2,19.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+134168.0,Shophouse,Phnom Penh,Chroy Changvar,Preaek Lieb,Chipmong 6A,1,Unknown,81.9,4.2,19.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 135899.0,Shophouse,Phnom Penh,Por Senchey,Chaom Chau 1,Chip Mong Landriche Toul,1,Unknown,100.8,4.2,24.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 130000.0,Flat,Battambang,Battambang,Tuol Ta Aek,No Borey,0,Unknown,130.0,4.2,18.5,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 260000.0,Twin Villa,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហ៊ួត បឹងស្នោរ,1,Unknown,168.0,8.0,21.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 34000.0,Villa,Kandal,Akreiy Ksatr,Preaek Ampil,No Borey,0,Unknown,88.0,5.5,16.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 280000.0,House,Kampot,Kampot,Kampong Bay,No Borey,0,Unknown,191.0,7.5,18.5,0.0,6.0,4.0,0,0,0,0,0,0,1,0,0,0,1
 88800.0,Flat,Phnom Penh,Chbar Ampov,Veal Sbov,ប៉េងហួតបឹងស្នោរ,1,Unknown,112.2,5.1,22.0,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
-110000.0,Shophouse,Phnom Penh,Por Senchey,Chaom Chau 1,ជីបម៉ុងលែនរីច Land Riche ចំការដូង,1,Unknown,107.1,4.2,25.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+110000.0,Shophouse,Phnom Penh,Por Senchey,Chaom Chau 1,Chipmongលែនរីច Land Riche ចំការដូង,1,Unknown,107.1,4.2,25.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 550000.0,Villa,Phnom Penh,Chroy Changvar,Chroy Changvar,ប៊្លូដាយមិន,1,Unknown,420.0,20.0,21.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 75000.0,House,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Unknown,118.0,5.0,19.5,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 450000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,ភ្នំពេញផាក,1,Unknown,289.8,12.6,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
@@ -2290,7 +2288,7 @@
 130000.0,Villa,Phnom Penh,Sen Sok,Krang Thnong,វ៉ារីណា ក្រាំងធ្នង់,1,Unknown,112.5,4.5,25.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 190000.0,Villa,Siem Reap,Siem Reap,Svay Dangkum,No Borey,0,Unknown,305.0,7.0,11.0,0.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0
 268000.0,Shophouse,Phnom Penh,Sen Sok,Tuek Thla,វិឡាអ័រគីដេ 2004,1,Unknown,109.2,4.2,26.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
-225000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,ជីបម៉ុង សែនសុខ / Link,1,Unknown,85.0,5.0,17.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
+225000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,Chipmong សែនសុខ / Link,1,Unknown,85.0,5.0,17.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 280000.0,House,Phnom Penh,Sen Sok,Tuek Thla,No Borey,0,Unknown,162.0,6.0,27.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,1,0,0
 4850000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហួតបឹងស្នោរ,1,Unknown,346.5,21.0,16.5,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
 95000.0,Flat,Phnom Penh,Sen Sok,Krang Thnong,No Borey,0,Unknown,85.0,5.0,17.0,0.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,0
@@ -2314,8 +2312,8 @@
 390000.0,Villa,Siem Reap,Siem Reap,Sala Kamraeuk,No Borey,0,Unknown,907.0,21.0,40.0,0.0,4.0,3.0,0,0,0,0,0,0,0,0,0,0,1
 259900.0,Villa,Phnom Penh,Dangkao,Preaek Kampis,ចន្ទគីរី,1,Unknown,157.5,7.5,21.0,0.0,5.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 180000.0,Flat,Phnom Penh,Chroy Changvar,Preaek Lieb,No Borey,0,Unknown,108.0,4.2,16.0,0.0,5.0,6.0,0,0,0,0,0,0,1,0,0,0,0
-429000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,ជីបម៉ុង,1,Unknown,322.0,14.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
-620000.0,Villa,Phnom Penh,Russey Keo,Russey Keo,ជីបម៉ុង ហ្គ្រេនភ្នំពេញ,1,Unknown,299.0,13.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+429000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,Chipmong,1,Unknown,322.0,14.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+620000.0,Villa,Phnom Penh,Russey Keo,Russey Keo,Chipmong ហ្គ្រេនភ្នំពេញ,1,Unknown,299.0,13.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 330000.0,House,Phnom Penh,Mean Chey,Boeng Tumpun 1,No Borey,0,Unknown,112.0,6.5,16.0,0.0,3.0,4.0,0,0,0,0,0,0,1,0,0,0,1
 205000.0,Shophouse,Phnom Penh,Dangkao,Dangkao,ង្ស,1,Unknown,138.75,7.5,18.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 386000.0,Villa,Phnom Penh,Russey Keo,Tuol Sangkae 2,ភ្នំពេញថ្មី,1,Unknown,300.0,15.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
@@ -2331,7 +2329,7 @@
 600000.0,Villa,Phnom Penh,Chroy Changvar,Bak Khaeng,Golden Park,1,Unknown,357.52,20.43,17.5,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
 315000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,ប៉េហួតបឹងស្នោរ,1,Unknown,177.1,7.7,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 180000.0,Shophouse,Phnom Penh,Tuol Kouk,Tuek L'ak 2,No Borey,0,Unknown,98.6,4.2,16.0,0.0,3.0,4.0,0,0,0,0,0,0,1,1,1,0,0
-340000.0,Villa,Phnom Penh,Dangkao,Prey Sa,ជីបម៉ុង50ម,1,Unknown,253.0,11.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
+340000.0,Villa,Phnom Penh,Dangkao,Prey Sa,Chipmong50ម,1,Unknown,253.0,11.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 65000.0,Flat,Phnom Penh,Dangkao,Prey Sa,No Borey,0,Unknown,90.0,5.0,18.0,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 470000.0,Villa,Phnom Penh,Mean Chey,Boeng Tumpun 2,Chip Mong Landmark 60m,1,Unknown,157.875,5.6,20.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 330000.0,Villa,Phnom Penh,Sen Sok,Krang Thnong,No Borey,0,Unknown,403.0,9.0,16.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
@@ -2370,7 +2368,7 @@
 355000.0,Villa,Phnom Penh,Russey Keo,Russey Keo,ហ្គ្រេនភ្នំពេញ,1,Unknown,300.0,15.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 1800000.0,Villa,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Unknown,500.0,20.0,25.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
 1632000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,No Borey,0,Unknown,1980.0,36.0,55.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
-425000.0,Twin Villa,Phnom Penh,Mean Chey,Boeng Tumpun 1,ជីបម៉ុង 271,1,Unknown,184.0,8.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+425000.0,Twin Villa,Phnom Penh,Mean Chey,Boeng Tumpun 1,Chipmong 271,1,Unknown,184.0,8.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 175000.0,Shophouse,Phnom Penh,Sen Sok,Krang Thnong,J&C ឈូកមាស,1,Unknown,136.09,6.33,21.5,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
 323000.0,Villa,Phnom Penh,Sen Sok,Krang Thnong,មហាសែនសុខ សង្កាត់ក្រាំងធ្នង សែនសុខ ភ្នំពេញ,1,Unknown,300.0,15.0,20.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 680000.0,House,Phnom Penh,Chamkar Mon,Phsar Daeum Thkov,No Borey,0,Unknown,350.0,14.0,25.0,0.0,6.0,6.0,0,0,0,0,0,0,0,1,1,0,0
@@ -2391,16 +2389,16 @@
 850000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,Chip Mong 598!,1,Unknown,444.0,18.5,24.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
 250000.0,Villa,Kandal,Mukh Kampul,Preaek Anhchanh,No Borey,0,Unknown,117.0,4.7,22.5,0.0,4.0,4.0,0,0,0,0,0,0,1,0,0,0,1
 990000.0,Villa,Siem Reap,Siem Reap,Svay Dangkum,No Borey,0,Unknown,1071.0,21.0,40.0,0.0,5.0,5.0,0,0,0,0,0,0,1,0,0,0,1
-750000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,ជីបម៉ុង,1,Unknown,483.0,21.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
+750000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,Chipmong,1,Unknown,483.0,21.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
 154000.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 1,លឹមឈាងហាក់ចំការដូង,1,Unknown,123.0,6.0,20.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 78800.0,Shophouse,Kandal,Kandal Stueng,Ampov Prey,No Borey,0,Unknown,97.0,5.0,12.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,0
 180000.0,Shophouse,Phnom Penh,Sen Sok,Ou Baek K'am,No Borey,0,Unknown,96.6,4.2,16.0,0.0,4.0,6.0,0,0,0,0,0,0,1,1,0,0,0
 180000.0,House,Phnom Penh,Por Senchey,Trapeang Krasang,No Borey,0,Unknown,131.0,8.1,18.4,0.0,3.0,3.0,0,0,0,0,0,0,1,1,1,0,1
 370000.0,Shophouse,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Unknown,183.0,6.25,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,1
 550000.0,Shophouse,Phnom Penh,Sen Sok,Kouk Khleang,No Borey,0,Unknown,195.0,6.5,30.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
-560000.0,Villa,Phnom Penh,Sen Sok,Khmuonh,ជីបម៉ុង ហ្រ្គេនភ្នំពេញ សង្កាត់ឃ្មួញ ខណ្ឌសែនសុខ,1,Unknown,299.0,13.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+560000.0,Villa,Phnom Penh,Sen Sok,Khmuonh,Chipmong ហ្រ្គេនភ្នំពេញ សង្កាត់ឃ្មួញ ខណ្ឌសែនសុខ,1,Unknown,299.0,13.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 590000.0,Villa,Siem Reap,Siem Reap,Sambuor,No Borey,0,Unknown,1400.0,21.0,40.0,0.0,5.0,5.0,0,0,0,0,0,0,0,0,0,0,1
-850000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,ជីបម៉ុង,1,Unknown,425.5,18.5,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
+850000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,Chipmong,1,Unknown,425.5,18.5,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 550000.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 1,ឡុងនី2,1,Unknown,374.0,17.0,22.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 115000.0,Flat,Phnom Penh,Sen Sok,Phnom Penh Thmei,ពិភពថ្មី ជិតធនាគារជាតិ,1,Unknown,86.0,4.0,21.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 159000.0,Flat,Phnom Penh,Prek Pnov,Kouk Roka,No Borey,0,Unknown,225.5,11.0,20.5,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
@@ -2412,13 +2410,13 @@
 1300000.0,Villa,Phnom Penh,Chbar Ampov,Veal Sbov,No Borey,0,Unknown,429.0,14.5,25.0,0.0,5.0,6.0,0,0,0,0,0,0,1,0,1,0,1
 699900.0,Villa,Phnom Penh,Chroy Changvar,Chroy Changvar,ប៊្លូដាយមិន,1,Unknown,420.0,20.0,21.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
 230000.0,Shophouse,Phnom Penh,Chroy Changvar,Chroy Changvar,OCIC ជ្រោយចង្វារ 🏠,1,Unknown,102.9,4.2,24.5,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
-650000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,ជីបម៉ុង 598,1,Unknown,444.0,18.5,24.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
+650000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,Chipmong 598,1,Unknown,444.0,18.5,24.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 720000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,វិមានភ្នំពេញ 598,1,Unknown,375.0,15.0,25.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 200000.0,House,Kandal,Ta Khmau,Ta Khmau,No Borey,0,Unknown,540.0,18.0,30.0,0.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,0
 309000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហួតបឹងស្នោ,1,Unknown,103.5,4.5,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 185000.0,Shophouse,Phnom Penh,Chroy Changvar,Preaek Ta Sek,អ័រគីដេវីឡា,1,Unknown,112.5,4.5,25.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 900000.0,Shophouse,Phnom Penh,Sen Sok,Phnom Penh Thmei,No Borey,0,Unknown,700.0,8.0,23.9,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,1
-589000.0,Villa,Phnom Penh,Russey Keo,Russey Keo,ជីបម៉ុង ហ្គ្រេនភ្នំពេញ,1,Unknown,356.5,15.5,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+589000.0,Villa,Phnom Penh,Russey Keo,Russey Keo,Chipmong ហ្គ្រេនភ្នំពេញ,1,Unknown,356.5,15.5,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 825000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,ប៉េងហួត,1,Unknown,506.6,17.0,29.8,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 349999.0,Shophouse,Kampong Speu,Samraong Tong,Samraong Tong,No Borey,0,Unknown,100.0,4.2,16.0,0.0,3.0,4.0,0,0,0,0,0,0,1,0,0,0,1
 159000.0,Shophouse,Kandal,Ta Khmau,Preaek Ruessei,No Borey,0,Unknown,92.4,4.2,17.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,1,0,1
@@ -2453,7 +2451,7 @@
 700000.0,Villa,Phnom Penh,Sen Sok,Kouk Khleang,ពិភពថ្មី សំរោងអណ្តែត ខណ្ឌសែនសុខ រាជធានីភ្នំពេញ,1,Unknown,455.0,17.5,26.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
 280000.0,Flat,Phnom Penh,Tuol Kouk,Phsar Depou 2,No Borey,0,Unknown,92.0,4.7,11.1,0.0,4.0,3.0,0,0,0,0,0,0,1,1,0,0,0
 440000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,No Borey,0,Unknown,440.0,20.0,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-3500000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,ជីបម៉ុងលែនម៉ាក60ម៉ែត្រ / Corner King,1,Unknown,231.0,21.0,14.5,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,0
+3500000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,Chipmongលែនម៉ាក60ម៉ែត្រ / Corner King,1,Unknown,231.0,21.0,14.5,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,0
 369000.0,Villa,Phnom Penh,Sen Sok,Khmuonh,ហ្គ្រេនភ្នំពេញ,1,Unknown,300.0,15.0,20.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 285000.0,Twin Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 1,អ័រគីដេរ 2004,1,Unknown,150.0,7.5,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 289000.0,Twin Villa,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហួតបឹងស្នោរ,1,Unknown,198.0,9.0,22.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
@@ -2463,9 +2461,9 @@
 245000.0,Villa,Phnom Penh,Dangkao,Preaek Kampis,Chankiri: 4 🛌,1,Unknown,157.5,7.5,21.0,0.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0
 90000.0,House,Siem Reap,Siem Reap,Sala Kamraeuk,No Borey,0,Unknown,213.0,4.5,12.5,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,0
 9000.0,Flat,Kandal,Mukh Kampul,Preaek Anhchanh,មានសន្តិសុខ ខ្យល់អាកាសល្អ,1,Unknown,88.2,4.2,21.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
-99000.0,Villa,Phnom Penh,Chroy Changvar,Chroy Changvar,ជីបម៉ុង 6A,1,Unknown,67.2,4.2,16.0,0.0,3.0,4.0,0,0,0,0,0,0,0,1,1,0,0
+99000.0,Villa,Phnom Penh,Chroy Changvar,Chroy Changvar,Chipmong 6A,1,Unknown,67.2,4.2,16.0,0.0,3.0,4.0,0,0,0,0,0,0,0,1,1,0,0
 58000.0,Flat,Phnom Penh,Dangkao,Dangkao,ចំការដូង,1,Unknown,82.8,4.6,18.0,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
-129900.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,ជីបម៉ុងសែនសុខ,1,Unknown,75.0,5.0,15.0,0.0,3.0,3.0,0,0,0,0,0,0,0,0,0,0,0
+129900.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,Chipmongសែនសុខ,1,Unknown,75.0,5.0,15.0,0.0,3.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 1400000.0,Flat,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Unknown,92.0,4.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
 250000.0,Flat,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Unknown,76.0,4.0,19.0,0.0,1.0,1.0,0,0,0,0,0,0,0,0,0,0,0
 45000.0,Flat,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Unknown,100.0,5.0,20.0,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
@@ -2479,11 +2477,11 @@
 299500.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហួតបឹងស្នោរ,1,Unknown,155.25,7.5,20.7,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 1100000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហួតបឹងស្នោរ,1,Unknown,447.9,14.93,30.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 110000.0,Flat,Phnom Penh,Sen Sok,Kouk Khleang,No Borey,0,Unknown,94.0,4.2,22.5,0.0,4.0,4.0,0,0,0,0,0,0,1,0,0,0,1
-450000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,ជីបម៉ុងសែនសុខនិងនៅជិតផ្សារអុីអន2 Single Villa Cornner,1,Unknown,337.5,13.5,25.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
+450000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,Chipmongសែនសុខនិងនៅជិតផ្សារអុីអន2 Single Villa Cornner,1,Unknown,337.5,13.5,25.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
 189000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,ប៉េងហួតនៅជិតផ្សារអុីអន2 Link House,1,Unknown,154.0,7.0,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 320000.0,Shophouse,Phnom Penh,Sen Sok,Phnom Penh Thmei,No Borey,0,Unknown,256.0,8.0,32.0,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 159000.0,Flat,Phnom Penh,Mean Chey,Stueng Mean Chey 1,No Borey,0,Unknown,86.0,4.0,21.5,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
-120000.0,Flat,Phnom Penh,Chroy Changvar,Chroy Changvar,ជីបម៉ុង,1,Unknown,79.8,4.2,19.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+120000.0,Flat,Phnom Penh,Chroy Changvar,Chroy Changvar,Chipmong,1,Unknown,79.8,4.2,19.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 699900.0,Villa,Phnom Penh,Russey Keo,Tuol Sangkae 2,វីឡាទួលសង្កែ,1,Unknown,600.0,20.0,30.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
 720000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,ភ្នំពេញផាក,1,Unknown,470.0,18.8,25.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 125000.0,Villa,Phnom Penh,Mean Chey,Boeng Tumpun 1,999,1,Unknown,90.0,5.0,18.0,0.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,0
@@ -2493,7 +2491,7 @@
 1700000.0,Villa,Phnom Penh,Chbar Ampov,Veal Sbov,No Borey,0,Unknown,5000.0,50.0,100.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
 325000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហួតបឹងស្នោ,1,Unknown,187.0,8.5,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 185000.0,Villa,Phnom Penh,Dangkao,Preaek Kampis,Lucky One,1,Unknown,102.48,5.6,18.3,0.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,0
-489000.0,Villa,Phnom Penh,Chroy Changvar,Chroy Changvar,ជីបម៉ុង,1,Unknown,345.0,15.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+489000.0,Villa,Phnom Penh,Chroy Changvar,Chroy Changvar,Chipmong,1,Unknown,345.0,15.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 500000.0,Villa,Phnom Penh,Chbar Ampov,Veal Sbov,ប៉េង ហួត បឹងស្នោ,1,Unknown,306.0,12.0,25.5,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 400000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,No Borey,0,Unknown,338.1,14.7,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
 140000.0,House,Phnom Penh,Tuol Kouk,Tuek L'ak 1,No Borey,0,Unknown,111.0,6.0,16.0,0.0,3.0,2.0,0,0,0,0,0,0,1,0,0,0,1
@@ -2527,32 +2525,32 @@
 250000.0,Villa,Phnom Penh,Chroy Changvar,Chroy Changvar,ប៉េងហ៊ួត,1,Unknown,172.5,7.5,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 295000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,housegoodprice,1,Unknown,194.7,8.85,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 128000.0,Villa,Phnom Penh,Dangkao,Dangkao,ចន្ទគីរី,1,Unknown,81.0,4.5,18.0,0.0,3.0,3.0,0,0,0,0,0,0,0,0,0,0,0
-425000.0,Villa,Phnom Penh,Sen Sok,Kouk Khleang,អ័រគីដេពោធិ៍ចិនតុង,1,Unknown,240.0,12.0,20.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
-890000.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 3,ជីបម៉ុង60ម,1,Unknown,414.0,18.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
+425000.0,Villa,Phnom Penh,Sen Sok,Kouk Khleang,Orkide,1,Unknown,240.0,12.0,20.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+890000.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 3,Chipmong60ម,1,Unknown,414.0,18.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 210000.0,Flat,Kandal,Akreiy Ksatr,Akreiy Ksatr,ទួលសង្កែអរិយក្សត្រ Sunctury City,1,Unknown,165.0,10.0,16.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 289900.0,Villa,Phnom Penh,Sen Sok,Khmuonh,អង្គរភ្នំពេញ2,1,Unknown,188.0,8.0,23.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 295000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,ហាយធិចលុចសារី,1,Unknown,157.5,7.5,21.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
-419900.0,Villa,Phnom Penh,Sen Sok,Khmuonh,ជីបម៉ុង ហ្គ្រេនភ្នំពេញសុីធី,1,Unknown,253.0,11.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+419900.0,Villa,Phnom Penh,Sen Sok,Khmuonh,Chipmong ហ្គ្រេនភ្នំពេញសុីធី,1,Unknown,253.0,11.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 370000.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 2,ខាសិន ភ្នំពេញ,1,Unknown,243.95,11.9,20.5,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 199999.0,Shophouse,Preah Sihanouk,Krong Preah Sihanouk,Sangkat 3,Preash Seihanouk Twon,1,Unknown,96.6,4.0,16.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,0
 849000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,Peng huoth Boeng snor,1,Unknown,445.5,16.5,27.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 129000.0,Shophouse,Phnom Penh,Sen Sok,Tuek Thla,ពិភពថ្មីនៅជាប់ស្ថានីយទូរទស្សន៍អាសុីអាគ្នេយ៍ Shop House,1,Unknown,96.6,4.2,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 230000.0,Flat,Phnom Penh,Mean Chey,Boeng Tumpun 1,No Borey,0,Unknown,100.0,4.0,25.0,0.0,6.0,6.0,0,0,0,0,0,0,0,0,1,0,0
-252000.0,Villa,Phnom Penh,Sen Sok,Krang Thnong,ជីបម៉ុងលែន ពោធិ៍ចិនតុង,1,Unknown,180.0,9.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+252000.0,Villa,Phnom Penh,Sen Sok,Krang Thnong,Chipmongលែន ពោធិ៍ចិនតុង,1,Unknown,180.0,9.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 132000.0,Villa,Phnom Penh,Chroy Changvar,Chroy Changvar,អាម៉ូរី,1,Unknown,200.0,10.0,20.0,0.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0
 390000.0,Villa,Phnom Penh,Mean Chey,Boeng Tumpun 1,No Borey,0,Unknown,450.0,18.0,25.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 249900.0,Villa,Phnom Penh,Mean Chey,Stueng Mean Chey 3,វ៉ារីណា,1,Unknown,159.75,7.5,21.3,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 170000.0,Shophouse,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Unknown,100.80000000000001,8.0,14.0,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,0
-148000.0,Shophouse,Phnom Penh,Sen Sok,Ou Baek K'am,អរគីដេ2004ផ្សារជីបម៉ុង និង ផ្សារត្រពាំងឈូក,1,Unknown,96.6,4.2,16.0,0.0,4.0,6.0,0,0,0,0,0,0,1,1,0,0,0
+148000.0,Shophouse,Phnom Penh,Sen Sok,Ou Baek K'am,អរគីដេ2004ផ្សារChipmong និង ផ្សារត្រពាំងឈូក,1,Unknown,96.6,4.2,16.0,0.0,4.0,6.0,0,0,0,0,0,0,1,1,0,0,0
 899999.0,Villa,Phnom Penh,Sen Sok,Kouk Khleang,No Borey,0,Unknown,943.0,23.0,41.0,0.0,5.0,4.0,0,0,0,0,0,0,0,0,0,0,0
 125000.0,Flat,Phnom Penh,Chroy Changvar,Preaek Lieb,ប៉េងហ៊ួត6A សាលារៀន និង ធនាគារអភិវឌ្ឍន៍ជនបទ,1,Unknown,125.0,5.0,25.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 1250000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,The Palms,1,Unknown,375.0,10.0,37.5,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
 500000.0,Villa,Preah Sihanouk,Krong Preah Sihanouk,Sangkat 4,No Borey,0,Unknown,391.0,15.0,20.0,0.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,1
 128000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Ta Sek,អ័រគីដេ6A,1,Unknown,128.0,8.0,16.0,0.0,3.0,3.0,0,0,0,0,0,0,0,0,0,0,0
-1020000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,ជីបម៉ុង,1,Unknown,714.0,25.5,28.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
+1020000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,Chipmong,1,Unknown,714.0,25.5,28.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 305000.0,Shophouse,Phnom Penh,Chbar Ampov,Veal Sbov,ប៉េងហួតបឹងស្នោ,1,Unknown,99.0,4.5,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 235000.0,Villa,Phnom Penh,Sen Sok,Khmuonh,វិមានភ្នំពេញ 598,1,Unknown,168.0,8.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-850000.0,Villa,Phnom Penh,Dangkao,Prey Sa,ជីបម៉ុង50ម,1,Unknown,460.0,20.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
+850000.0,Villa,Phnom Penh,Dangkao,Prey Sa,Chipmong50ម,1,Unknown,460.0,20.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 459000.0,Villa,Siem Reap,Siem Reap,Siem Reap,No Borey,0,Unknown,600.0,15.0,40.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 360000.0,Shophouse,Phnom Penh,Chbar Ampov,Nirouth,ប៉េងហួតបឹងស្នោ,1,Unknown,157.5,7.5,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 1100000.0,Villa,Phnom Penh,Chbar Ampov,Preaek Aeng,No Borey,0,Unknown,600.0,30.0,20.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
@@ -2574,7 +2572,7 @@
 115000.0,Shophouse,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Unknown,135.5,6.25,21.0,0.0,2.0,2.0,0,0,0,0,0,0,1,0,0,0,1
 115000.0,House,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Unknown,100.0,5.0,19.5,0.0,2.0,2.0,0,0,0,0,0,0,1,0,0,0,1
 250000.0,Shophouse,Phnom Penh,Chroy Changvar,Chroy Changvar,OCIC,1,Unknown,88.0,4.0,22.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
-499900.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,ជីបម៉ុង 598,1,Unknown,322.0,14.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+499900.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,Chipmong 598,1,Unknown,322.0,14.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 145000.0,Flat,Phnom Penh,Por Senchey,Chaom Chau 1,ទំហំ: 4,1,Unknown,91.0,4.1,20.2,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 350000.0,Flat,Phnom Penh,Russey Keo,Russey Keo,No Borey,0,Unknown,231.0,7.0,33.0,0.0,1.0,2.0,0,0,0,0,0,0,0,0,0,0,0
 140000.0,Villa,Phnom Penh,Chroy Changvar,Bak Khaeng,No Borey,0,Unknown,128.0,6.0,16.0,0.0,3.0,4.0,0,0,0,0,0,0,1,0,0,0,1
@@ -2584,7 +2582,7 @@
 749999.0,Villa,Phnom Penh,Chbar Ampov,Veal Sbov,ប៉េង ហួត បឹងស្នោរ គម្រោង,1,Unknown,435.0,17.4,25.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 1080000.0,Villa,Phnom Penh,Chbar Ampov,Veal Sbov,housegoodprice,1,Unknown,808.5,21.4,30.0,0.0,6.0,8.0,0,0,0,0,0,0,1,0,1,0,1
 459000.0,Villa,Phnom Penh,Chbar Ampov,Veal Sbov,ប៉េង ហួត បឹងស្នោរ,1,Unknown,364.0,14.0,26.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-425000.0,Villa,Phnom Penh,Sen Sok,Tuek Thla,អ័រគីដេពោធិ៍ចិនតុង,1,Unknown,240.0,12.0,20.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
+425000.0,Villa,Phnom Penh,Sen Sok,Tuek Thla,Orkide,1,Unknown,240.0,12.0,20.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 235000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,ព្រីមលែន,1,Unknown,165.0,7.5,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 55000.0,Land,Kandal,Ta Khmau,Preaek Ruessei,No Borey,0,Unknown,44.0,8.0,15.0,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0
 185000.0,Land,Kandal,Ta Khmau,Preaek Ruessei,No Borey,0,Unknown,44.0,4.0,11.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0
@@ -2608,8 +2606,8 @@
 242000.0,Villa,Phnom Penh,Sen Sok,Krang Thnong,ភ្នំពេញថ្មីអេលីតផាក2,1,Unknown,176.0,8.0,22.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 139900.0,Villa,Phnom Penh,Chroy Changvar,Preaek Ta Sek,អ័រគីដេ6A ដឹប៊ូតានិចសុីធី,1,Unknown,128.0,8.0,16.0,0.0,3.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 2000000.0,Villa,Phnom Penh,Sen Sok,Tuek Thla,100 knong,1,Unknown,302.0,16.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,1,1,1,0,1
-260000.0,Villa,Phnom Penh,Dangkao,Prey Sa,ជីបម៉ុង 50M,1,Unknown,184.0,8.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
-930000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,ជីបម៉ុងលែន60ម,1,Unknown,402.5,17.5,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
+260000.0,Villa,Phnom Penh,Dangkao,Prey Sa,Chipmong 50M,1,Unknown,184.0,8.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+930000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,Chipmongលែន60ម,1,Unknown,402.5,17.5,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,0,1,0,0
 440000.0,Flat,Phnom Penh,Tuol Kouk,Tuek L'ak 3,No Borey,0,Unknown,92.0,4.0,23.0,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
 110000.0,Flat,Phnom Penh,Sen Sok,Kouk Khleang,No Borey,0,Unknown,84.0,4.0,17.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 152999.0,Shophouse,Phnom Penh,Por Senchey,Samraong Kraom,No Borey,0,Unknown,100.80000000000001,4.2,20.95,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
@@ -2643,8 +2641,8 @@
 119500.0,Villa,Phnom Penh,Kamboul,Snao,No Borey,0,Hard Title,234.0,13.0,18.0,0.0,3.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 900000.0,House,Phnom Penh,Tuol Kouk,Boeng Salang,No Borey,0,Unknown,102.5,6.0,16.0,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
 1350000.0,Villa,Phnom Penh,Sen Sok,Kouk Khleang,No Borey,0,Unknown,600.0,20.0,30.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
-645000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 2,ជីបម៉ុង ដឹផាកលែន,1,Unknown,414.0,18.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
-780000.0,Villa,Phnom Penh,Sen Sok,Khmuonh,ជីបម៉ុង ហ្គ្រេនភ្នំពេញសុីធី,1,Unknown,391.0,17.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
+645000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 2,Chipmong ដឹផាកលែន,1,Unknown,414.0,18.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
+780000.0,Villa,Phnom Penh,Sen Sok,Khmuonh,Chipmong ហ្គ្រេនភ្នំពេញសុីធី,1,Unknown,391.0,17.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
 1800000.0,Shophouse,Phnom Penh,Tuol Kouk,Boeng Kak 2,No Borey,0,Unknown,701.4,16.7,42.0,0.0,6.0,7.0,0,0,0,0,0,0,0,1,1,0,0
 3600000.0,Villa,Phnom Penh,Tuol Kouk,Boeng Kak 2,No Borey,0,Unknown,1200.0,30.0,40.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
 1300000.0,Villa,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Unknown,600.0,20.0,30.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
@@ -2770,7 +2768,7 @@
 270000.0,House,Phnom Penh,Chbar Ampov,Nirouth,No Borey,0,Unknown,112.0,7.0,16.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,0,0,0
 31888.0,Flat,Phnom Penh,Daun Penh,Phsar Chas,No Borey,0,Unknown,86.3,4.2,16.0,0.0,1.0,1.0,0,0,0,0,0,0,1,0,0,0,1
 66888.0,House,Kandal,Akreiy Ksatr,Svay Chrum,ចតុមុខ2 សម្រាប់,1,Unknown,78.0,5.2,15.0,0.0,3.0,3.0,0,0,0,0,0,0,0,0,0,0,0
-155000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 2,ហុកលី ជាប់ជីបម៉ុង 598,1,Unknown,123.75,7.5,16.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+155000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 2,ហុកលី ជាប់Chipmong 598,1,Unknown,123.75,7.5,16.5,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 80000.0,Villa,Phnom Penh,Kamboul,Snao,វីលាម ផ្ការំដួល ផ្ទះ,1,Unknown,200.0,10.0,20.0,0.0,3.0,4.0,0,0,0,0,0,0,1,0,0,0,1
 199000.0,Villa,Phnom Penh,Russey Keo,Kilomaetr Lekh Prammuoy,Piphup Thmey Km6,1,Unknown,147.0,7.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 55000.0,House,Siem Reap,Siem Reap,Siem Reap,No Borey,0,Unknown,200.0,10.0,20.0,0.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,0
@@ -2829,7 +2827,7 @@
 195000.0,Shophouse,Phnom Penh,Sen Sok,Tuek Thla,No Borey,0,Unknown,87.0,6.0,14.5,0.0,3.0,3.0,0,0,0,0,0,0,0,0,0,0,0
 140000.0,Shophouse,Phnom Penh,Tuol Kouk,Phsar Daeum Kor,No Borey,0,Unknown,72.41,4.3,17.0,0.0,2.0,2.0,0,0,0,0,0,0,1,0,0,0,1
 1600000.0,Villa,Phnom Penh,Chbar Ampov,Preaek Aeng,No Borey,0,Unknown,3819.0,33.5,114.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
-245000.0,Villa,Phnom Penh,Por Senchey,Kakab 2,ជីបម៉ុង ផាកលែនពោធិ៍ចិនតុង,1,Unknown,180.0,9.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
+245000.0,Villa,Phnom Penh,Por Senchey,Kakab 2,Chipmong ផាកលែនពោធិ៍ចិនតុង,1,Unknown,180.0,9.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 33500.0,Flat,Phnom Penh,Dangkao,Pong Tuek,No Borey,0,Unknown,88.1,8.5,4.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,0
 169900.0,Link House,Phnom Penh,Sen Sok,Phnom Penh Thmei,ប៉េងហួត,1,Unknown,95.0,5.0,19.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
 229800.0,Twin Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,ភ្នំពេញថ្មី,1,Unknown,168.0,8.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,0,1,1,0,0
@@ -2847,7 +2845,7 @@
 600000.0,Villa,Phnom Penh,Mean Chey,Chak Angrae Leu,វីឡាថោន សង្កាត់ចាក់អង្រែលើ ខណ្ឌមានជ័យ,1,Unknown,407.0,18.5,22.0,0.0,6.0,8.0,0,0,0,0,0,0,0,0,1,0,0
 210000.0,House,Phnom Penh,Sen Sok,Tuek Thla,No Borey,0,Unknown,110.0,5.0,12.0,0.0,4.0,6.0,0,0,0,0,0,0,0,0,0,0,0
 5500000.0,House,Phnom Penh,Chamkar Mon,Tonle Bassac,វីរៈជន សង្កាត់ទន្លេបាសាក់ ខណ្ឌចំការមន,1,Unknown,852.0,42.6,20.0,0.0,6.0,6.0,0,0,0,0,0,0,0,0,0,0,0
-650000.0,Shophouse,Phnom Penh,Mean Chey,Chak Angrae Leu,ជីបម៉ុង ដឹលែនម៉ាក 271,1,Unknown,150.0,6.0,25.0,0.0,6.0,7.0,0,0,0,0,0,0,0,0,1,0,0
+650000.0,Shophouse,Phnom Penh,Mean Chey,Chak Angrae Leu,Chipmong ដឹលែនម៉ាក 271,1,Unknown,150.0,6.0,25.0,0.0,6.0,7.0,0,0,0,0,0,0,0,0,1,0,0
 85000.0,Flat,Phnom Penh,Russey Keo,Svay Pak,វិមានភ្នំពេញ គម្រោងទី5,1,Unknown,75.0,4.0,16.75,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 43000.0,House,Phnom Penh,Dangkao,Dangkao,sunny ទទួលពង្រ,1,Unknown,88.0,4.2,21.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 60000.0,House,Phnom Penh,Por Senchey,Chaom Chau 2,No Borey,0,Unknown,125.0,8.1,18.4,0.0,1.0,1.0,0,0,0,0,0,0,1,0,0,0,1
@@ -2897,16 +2895,16 @@
 1580000.0,Villa,Phnom Penh,Chbar Ampov,Preaek Aeng,No Borey,0,Unknown,1423.13,23.33,61.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
 950000.0,Villa,Phnom Penh,Sen Sok,Kouk Khleang,Amory Sen Sok,1,Unknown,630.0,20.0,31.5,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
 699000.0,Villa,Phnom Penh,Dangkao,Dangkao,No Borey,0,Unknown,619.0,28.3,30.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,1
-645000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,ជីបម៉ុង ដឹផាកលែន,1,Unknown,425.5,18.5,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
+645000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 1,Chipmong ដឹផាកលែន,1,Unknown,425.5,18.5,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
 79999.0,House,Phnom Penh,Dangkao,Dangkao,No Borey,0,Unknown,119.0,6.0,16.0,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
 580000.0,Flat,Phnom Penh,Daun Penh,Phsar Kandal 2,No Borey,0,Unknown,88.0,4.2,16.0,0.0,4.0,4.0,0,0,0,0,0,0,1,0,0,0,1
 1600000.0,House,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,126.0,7.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
-690000.0,Villa,Phnom Penh,Dangkao,Dangkao,ជីបម៉ុង ផាកលែន 50ម៉ែត្រ,1,Unknown,368.0,16.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
-790000.0,Villa,Phnom Penh,Dangkao,Prey Sa,ជីបម៉ុង 50m / Corner,1,Unknown,483.0,21.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
+690000.0,Villa,Phnom Penh,Dangkao,Dangkao,Chipmong ផាកលែន 50ម៉ែត្រ,1,Unknown,368.0,16.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,0,1,1,0,0
+790000.0,Villa,Phnom Penh,Dangkao,Prey Sa,Chipmong 50m / Corner,1,Unknown,483.0,21.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
 3000000.0,Villa,Phnom Penh,Dangkao,Cheung Aek,ប៉េងហួត ដឹស្តាមេរាហ្គាដិន 50ម៉ែត្រ,1,Unknown,1487.5,42.5,35.0,0.0,6.0,8.0,0,0,0,0,0,0,0,1,1,0,0
 80000.0,Villa,Phnom Penh,Prek Pnov,Ponhea Pon,No Borey,0,Unknown,300.0,10.0,30.0,0.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,0
-316800.0,Villa,Phnom Penh,Dangkao,Cheung Aek,ជីបម៉ុង60ម,1,Unknown,184.0,11.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
-199000.0,Shophouse,Phnom Penh,Dangkao,Prey Sa,ជីបម៉ុង50ម ព្រៃសរ,1,Unknown,94.5,4.2,22.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
+316800.0,Villa,Phnom Penh,Dangkao,Cheung Aek,Chipmong60ម,1,Unknown,184.0,11.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
+199000.0,Shophouse,Phnom Penh,Dangkao,Prey Sa,Chipmong50ម ព្រៃសរ,1,Unknown,94.5,4.2,22.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 63888.0,Flat,Kandal,Mukh Kampul,Preaek Anhchanh,No Borey,0,Unknown,88.2,4.2,21.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 32888.0,Flat,Phnom Penh,7 Makara,Ou Ruessei 1,No Borey,0,Unknown,78.91499999999999,4.0,15.0,0.0,2.0,1.0,0,0,0,0,0,0,1,0,0,0,1
 52000.0,House,Siem Reap,Siem Reap,Siem Reap,No Borey,0,Unknown,200.0,10.0,20.0,0.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0
@@ -3030,14 +3028,14 @@
 295000.0,Twin Villa,Phnom Penh,Chroy Changvar,Chroy Changvar,វិមានភ្នំពេញ,1,Unknown,178.0,9.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 215000.0,Shophouse,Phnom Penh,Chroy Changvar,Preaek Lieb,ភ្នំពេញផាក,1,Unknown,92.4,4.2,22.0,0.0,5.0,6.0,0,0,0,0,0,0,1,0,0,0,1
 290000.0,Twin Villa,Phnom Penh,Chroy Changvar,Preaek Ta Sek,ប៊្លូដាយមិនដ៏ 6A,1,Unknown,178.0,9.0,21.0,0.0,4.0,6.0,0,0,0,0,0,0,1,0,0,0,1
-900000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,ជីបម៉ុង,1,Unknown,491.0,21.58,28.0,0.0,6.0,8.0,0,0,0,0,0,0,1,0,1,0,1
-120000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,ជីបម៉ុង,1,Unknown,189.0,10.0,21.5,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
+900000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,Chipmong,1,Unknown,491.0,21.58,28.0,0.0,6.0,8.0,0,0,0,0,0,0,1,0,1,0,1
+120000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,Chipmong,1,Unknown,189.0,10.0,21.5,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 199000.0,Shophouse,Phnom Penh,Chroy Changvar,Preaek Ta Sek,អ័រគីដេវីឡា,1,Unknown,101.0,4.5,24.5,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 249900.0,Twin Villa,Phnom Penh,Chroy Changvar,Preaek Ta Sek,អ័រគីដេវីឡា,1,Unknown,178.0,9.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 220000.0,Twin Villa,Phnom Penh,Chroy Changvar,Preaek Lieb,វិមានភ្នំពេញ 6A,1,Unknown,178.0,9.0,21.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 790000.0,Villa,Phnom Penh,Chroy Changvar,Preaek Ta Sek,ប៊្លូដាយមិន,1,Unknown,207.0,10.0,21.5,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
 209000.0,Shophouse,Phnom Penh,Chroy Changvar,Bak Khaeng,ហ្គោលដិនផាក,1,Unknown,101.0,4.5,24.5,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
-495000.0,Villa,Phnom Penh,Chroy Changvar,Chroy Changvar,ជីបម៉ុង,1,Unknown,345.0,18.0,21.0,0.0,5.0,6.0,0,0,0,0,0,0,1,0,0,0,1
+495000.0,Villa,Phnom Penh,Chroy Changvar,Chroy Changvar,Chipmong,1,Unknown,345.0,18.0,21.0,0.0,5.0,6.0,0,0,0,0,0,0,1,0,0,0,1
 299900.0,Twin Villa,Phnom Penh,Chroy Changvar,Chroy Changvar,សុភមង្គល,1,Unknown,167.5,8.0,21.0,0.0,3.0,4.0,0,0,0,0,0,0,1,0,0,0,1
 148000.0,Shophouse,Phnom Penh,Chroy Changvar,Chroy Changvar,ហ្គោលដិនផាក,1,Unknown,101.0,4.5,24.5,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 1490000.0,Villa,Phnom Penh,Chroy Changvar,Chroy Changvar,ភ្នំពេញផាក,1,Unknown,207.0,10.0,21.5,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
@@ -3138,7 +3136,7 @@
 199900.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 2,រិទ្ធីស័ក្ដិ,1,Unknown,160.0,5.0,19.5,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
 358880.0,Shophouse,Phnom Penh,Por Senchey,Chaom Chau 3,ពិភពថ្មី,1,Unknown,100.80000000000001,4.2,20.95,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
 120000.0,Shophouse,Phnom Penh,Prek Pnov,Kouk Roka,មេគង្គលែន,1,Unknown,100.0,4.3,19.0,0.0,5.0,5.0,0,0,0,0,0,0,1,0,0,0,1
-899900.0,Villa,Phnom Penh,Sen Sok,Krang Thnong,ជីបម៉ុងពោធិ៍ចិនតុង,1,Unknown,302.0,16.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,1,1,1,0,1
+899900.0,Villa,Phnom Penh,Sen Sok,Krang Thnong,Chipmongពោធិ៍ចិនតុង,1,Unknown,302.0,16.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,1,1,1,0,1
 165000.0,Shophouse,Phnom Penh,Por Senchey,Chaom Chau 1,មេគង្គលែន ហ្គោលឌិន អាវិននូ,1,Unknown,86.4,4.1,20.75,0.0,5.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 125000.0,Villa,Phnom Penh,Kamboul,Snao,វិមានចរណៃ,1,Unknown,200.0,10.0,20.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 198000.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 1,ឡុងនី2,1,Unknown,160.0,5.0,19.5,0.0,4.0,6.0,0,0,0,0,0,0,1,0,0,0,1
@@ -3191,7 +3189,7 @@
 195000.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 1,ឡុងនី2,1,Unknown,160.0,5.0,19.5,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 229900.0,Flat,Phnom Penh,Por Senchey,Kakab 1,No Borey,0,Unknown,92.0,4.1,20.2,0.0,5.0,6.0,0,0,0,0,0,0,1,0,0,0,1
 268000.0,House,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Unknown,131.0,8.1,18.4,0.0,3.0,3.0,0,0,0,0,0,0,1,1,1,0,1
-195000.0,Shophouse,Phnom Penh,Por Senchey,Kakab 1,ជីបម៉ុងពោធិ៍ចិនតុង,1,Unknown,100.80000000000001,4.2,20.95,0.0,4.0,3.0,0,0,0,0,0,0,1,0,0,0,1
+195000.0,Shophouse,Phnom Penh,Por Senchey,Kakab 1,Chipmongពោធិ៍ចិនតុង,1,Unknown,100.80000000000001,4.2,20.95,0.0,4.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 205000.0,Flat,Phnom Penh,Por Senchey,Kakab 1,No Borey,0,Unknown,86.0,4.2,20.0,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
 125000.0,Shophouse,Phnom Penh,Por Senchey,Chaom Chau 1,ពិភពថ្មី,1,Unknown,100.80000000000001,4.2,20.95,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 115000.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 1,ជារី,1,Unknown,160.0,5.0,19.5,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
@@ -3200,7 +3198,7 @@
 159900.0,Flat,Phnom Penh,Sen Sok,Phnom Penh Thmei,ប៊ែលគូលន,1,Unknown,94.0,4.2,22.5,0.0,4.0,6.0,0,0,0,0,0,0,1,0,0,0,1
 349900.0,House,Phnom Penh,Sen Sok,Phnom Penh Thmei,រមនា ជិតផ្សារឈូកមាស,1,Unknown,96.6,5.0,16.0,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
 169900.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,វ៉ារីណា ដឹសែនសុខ,1,Unknown,160.0,5.5,20.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
-139900.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,ជីបម៉ុងសែនសុខ,1,Unknown,91.43,5.5,20.0,0.0,3.0,3.0,0,0,0,0,0,0,1,0,0,0,1
+139900.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,Chipmongសែនសុខ,1,Unknown,91.43,5.5,20.0,0.0,3.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 239900.0,Flat,Phnom Penh,Sen Sok,Kouk Khleang,ពិភពថ្មីឈូកមាស,1,Unknown,94.0,4.2,22.5,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 109900.0,Villa,Phnom Penh,Por Senchey,Chaom Chau 1,ហុកឆេង,1,Unknown,160.0,5.0,19.5,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 299000.0,Shophouse,Phnom Penh,Sen Sok,Kouk Khleang,ពិភពថ្មីខុនដូសែនសុខ,1,Unknown,94.5,4.2,22.25,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
@@ -3209,15 +3207,15 @@
 269900.0,House,Phnom Penh,Sen Sok,Tuek Thla,No Borey,0,Unknown,115.5,5.0,16.0,0.0,6.0,6.0,0,0,0,0,0,0,1,0,0,0,1
 465000.0,House,Phnom Penh,Sen Sok,Ou Baek K'am,No Borey,0,Unknown,96.6,5.0,16.0,0.0,4.0,6.0,0,0,0,0,0,0,1,1,0,0,1
 799900.0,House,Phnom Penh,Sen Sok,Ou Baek K'am,No Borey,0,Unknown,96.6,5.0,16.0,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
-189900.0,Flat,Phnom Penh,Sen Sok,Krang Thnong,ពិភពថ្មីឈូកមាស លើ,1,Unknown,96.0,4.2,22.5,0.0,5.0,6.0,0,0,0,0,0,0,1,0,0,0,1
+189900.0,Flat,Phnom Penh,Sen Sok,Krang Thnong,Piphobtmey លើ,1,Unknown,96.0,4.2,22.5,0.0,5.0,6.0,0,0,0,0,0,0,1,0,0,0,1
 185000.0,Link House,Phnom Penh,Sen Sok,Phnom Penh Thmei,ប៉េងហួតដឹស្តាឡៃត៏,1,Unknown,90.0,4.2,18.1,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 699000.0,Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,No Borey,0,Unknown,302.0,16.0,23.0,0.0,6.0,8.0,0,0,0,0,0,0,1,1,1,0,1
 189900.0,Flat,Phnom Penh,Sen Sok,Kouk Khleang,រម្យនា,1,Unknown,94.0,4.2,22.5,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 409900.0,Shophouse,Phnom Penh,Sen Sok,Phnom Penh Thmei,No Borey,0,Unknown,94.5,4.2,22.25,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
-279600.0,Twin Villa,Phnom Penh,Sen Sok,Kouk Khleang,អ័រគីដេពោធិ៍ចិនតុង,1,Unknown,160.0,7.5,20.0,0.0,4.0,6.0,0,0,0,0,0,0,1,0,0,0,1
+279600.0,Twin Villa,Phnom Penh,Sen Sok,Kouk Khleang,Orkide,1,Unknown,160.0,7.5,20.0,0.0,4.0,6.0,0,0,0,0,0,0,1,0,0,0,1
 229900.0,Flat,Phnom Penh,Sen Sok,Phnom Penh Thmei,No Borey,0,Unknown,94.0,4.2,22.5,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
-279900.0,Twin Villa,Phnom Penh,Sen Sok,Kouk Khleang,អ័រគីដេពោធិ៍ចិនតុង,1,Unknown,160.0,7.5,20.0,0.0,4.0,6.0,0,0,0,0,0,0,1,0,0,0,1
-549900.0,Villa,Phnom Penh,Sen Sok,Kouk Khleang,អ័រគីដេរពោធិ៍ចិនតុង,1,Unknown,352.5,16.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,1,0,0,0,1
+279900.0,Twin Villa,Phnom Penh,Sen Sok,Kouk Khleang,Orkide,1,Unknown,160.0,7.5,20.0,0.0,4.0,6.0,0,0,0,0,0,0,1,0,0,0,1
+549900.0,Villa,Phnom Penh,Sen Sok,Kouk Khleang,Orkide,1,Unknown,352.5,16.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,1,0,0,0,1
 444000.0,Shophouse,Phnom Penh,Sen Sok,Krang Thnong,វ៉ារីណាដឹសែនសុខ,1,Unknown,94.5,4.2,22.25,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 260000.0,Twin Villa,Phnom Penh,Sen Sok,Phnom Penh Thmei,ពិភពថ្មីអ៉ីអន2,1,Unknown,160.0,7.5,20.0,0.0,4.0,5.0,0,0,0,0,0,0,1,0,0,0,1
 59500.0,House,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Unknown,100.0,5.0,19.5,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
@@ -3236,7 +3234,7 @@
 45000.0,House,Mondulkiri,Krong Saen Monourom,Spean Mean Chey,No Borey,0,Unknown,106.07,5.0,19.0,0.0,1.0,1.0,0,0,0,0,0,0,1,0,0,0,1
 25000.0,Flat,Phnom Penh,Prek Pnov,Ponsang,No Borey,0,Unknown,86.1,4.15,21.1,0.0,2.0,2.0,0,0,0,0,0,0,1,0,0,0,1
 275000.0,Villa,Phnom Penh,Por Senchey,Kakab 1,No Borey,0,Unknown,943.0,29.0,39.0,0.0,5.0,6.0,0,0,0,0,0,0,1,0,0,0,1
-568000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 2,ប៉េងហួត 598,1,Unknown,322.0,16.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,1,1,1,0,1
+568000.0,Villa,Phnom Penh,Russey Keo,Chrang Chamreh 2,ប៉េងហួត,1,Unknown,322.0,16.0,23.0,0.0,5.0,6.0,0,0,0,0,0,0,1,1,1,0,1
 56491.7,House,Phnom Penh,Mean Chey,Boeng Tumpun 1,No Borey,0,Unknown,137.0,8.0,17.5,0.0,4.0,5.0,0,0,0,0,0,0,1,1,1,0,1
 65000.0,House,Phnom Penh,Dangkao,Dangkao,ហុកឆេង ចំការដូង,1,Unknown,88.0,4.2,21.0,0.0,2.0,3.0,0,0,0,0,0,0,1,0,0,0,1
 315000.0,Condo,Phnom Penh,Daun Penh,Phsar Kandal 2,No Borey,0,Unknown,250.0,0.0,0.0,4.0,3.0,2.0,0,0,0,0,0,0,0,0,1,0,0
@@ -3413,7 +3411,6 @@
 110000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,89.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 1000000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,330.0,0.0,0.0,16.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 1680000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,412.0,0.0,0.0,16.0,5.0,4.0,0,0,0,0,0,0,0,0,1,1,0
-10000000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,67.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,1,1,1,1,0
 28800.0,Condo,Phnom Penh,Sen Sok,Tuek Thla,No Borey,0,Unknown,23.0,0.0,0.0,9.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 15000.0,Condo,Phnom Penh,Sen Sok,Tuek Thla,No Borey,0,Unknown,48.0,0.0,0.0,9.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 2390000.0,Condo,Phnom Penh,Daun Penh,Srah Chak,No Borey,0,Unknown,564.0,0.0,0.0,6.0,4.0,4.0,0,0,0,0,0,0,0,0,1,1,0
@@ -3599,7 +3596,6 @@
 330000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Unknown,201.0,0.0,0.0,12.0,4.0,4.0,0,0,0,0,0,0,0,0,1,1,0
 85000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 3,No Borey,0,Unknown,104.0,0.0,0.0,7.0,2.0,2.0,0,0,0,0,0,0,0,0,1,0,0
 74999.0,Condo,Phnom Penh,Sen Sok,Phnom Penh Thmei,No Borey,0,Unknown,62.0,0.0,0.0,9.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
-19369289.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Unknown,64.5,0.0,0.0,18.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 99500.0,Condo,Siem Reap,Siem Reap,Sala Kamraeuk,No Borey,0,Unknown,113.0,0.0,0.0,2.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 53000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,85.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 620000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 2,No Borey,0,Unknown,108.0,0.0,0.0,12.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
@@ -4006,7 +4002,6 @@
 59789.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,49.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 59289.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,49.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 55555.0,Condo,Phnom Penh,Mean Chey,Chak Angrae Leu,No Borey,0,Unknown,55.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
-3699999.0,Condo,Phnom Penh,Daun Penh,Phsar Kandal 1,No Borey,0,Unknown,75.5,0.0,0.0,6.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 85000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,54.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 79000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Hard Title,70.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 97000.0,Condo,Phnom Penh,Mean Chey,Chak Angrae Leu,No Borey,0,Unknown,54.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,1,1,1,1,0
@@ -4192,7 +4187,6 @@
 120000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,60.0,0.0,0.0,16.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 120000.0,Condo,Phnom Penh,Chamkar Mon,Boeng Trabaek,No Borey,0,Unknown,43.0,0.0,0.0,18.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 250000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,91.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
-15000000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Unknown,52.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 35000.0,Condo,Phnom Penh,Mean Chey,Boeng Tumpun 1,No Borey,0,Unknown,45.0,0.0,0.0,25.0,1.0,1.0,0,0,0,0,0,0,0,0,1,0,0
 69888.0,Condo,Phnom Penh,Mean Chey,Chak Angrae Leu,No Borey,0,Unknown,47.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 1950000.0,Condo,Phnom Penh,Sen Sok,Khmuonh,No Borey,0,Unknown,582.0,0.0,0.0,9.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
@@ -4303,7 +4297,6 @@
 39000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,30.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 57193.0,Condo,Phnom Penh,Chamkar Mon,Tuol Tumpung 1,No Borey,0,Unknown,44.0,0.0,0.0,18.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 38800.0,Condo,Preah Sihanouk,Stueng Hav,Ou Treh,No Borey,0,Unknown,36.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
-10000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,67.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,1,1,1,1,0
 55000.0,Condo,Preah Sihanouk,Krong Preah Sihanouk,Sangkat 3,No Borey,0,Unknown,48.0,0.0,0.0,14.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 155500.0,Condo,Phnom Penh,Por Senchey,Kakab 1,No Borey,0,Unknown,108.0,0.0,0.0,5.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 56000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Unknown,62.0,0.0,0.0,18.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
@@ -4364,7 +4357,7 @@
 253000.0,Condo,Phnom Penh,Russey Keo,Tuol Sangkae 1,No Borey,0,Unknown,57.25,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 48000.0,Condo,Phnom Penh,Mean Chey,Boeng Tumpun 1,No Borey,0,Unknown,38.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 95000.0,Condo,Phnom Penh,Chamkar Mon,Boeng Trabaek,No Borey,0,Unknown,62.0,0.0,0.0,18.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
-135000.0,Condo,Phnom Penh,7 Makara,Veal Vong,កីឡា,1,Unknown,103.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,1,0,1,1,0
+135000.0,Condo,Phnom Penh,7 Makara,Veal Vong,No Borey,1,Unknown,103.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,1,0,1,1,0
 60000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,58.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 40000.0,Condo,Phnom Penh,Mean Chey,Boeng Tumpun 2,No Borey,0,Unknown,37.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 120000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Unknown,49.0,0.0,0.0,18.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
@@ -4373,7 +4366,6 @@
 110000.0,Condo,Phnom Penh,Sen Sok,Ou Baek K'am,No Borey,0,Unknown,151.0,0.0,0.0,9.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 65000.0,Condo,Phnom Penh,7 Makara,Veal Vong,Keila,1,Unknown,38.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 38000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 3,No Borey,0,Unknown,40.0,0.0,0.0,16.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
-6217000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,65.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 34000.0,Condo,Phnom Penh,Chamkar Mon,Tuol Tumpung 1,No Borey,0,Unknown,47.0,0.0,0.0,18.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 54000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Unknown,57.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 35000.0,Condo,Kandal,Akreiy Ksatr,Akreiy Ksatr,No Borey,0,Unknown,40.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
@@ -4384,7 +4376,6 @@
 299000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,170.0,0.0,0.0,16.0,4.0,4.0,0,0,0,0,0,0,0,0,1,1,0
 275000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Unknown,77.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 414835.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,117.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
-6217400.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,65.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 125000.0,Condo,Phnom Penh,Chamkar Mon,Boeng Trabaek,No Borey,0,Unknown,52.0,0.0,0.0,18.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 80000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Unknown,65.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 89000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,64.0,0.0,0.0,2.0,1.0,1.0,0,0,0,0,0,0,0,1,1,0,0
@@ -4679,7 +4670,7 @@
 140000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,67.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,1,1,1,1,0
 35000.0,Condo,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Unknown,112.0,0.0,0.0,5.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 135000.0,Condo,Phnom Penh,Mean Chey,Stueng Mean Chey 1,អូគីដេ 2004 អគារA ជាន់ទី5,1,Unknown,54.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,1,1,1,1,0
-38000.0,Condo,Phnom Penh,7 Makara,Veal Vong,Keila,1,Unknown,35.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
+38000.0,Condo,Phnom Penh,7 Makara,Veal Vong,No Borey,1,Unknown,35.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 45000.0,Condo,Phnom Penh,7 Makara,Veal Vong,No Borey,0,Unknown,48.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 250000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,91.0,0.0,0.0,16.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 52000.0,Condo,Phnom Penh,Mean Chey,Chak Angrae Leu,No Borey,0,Unknown,50.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
@@ -4748,7 +4739,7 @@
 664000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,212.0,0.0,0.0,12.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 389000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Unknown,178.0,0.0,0.0,18.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 165000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Unknown,90.0,0.0,0.0,18.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
-58500.0,Condo,Phnom Penh,Tuol Kouk,Phsar Depou 2,កីឡា ក្បែរអូឡាំព្យា,1,Unknown,52.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
+58500.0,Condo,Phnom Penh,Tuol Kouk,Phsar Depou 2,No Borey,1,Unknown,52.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 289999.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,127.0,0.0,0.0,12.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 79000.0,Condo,Phnom Penh,Tuol Kouk,Phsar Depou 1,No Borey,0,Unknown,70.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 28000.0,Condo,Phnom Penh,Sen Sok,Tuek Thla,No Borey,0,Unknown,24.0,0.0,0.0,9.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
@@ -4835,7 +4826,6 @@
 59000.0,Condo,Phnom Penh,Mean Chey,Chak Angrae Leu,No Borey,0,Unknown,58.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 201743.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,91.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 98487.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,76.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
-1300000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Unknown,64.5,0.0,0.0,18.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 52000.0,Condo,Phnom Penh,Chbar Ampov,Nirouth,No Borey,0,Unknown,55.0,0.0,0.0,15.0,1.0,1.0,0,0,0,0,0,0,1,1,1,1,0
 44900.0,Condo,Preah Sihanouk,Krong Preah Sihanouk,Sangkat 2,No Borey,0,Unknown,49.0,0.0,0.0,14.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 35000.0,Condo,Preah Sihanouk,Krong Preah Sihanouk,Sangkat 4,No Borey,0,Unknown,38.0,0.0,0.0,14.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
@@ -4937,7 +4927,6 @@
 47000.0,Condo,Phnom Penh,Mean Chey,Chak Angrae Leu,No Borey,0,Unknown,50.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 130858.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 3,No Borey,0,Unknown,28.0,0.0,0.0,16.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 142343.0,Condo,Preah Sihanouk,Krong Preah Sihanouk,Sangkat 2,No Borey,0,Unknown,85.0,0.0,0.0,14.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
-3300000.0,Condo,Phnom Penh,Sen Sok,Phnom Penh Thmei,No Borey,0,Unknown,48.0,0.0,0.0,9.0,1.0,1.0,0,0,0,0,0,0,1,1,1,1,0
 79000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,65.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 6500.0,Condo,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Unknown,16.0,0.0,0.0,5.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 96000.0,Condo,Phnom Penh,Mean Chey,Stueng Mean Chey 1,No Borey,0,Unknown,55.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
@@ -5073,7 +5062,6 @@
 280000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Unknown,21.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 56056.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 3,No Borey,0,Unknown,50.0,0.0,0.0,16.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 68000.0,Condo,Phnom Penh,Sen Sok,Tuek Thla,No Borey,0,Unknown,31.0,0.0,0.0,9.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
-3500000.0,Condo,Phnom Penh,7 Makara,Veal Vong,No Borey,0,Unknown,53.75,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,1,1,1,1,0
 260000.0,Condo,Siem Reap,Siem Reap,Siem Reap,No Borey,0,Unknown,235.0,0.0,0.0,2.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 400000.0,Condo,Siem Reap,Siem Reap,Svay Dangkum,No Borey,0,Unknown,360.0,0.0,0.0,2.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 79800.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,30.0,0.0,0.0,16.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
@@ -5133,7 +5121,6 @@
 88000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Unknown,39.0,0.0,0.0,18.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 80000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Unknown,73.0,0.0,0.0,18.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 105000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Unknown,51.0,0.0,0.0,18.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
-6000.0,Condo,Phnom Penh,Russey Keo,Russey Keo,No Borey,0,Unknown,57.5,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,1,0,1,1,0
 105000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,61.0,0.0,0.0,16.0,1.0,1.0,0,0,0,0,0,0,0,0,0,1,0
 105000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,60.0,0.0,0.0,16.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 88000.0,Condo,Phnom Penh,7 Makara,Veal Vong,No Borey,0,Unknown,68.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
@@ -5148,7 +5135,6 @@
 289999.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,190.0,0.0,0.0,16.0,4.0,4.0,0,0,0,0,0,0,0,0,1,1,0
 102250.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,75.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 270000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Unknown,105.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
-6206272.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,65.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 295000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,135.0,0.0,0.0,16.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 52763.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Unknown,39.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 270000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,143.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
@@ -5186,7 +5172,6 @@
 59949.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,49.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 170940.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Unknown,130.0,0.0,0.0,12.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 77784.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Unknown,60.0,0.0,0.0,2.0,1.0,1.0,0,0,0,0,0,0,0,0,1,0,0
-5000000.0,Condo,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Unknown,102.0,0.0,0.0,5.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 60000.0,Condo,Phnom Penh,Sen Sok,Phnom Penh Thmei,No Borey,0,Unknown,38.0,0.0,0.0,9.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 52763.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Unknown,39.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 90000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,56.0,0.0,0.0,16.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
@@ -5246,7 +5231,6 @@
 65000.0,Condo,Phnom Penh,Mean Chey,Boeng Tumpun 1,No Borey,0,Unknown,59.0,0.0,0.0,13.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 90500.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,38.0,0.0,0.0,16.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 890000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,330.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
-5589000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,65.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 25000.0,Condo,Phnom Penh,Mean Chey,Stueng Mean Chey 2,No Borey,0,Unknown,58.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 45000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,44.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 98900.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 3,No Borey,0,Unknown,56.0,0.0,0.0,16.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
@@ -5255,7 +5239,6 @@
 1719000.0,Condo,Phnom Penh,Daun Penh,Phsar Chas,No Borey,0,Unknown,364.0,0.0,0.0,6.0,4.0,4.0,0,0,0,0,0,0,0,0,1,1,0
 2200000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,420.0,0.0,0.0,16.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 1250000.0,Condo,Phnom Penh,7 Makara,Veal Vong,No Borey,0,Unknown,391.0,0.0,0.0,12.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
-3560000.0,Condo,Phnom Penh,Daun Penh,Phsar Chas,No Borey,0,Unknown,75.5,0.0,0.0,6.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 1000000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,281.0,0.0,0.0,16.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 708500.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,214.0,0.0,0.0,12.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 2160000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Unknown,420.0,0.0,0.0,18.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
@@ -5314,7 +5297,6 @@
 85000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 3,No Borey,0,Unknown,40.0,0.0,0.0,16.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 53000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,67.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,1,1,1,1,0
 49000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Unknown,32.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
-5140000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,65.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 97000.0,Condo,Phnom Penh,Chamkar Mon,Boeng Trabaek,No Borey,0,Unknown,52.0,0.0,0.0,18.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 95000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 3,No Borey,0,Unknown,53.0,0.0,0.0,16.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 120000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 3,No Borey,0,Unknown,65.0,0.0,0.0,30.0,2.0,2.0,0,0,0,0,0,0,0,0,1,0,0
@@ -5353,7 +5335,6 @@
 896000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,266.0,0.0,0.0,50.0,4.0,4.0,0,0,0,0,0,0,0,0,1,0,0
 148000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,45.0,0.0,0.0,16.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 450000.0,Condo,Phnom Penh,Sen Sok,Tuek Thla,No Borey,0,Unknown,346.0,0.0,0.0,9.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
-3200000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,65.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 3600000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,467.0,0.0,0.0,16.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 1181900.0,Condo,Phnom Penh,Mean Chey,Chak Angrae Leu,No Borey,0,Unknown,388.0,0.0,0.0,13.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 294000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,91.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
@@ -5546,7 +5527,6 @@
 50000.0,Condo,Phnom Penh,Sen Sok,Phnom Penh Thmei,No Borey,0,Unknown,37.0,0.0,0.0,9.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 64000.0,Condo,Phnom Penh,Chbar Ampov,Nirouth,No Borey,0,Unknown,46.0,0.0,0.0,15.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 155000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,110.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
-3000000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Unknown,64.5,0.0,0.0,18.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 48500.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,45.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 86922.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,75.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 203900.0,Condo,Phnom Penh,Chbar Ampov,Chbar Ampov 1,No Borey,0,Unknown,94.0,0.0,0.0,15.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
@@ -5816,7 +5796,6 @@
 55000.0,Condo,Phnom Penh,Mean Chey,Chak Angrae Leu,No Borey,0,Unknown,60.0,0.0,0.0,13.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 162527.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Unknown,91.0,0.0,0.0,18.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 79800.0,Condo,Phnom Penh,Daun Penh,Srah Chak,No Borey,0,Unknown,40.0,0.0,0.0,6.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
-5500000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Unknown,64.5,0.0,0.0,18.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 51000.0,Condo,Phnom Penh,Mean Chey,Chak Angrae Leu,No Borey,0,Unknown,63.0,0.0,0.0,13.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 130800.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 3,No Borey,0,Unknown,67.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 27500.0,Condo,Phnom Penh,Sen Sok,Tuek Thla,No Borey,0,Unknown,23.0,0.0,0.0,9.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
@@ -5847,7 +5826,6 @@
 4600000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,466.0,0.0,0.0,16.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 178364.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,61.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 273326.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,126.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
-3500000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,67.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,1,1,1,1,0
 244808.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,104.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 267039.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,102.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 240000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,108.0,0.0,0.0,12.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
@@ -5866,7 +5844,6 @@
 786000.0,Condo,Phnom Penh,Daun Penh,Phsar Chas,No Borey,0,Unknown,189.0,0.0,0.0,6.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 700000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,150.0,0.0,0.0,16.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 759550.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Unknown,196.0,0.0,0.0,6.0,3.0,2.0,0,0,0,0,0,0,0,0,1,0,0
-3660000.0,Condo,Phnom Penh,Daun Penh,Srah Chak,No Borey,0,Unknown,75.5,0.0,0.0,6.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 950500.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,340.0,0.0,0.0,16.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 620400.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,216.0,0.0,0.0,12.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 662000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,147.0,0.0,0.0,16.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
@@ -5918,7 +5895,6 @@
 130207.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 3,No Borey,0,Unknown,47.0,0.0,0.0,16.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 53000.0,Condo,Phnom Penh,Russey Keo,Russey Keo,No Borey,0,Unknown,57.5,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,1,0,1,1,0
 114300.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,90.0,0.0,0.0,21.0,2.0,2.0,0,0,0,0,0,0,0,0,1,0,0
-8900000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 3,No Borey,0,Unknown,65.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 58000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,45.0,0.0,0.0,16.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 2153387.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,412.0,0.0,0.0,16.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 63333.0,Condo,Phnom Penh,Tuol Kouk,Tuek L'ak 1,No Borey,0,Unknown,46.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
@@ -5964,7 +5940,6 @@
 88000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,57.0,0.0,0.0,16.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 2373000.0,Condo,Phnom Penh,Daun Penh,Phsar Chas,No Borey,0,Unknown,559.0,0.0,0.0,6.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 2395000.0,Condo,Phnom Penh,Daun Penh,Phsar Chas,No Borey,0,Unknown,564.0,0.0,0.0,6.0,4.0,4.0,0,0,0,0,0,0,0,0,1,1,0
-5097000.0,Condo,Phnom Penh,Daun Penh,Phsar Chas,No Borey,0,Unknown,75.5,0.0,0.0,6.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 104000.0,Condo,Phnom Penh,Chroy Changvar,Bak Khaeng,No Borey,0,Unknown,101.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 345000.0,Condo,Phnom Penh,Russey Keo,Tuol Sangkae 1,No Borey,0,Unknown,166.0,0.0,0.0,12.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 55512.0,Condo,Phnom Penh,Russey Keo,Svay Pak,No Borey,0,Unknown,65.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
@@ -6022,7 +5997,6 @@
 1510000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,335.0,0.0,0.0,16.0,4.0,4.0,0,0,0,0,0,0,0,0,1,1,0
 1400000.0,Condo,Phnom Penh,Mean Chey,Chak Angrae Leu,No Borey,0,Unknown,848.0,0.0,0.0,24.0,3.0,2.0,0,0,0,0,0,0,0,1,1,0,0
 5000000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,1000.0,0.0,0.0,16.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
-3320000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,65.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 1147700.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,281.0,0.0,0.0,16.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 63000.0,Condo,Phnom Penh,Mean Chey,Chak Angrae Leu,No Borey,0,Unknown,51.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 61800.0,Condo,Phnom Penh,Chamkar Mon,Boeng Trabaek,No Borey,0,Unknown,64.5,0.0,0.0,18.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
@@ -6034,7 +6008,6 @@
 160000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,108.0,0.0,0.0,16.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 130000.0,Condo,Phnom Penh,7 Makara,Veal Vong,No Borey,0,Unknown,66.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 140000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,80.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,0,0,0,1,0
-3657000.0,Condo,Phnom Penh,Daun Penh,Phsar Chas,No Borey,0,Unknown,75.5,0.0,0.0,6.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 559700.0,Condo,Phnom Penh,Daun Penh,Phsar Chas,No Borey,0,Unknown,189.0,0.0,0.0,6.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 50000.0,Condo,Preah Sihanouk,Krong Preah Sihanouk,Kaoh Rung,No Borey,0,Unknown,43.0,0.0,0.0,14.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 80000.0,Condo,Preah Sihanouk,Krong Preah Sihanouk,Kaoh Rung,No Borey,0,Unknown,64.0,0.0,0.0,14.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
@@ -6151,7 +6124,6 @@
 115000.0,Condo,Phnom Penh,Sen Sok,Phnom Penh Thmei,No Borey,0,Unknown,100.0,0.0,0.0,9.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 57000.0,Condo,Phnom Penh,Mean Chey,Chak Angrae Leu,No Borey,0,Unknown,70.0,0.0,0.0,13.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 950000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,265.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
-1200000.0,Condo,Phnom Penh,Daun Penh,Chakto Mukh,No Borey,0,Unknown,75.5,0.0,0.0,6.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 320000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Unknown,160.0,0.0,0.0,18.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 95000.0,Condo,Phnom Penh,Russey Keo,Tuol Sangkae 1,No Borey,0,Unknown,118.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 119000.0,Condo,Phnom Penh,Sen Sok,Tuek Thla,No Borey,0,Unknown,48.0,0.0,0.0,9.0,1.0,1.0,0,0,0,0,0,0,1,1,1,1,0
@@ -6211,7 +6183,6 @@
 78000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,41.0,0.0,0.0,16.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 39000.0,Condo,Phnom Penh,Mean Chey,Chak Angrae Leu,No Borey,0,Unknown,39.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 41000.0,Condo,Phnom Penh,Mean Chey,Chak Angrae Leu,No Borey,0,Unknown,29.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
-6500.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,65.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 45000.0,Condo,Phnom Penh,Chamkar Mon,Boeng Trabaek,No Borey,0,Unknown,50.0,0.0,0.0,18.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 250000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,215.0,0.0,0.0,12.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 68000.0,Condo,Phnom Penh,Russey Keo,Kilomaetr Lekh Prammuoy,No Borey,0,Unknown,59.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
@@ -6275,7 +6246,6 @@
 110000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Unknown,48.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 199500.0,Condo,Phnom Penh,Mean Chey,Chak Angrae Leu,No Borey,0,Unknown,111.0,0.0,0.0,13.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 234567.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,120.0,0.0,0.0,16.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
-1520000.0,Condo,Banteay Meanchey,Paoy Paet,Paoy Paet,No Borey,0,Unknown,60.0,0.0,0.0,13.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 185000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,61.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,1,1,0,0
 115000.0,Condo,Phnom Penh,Russey Keo,Tuol Sangkae 1,No Borey,0,Unknown,100.0,0.0,0.0,5.0,2.0,2.0,0,0,0,0,0,0,0,0,1,0,0
 120500.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,65.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,1,1,1,0,0
@@ -6285,7 +6255,6 @@
 120000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,42.0,0.0,0.0,20.0,1.0,1.0,0,0,0,0,0,0,0,1,1,0,0
 151660.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,55.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 214051.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,84.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
-6500000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,65.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 285829.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,107.0,0.0,0.0,16.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 268000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,145.0,0.0,0.0,16.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 115000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,100.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,1,0,1,1,0
@@ -6317,7 +6286,6 @@
 79000.0,Condo,Phnom Penh,Sen Sok,Phnom Penh Thmei,No Borey,0,Unknown,72.0,0.0,0.0,9.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 450000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,166.0,0.0,0.0,16.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 45000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,44.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
-4000000.0,Condo,Phnom Penh,Chamkar Mon,Tuol Tumpung 1,No Borey,0,Unknown,64.5,0.0,0.0,18.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 96000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,100.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 200000.0,Condo,Phnom Penh,Mean Chey,Chak Angrae Leu,No Borey,0,Unknown,117.0,0.0,0.0,30.0,3.0,2.0,0,0,0,0,0,0,0,0,1,0,0
 86922.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 3,No Borey,0,Unknown,75.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
@@ -6391,7 +6359,6 @@
 1165474.0,Condo,Phnom Penh,Mean Chey,Stueng Mean Chey 1,No Borey,0,Unknown,343.0,0.0,0.0,13.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 1127643.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,281.0,0.0,0.0,16.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 1700000.0,Condo,Phnom Penh,Mean Chey,Stueng Mean Chey 1,No Borey,0,Unknown,343.0,0.0,0.0,13.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
-6237700.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,65.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 1101030.0,Condo,Phnom Penh,Daun Penh,Srah Chak,No Borey,0,Unknown,400.0,0.0,0.0,6.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
 650000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Unknown,229.0,0.0,0.0,4.0,3.0,2.0,0,0,0,0,0,0,0,1,1,0,0
 816000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,236.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,1,1,1,0
@@ -6493,7 +6460,6 @@
 58000.0,Condo,Phnom Penh,Russey Keo,Russey Keo,No Borey,0,Unknown,67.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,0,1,1,0
 289899.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,190.0,0.0,0.0,16.0,4.0,4.0,0,0,0,0,0,0,0,0,1,1,0
 259999.0,Condo,Phnom Penh,Russey Keo,Tuol Sangkae 1,រិទ្ធ លុចស្សៀរី,1,Unknown,57.25,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
-3379893.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,67.0,0.0,0.0,1.0,1.0,1.0,0,0,0,0,0,0,1,1,1,0,0
 199899.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,130.0,0.0,0.0,16.0,3.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 100000.0,Condo,Phnom Penh,Chamkar Mon,Boeng Trabaek,No Borey,0,Unknown,52.0,0.0,0.0,18.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 600000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,173.0,0.0,0.0,16.0,3.0,2.0,0,0,0,0,0,0,0,1,1,1,0
@@ -6621,7 +6587,6 @@
 68000.0,Condo,Phnom Penh,Russey Keo,Russey Keo,No Borey,0,Unknown,65.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 39000.0,Condo,Preah Sihanouk,Krong Preah Sihanouk,Sangkat 1,No Borey,0,Unknown,47.0,0.0,0.0,14.0,1.0,1.0,0,0,0,0,0,0,1,1,1,1,0
 35000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,35.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
-6000000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,65.0,0.0,0.0,16.0,2.0,2.0,0,0,0,0,0,0,1,1,1,1,0
 85000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 2,No Borey,0,Unknown,67.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,0,1,1,0
 49497.0,Condo,Phnom Penh,Mean Chey,Stueng Mean Chey 1,No Borey,0,Unknown,33.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 44000.0,Condo,Phnom Penh,Chamkar Mon,Phsar Daeum Thkov,No Borey,0,Hard Title,45.0,0.0,0.0,18.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
@@ -10176,7 +10141,6 @@
 270000.0,Shophouse,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Hard Title,99.0,4.2,22.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,1
 4000000.0,Villa,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Hard Title,504.0,18.0,28.0,0.0,7.0,8.0,0,0,0,0,0,0,0,1,1,0,0
 140000.0,Flat,Phnom Penh,Dangkao,Dangkao,No Borey,0,Hard Title,91.2,4.0,22.8,0.0,2.0,3.0,0,0,0,0,0,0,0,0,0,0,0
-11000000.0,House,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Hard Title,129.56,5.0,24.0,0.0,6.0,6.0,0,0,0,0,0,0,1,1,1,0,1
 170000.0,House,Phnom Penh,Mean Chey,Boeng Tumpun,No Borey,0,Hard Title,112.0,7.0,16.0,0.0,3.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 203000.0,Villa,Phnom Penh,Chbar Ampov,Nirouth,No Borey,0,Hard Title,126.0,6.3,20.0,0.0,4.0,5.0,0,0,0,0,0,0,0,0,0,0,0
 185000.0,Shophouse,Phnom Penh,Dangkao,Prey Sa,No Borey,0,Soft Title,88.0,4.1,20.0,0.0,4.0,5.0,0,0,1,0,0,1,0,0,0,0,1
@@ -11533,7 +11497,6 @@
 62000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Hard Title,50.0,0.0,0.0,5.0,1.0,1.0,0,1,1,1,0,1,0,0,0,0,0
 160000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Hard Title,91.0,0.0,0.0,12.0,2.0,2.0,1,1,0,1,0,0,0,0,0,1,0
 92000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Hard Title,52.0,0.0,0.0,12.0,1.0,1.0,1,1,0,1,0,0,0,0,0,1,0
-2800000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 3,No Borey,0,Hard Title,65.0,0.0,0.0,7.0,2.0,2.0,0,0,1,0,0,0,1,1,1,0,0
 73000.0,Condo,Phnom Penh,Mean Chey,Boeng Tumpun,No Borey,0,Hard Title,58.0,0.0,0.0,8.0,1.0,1.0,1,1,1,1,0,1,0,0,0,0,0
 228000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Hard Title,92.0,0.0,0.0,23.0,2.0,1.0,1,1,1,1,0,1,0,0,0,0,0
 58000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 2,No Borey,0,Hard Title,24.0,0.0,0.0,23.0,1.0,1.0,0,1,1,0,0,0,0,0,0,0,0
@@ -11555,7 +11518,6 @@
 183600.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Hard Title,101.0,0.0,0.0,11.0,2.0,2.0,1,1,1,1,1,1,0,0,0,0,0
 277000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Hard Title,76.0,0.0,0.0,12.0,1.0,1.0,1,1,1,1,1,1,0,0,0,0,0
 150000.0,Condo,Phnom Penh,7 Makara,Mittapheap,No Borey,0,Soft Title,103.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,1,1,0,0,1,0
-2800000.0,Condo,Phnom Penh,Chamkar Mon,Tuol Tumpung 2,No Borey,0,Hard Title,154.0,0.0,0.0,18.0,15.0,15.0,0,0,0,1,0,0,1,0,0,1,0
 170000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,De Castle Royal Condominium,1,Hard Title,76.0,0.0,0.0,28.0,1.0,1.0,1,1,1,1,0,0,0,0,0,0,0
 119500.0,Condo,Phnom Penh,Mean Chey,Chak Angrae Leu,Urban Village Phase 2,1,Hard Title,60.0,0.0,0.0,7.0,2.0,2.0,1,1,1,1,0,1,0,0,0,0,0
 78000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 3,No Borey,0,Hard Title,35.0,0.0,0.0,19.0,1.0,1.0,0,0,0,0,0,0,0,0,0,0,0
@@ -11777,9 +11739,7 @@
 66500.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 2,No Borey,0,Strata Title,24.0,0.0,0.0,15.0,1.0,1.0,0,0,0,0,0,0,0,0,0,0,0
 47000.0,Condo,Phnom Penh,Mean Chey,Boeng Tumpun 2,No Borey,0,Hard Title,80.0,0.0,0.0,5.0,2.0,1.0,0,0,0,0,0,0,0,0,0,0,0
 80000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Strata Title,52.0,0.0,0.0,29.0,1.0,1.0,0,0,1,0,0,1,0,0,0,0,0
-12000000.0,Condo,Phnom Penh,Chamkar Mon,Boeng Trabaek,No Borey,0,Hard Title,64.5,0.0,0.0,18.0,2.0,2.0,0,1,1,1,1,1,1,1,1,1,0
 85000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Strata Title,71.0,0.0,0.0,18.0,1.0,1.0,0,0,0,1,0,0,0,0,0,1,0
-2000000.0,Condo,Phnom Penh,Sen Sok,Phnom Penh Thmei,No Borey,0,Hard Title,48.0,0.0,0.0,9.0,1.0,1.0,0,0,1,0,0,0,1,1,1,1,0
 200000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Hard Title,101.0,0.0,0.0,21.0,2.0,2.0,1,1,1,1,1,1,0,0,0,0,0
 218000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Hard Title,153.0,0.0,0.0,1.0,2.0,2.0,1,0,1,1,0,0,0,0,0,0,0
 74400.0,Condo,Phnom Penh,Daun Penh,Boeng Reang,No Borey,0,Strata Title,50.0,0.0,0.0,6.0,1.0,1.0,0,0,0,1,0,0,0,0,0,0,0
@@ -11913,12 +11873,10 @@
 130000.0,Condo,Phnom Penh,Por Senchey,Chaom Chau 1,No Borey,0,Hard Title,61.0,0.0,0.0,5.0,4.0,5.0,0,0,0,0,0,0,1,0,0,1,0
 60000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Hard Title,33.0,0.0,0.0,16.0,1.0,1.0,0,1,0,1,0,0,0,0,0,0,0
 69000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Hard Title,62.0,0.0,0.0,6.0,1.0,1.0,1,0,0,1,0,0,0,0,0,0,0
-5500000.0,Condo,Phnom Penh,7 Makara,Boeng Prolit,No Borey,0,Hard Title,53.75,0.0,0.0,21.0,1.0,1.0,1,1,1,1,1,0,1,1,1,0,0
 900000.0,Condo,Phnom Penh,Chamkar Mon,Phsar Daeum Thkov,No Borey,0,Hard Title,154.0,0.0,0.0,18.0,6.0,6.0,0,0,1,0,0,0,0,0,0,1,0
 582945.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Hard Title,236.0,0.0,0.0,51.0,3.0,3.0,1,1,1,1,1,0,0,0,0,0,0
 63000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 3,No Borey,0,Hard Title,49.0,0.0,0.0,11.0,1.0,1.0,1,0,0,1,0,0,0,0,0,0,0
 94000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Hard Title,52.0,0.0,0.0,8.0,1.0,1.0,0,1,0,1,0,1,0,0,0,0,0
-6300000.0,Condo,Phnom Penh,Chbar Ampov,Nirouth,No Borey,0,Hard Title,55.0,0.0,0.0,15.0,8.0,9.0,0,0,1,1,0,0,1,0,0,1,0
 165000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Hard Title,59.0,0.0,0.0,15.0,1.0,1.0,1,1,1,1,1,1,0,0,0,0,0
 75000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Hard Title,33.0,0.0,0.0,8.0,1.0,1.0,1,1,1,1,1,1,0,0,0,0,0
 50000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 2,No Borey,0,Hard Title,33.0,0.0,0.0,15.0,1.0,1.0,0,0,1,1,0,0,0,0,0,0,0
@@ -11945,7 +11903,6 @@
 150000.0,Condo,Phnom Penh,Sen Sok,Ou Baek K'am,No Borey,0,Hard Title,71.0,0.0,0.0,6.0,2.0,2.0,1,1,1,1,0,1,1,0,0,0,0
 58000.0,Condo,Phnom Penh,Mean Chey,Boeng Tumpun 1,No Borey,0,Hard Title,50.0,0.0,0.0,12.0,1.0,1.0,1,1,1,1,1,0,0,0,0,0,0
 54000.0,Condo,Phnom Penh,Chamkar Mon,Boeng Trabaek,No Borey,0,Hard Title,32.0,0.0,0.0,18.0,1.0,1.0,0,0,0,0,0,0,0,0,0,1,0
-2500000.0,Condo,Phnom Penh,Mean Chey,Stueng Mean Chey 1,No Borey,0,Hard Title,93.0,0.0,0.0,13.0,13.0,8.0,0,0,0,0,0,1,1,0,0,1,0
 81265.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 2,No Borey,0,Hard Title,42.0,0.0,0.0,16.0,1.0,1.0,0,0,1,1,0,0,0,0,0,1,0
 60000.0,Condo,Phnom Penh,Mean Chey,Boeng Tumpun,No Borey,0,Hard Title,52.0,0.0,0.0,9.0,1.0,1.0,0,1,1,0,0,0,0,0,0,0,0
 55000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 2,No Borey,0,Hard Title,40.0,0.0,0.0,12.0,1.0,1.0,1,1,0,0,0,0,1,0,0,0,0
@@ -11966,11 +11923,9 @@
 160160.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Hard Title,91.0,0.0,0.0,12.0,2.0,1.0,0,0,0,0,0,0,0,0,0,1,0
 63180.0,Condo,Phnom Penh,Chroy Changvar,Bak Kaeng,No Borey,0,Hard Title,39.0,0.0,0.0,12.0,1.0,1.0,0,0,1,1,0,0,0,0,0,1,0
 90000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 3,No Borey,0,Hard Title,46.0,0.0,0.0,7.0,1.0,1.0,0,0,1,1,0,0,0,0,0,0,0
-2300000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 2,No Borey,0,Hard Title,52.0,0.0,0.0,12.0,2.0,2.0,0,0,1,0,0,0,1,1,1,1,0
 350000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Hard Title,119.0,0.0,0.0,24.0,3.0,2.0,1,0,1,1,0,1,0,0,0,0,0
 66000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 2,No Borey,0,Hard Title,57.0,0.0,0.0,10.0,1.0,1.0,1,1,1,1,0,1,0,0,0,0,0
 200000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Hard Title,84.0,0.0,0.0,18.0,1.0,1.0,1,1,1,1,0,1,0,0,0,1,0
-12000000.0,Condo,Phnom Penh,Chamkar Mon,Tuol Tumpung 1,No Borey,0,Hard Title,64.5,0.0,0.0,22.0,2.0,2.0,0,0,1,1,0,0,1,1,1,0,0
 350000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 2,No Borey,0,Hard Title,119.0,0.0,0.0,24.0,3.0,2.0,0,0,1,1,0,0,0,0,0,0,0
 230000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Hard Title,128.0,0.0,0.0,15.0,3.0,2.0,1,1,1,1,1,0,0,0,0,0,0
 85000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Hard Title,80.0,0.0,0.0,13.0,2.0,1.0,0,1,1,0,0,1,0,0,0,0,0
@@ -12028,7 +11983,6 @@
 190000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Hard Title,152.0,0.0,0.0,1.0,3.0,4.0,1,1,1,1,1,1,0,0,0,0,0
 200000.0,Condo,Phnom Penh,Daun Penh,Phsar Kandal 1,No Borey,0,Hard Title,70.0,0.0,0.0,1.0,2.0,2.0,0,0,0,0,0,0,0,0,0,0,0
 130000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Hard Title,53.0,0.0,0.0,25.0,1.0,1.0,1,1,1,1,0,1,0,0,0,0,0
-2000000.0,Condo,Phnom Penh,Boeng Keng Kang,Tuol Svay Prey 1,No Borey,0,Hard Title,65.0,0.0,0.0,1.0,2.0,4.0,0,0,0,0,0,1,1,1,0,0,0
 76200.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Hard Title,40.0,0.0,0.0,20.0,1.0,1.0,1,1,1,1,0,0,0,0,0,0,0
 68200.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Hard Title,43.0,0.0,0.0,6.0,1.0,1.0,1,1,1,1,0,1,0,0,1,0,0
 480000.0,Condo,Phnom Penh,Mean Chey,Chak Angrae Leu,No Borey,0,Soft Title,260.0,0.0,0.0,1.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0
@@ -12137,7 +12091,6 @@
 488000.0,Condo,Phnom Penh,Mean Chey,Stueng Mean Chey,No Borey,0,Hard Title,93.0,0.0,0.0,13.0,6.0,4.0,0,0,0,0,0,1,0,0,0,1,0
 130820.0,Condo,Phnom Penh,Sen Sok,Tuek Thla,No Borey,0,Hard Title,53.91,0.0,0.0,17.0,1.0,1.0,1,1,1,1,0,0,0,0,0,0,0
 368000.0,Condo,Phnom Penh,Sen Sok,Kouk Khleang,No Borey,0,Hard Title,144.0,0.0,0.0,9.0,12.0,11.0,0,0,0,0,0,0,1,0,0,1,0
-4500000.0,Condo,Phnom Penh,Daun Penh,Chakto Mukh,No Borey,0,Hard Title,75.5,0.0,0.0,6.0,16.0,18.0,0,1,1,0,0,1,1,0,0,1,0
 160000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Hard Title,86.0,0.0,0.0,10.0,1.0,1.0,0,1,0,0,0,0,0,0,0,0,0
 112000.0,Condo,Phnom Penh,Sen Sok,Ou Baek K'am,No Borey,0,Hard Title,39.0,0.0,0.0,16.0,1.0,1.0,0,0,0,1,0,0,1,0,0,0,0
 285000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Hard Title,92.0,0.0,0.0,18.0,2.0,2.0,1,1,1,1,0,1,1,0,0,1,0
@@ -12159,7 +12112,6 @@
 139000.0,Condo,Phnom Penh,Sen Sok,Ou Baek K'am,No Borey,0,Hard Title,39.0,0.0,0.0,6.0,1.0,1.0,1,1,1,1,1,1,1,0,0,0,0
 63000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Hard Title,44.0,0.0,0.0,12.0,1.0,1.0,0,0,1,1,0,0,0,0,0,0,0
 223502.0,Condo,Phnom Penh,Sen Sok,Ou Baek K'am,No Borey,0,Hard Title,107.0,0.0,0.0,7.0,2.0,2.0,1,0,1,1,0,1,0,0,0,0,0
-2900000.0,Condo,Phnom Penh,Daun Penh,Phsar Thmei 1,No Borey,0,Hard Title,75.5,0.0,0.0,6.0,19.0,15.0,0,0,1,0,0,0,1,0,0,1,0
 160000.0,Condo,Phnom Penh,Chamkar Mon,Tuol Tumpung 1,No Borey,0,Unknown,47.0,0.0,0.0,18.0,1.0,2.0,0,0,0,0,0,0,1,0,0,1,0
 160000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,52.5,0.0,0.0,22.0,1.0,1.0,0,0,0,0,0,0,0,0,0,0,0
 160000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Hard Title,65.0,0.0,0.0,16.0,1.0,2.0,0,0,1,1,0,0,0,0,0,1,0
@@ -12187,7 +12139,6 @@
 250000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Hard Title,108.0,0.0,0.0,12.0,2.0,2.0,1,1,1,1,0,1,0,0,0,1,0
 250000.0,Condo,Phnom Penh,Por Senchey,Kakab 2,No Borey,0,Hard Title,153.0,0.0,0.0,10.0,3.0,2.0,1,1,1,1,0,1,0,0,0,0,0
 71000.0,Condo,Phnom Penh,Chbar Ampov,Nirouth,No Borey,0,Hard Title,37.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,1,0,0,0,0
-18000000.0,Condo,Phnom Penh,Daun Penh,Boeng Reang,No Borey,0,Hard Title,75.5,0.0,0.0,20.0,2.0,2.0,0,0,1,0,0,0,1,1,1,0,0
 195000.0,Condo,Phnom Penh,Daun Penh,Wat Phnom,No Borey,0,Soft Title,165.0,0.0,0.0,4.0,3.0,3.0,0,0,0,0,0,1,0,0,0,0,0
 166748.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Hard Title,65.0,0.0,0.0,19.0,2.0,2.0,1,1,0,1,1,1,0,0,0,0,0
 50000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,67.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,1,1,0,1,0
@@ -12294,7 +12245,6 @@
 54000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Hard Title,32.0,0.0,0.0,12.0,1.0,1.0,1,1,1,1,0,0,0,0,0,0,0
 67000.0,Condo,Phnom Penh,Sen Sok,Tuek Thla,No Borey,0,Hard Title,51.34,0.0,0.0,9.0,1.0,1.0,0,0,0,0,0,0,0,1,1,1,0
 117999.0,Condo,Phnom Penh,Tuol Kouk,Tuek L'ak 1,No Borey,0,Hard Title,67.0,0.0,0.0,15.0,2.0,3.0,0,1,0,1,0,1,1,0,0,0,0
-820000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Hard Title,47.0,0.0,0.0,18.0,1.0,1.0,0,1,0,0,0,1,1,0,0,1,0
 65000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Hard Title,67.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,1,1,1,1,0
 145000.0,Condo,Phnom Penh,Sen Sok,Tuek Thla,No Borey,0,Unknown,92.0,0.0,0.0,9.0,2.0,2.0,0,1,1,1,0,1,0,0,0,1,0
 120000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Unknown,50.0,0.0,0.0,16.0,1.0,1.0,0,0,0,0,0,0,0,0,0,1,0
@@ -12333,7 +12283,6 @@
 170000.0,Condo,Phnom Penh,Daun Penh,Phsar Kandal 2,No Borey,0,Soft Title,90.0,0.0,0.0,1.0,2.0,1.0,0,0,0,0,0,1,0,0,0,0,0
 58888.0,Condo,Phnom Penh,Boeng Keng Kang,Tuol Svay Prey 2,No Borey,0,Hard Title,50.0,0.0,0.0,16.0,1.0,1.0,0,0,0,0,0,0,1,0,1,1,0
 288000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Hard Title,81.0,0.0,0.0,7.0,2.0,2.0,0,0,1,0,0,0,0,0,0,0,0
-5200000.0,Condo,Phnom Penh,Daun Penh,Chakto Mukh,No Borey,0,Hard Title,121.0,0.0,0.0,3.0,3.0,5.0,0,0,1,0,0,1,1,0,0,0,0
 198000.0,Condo,Phnom Penh,Chamkar Mon,Boeng Trabaek,No Borey,0,Hard Title,143.0,0.0,0.0,18.0,3.0,3.0,0,0,0,1,0,0,1,0,0,1,0
 82000.0,Condo,Phnom Penh,Russey Keo,Tuol Sangkae 1,No Borey,0,Hard Title,67.0,0.0,0.0,12.0,1.0,1.0,1,1,1,1,1,0,0,0,0,1,0
 220000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Hard Title,65.0,0.0,0.0,18.0,1.0,1.0,0,0,0,0,0,0,0,0,0,1,0
@@ -12403,7 +12352,6 @@
 189000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Hard Title,90.0,0.0,0.0,12.0,2.0,1.0,1,1,1,1,0,0,0,0,0,1,0
 160000.0,Condo,Phnom Penh,Tuol Kouk,Boeng Kak 1,No Borey,0,Hard Title,80.0,0.0,0.0,12.0,2.0,1.0,1,1,1,1,0,0,0,0,0,1,0
 198000.0,Condo,Phnom Penh,Sen Sok,Phnom Penh Thmei,No Borey,0,Hard Title,80.0,0.0,0.0,9.0,2.0,1.0,1,1,1,1,0,0,0,0,0,1,0
-795000.0,Condo,Phnom Penh,Mean Chey,Boeng Tumpun,No Borey,0,Hard Title,47.0,0.0,0.0,13.0,1.0,1.0,0,0,1,0,0,0,1,0,0,1,0
 149123.0,Condo,Phnom Penh,Chamkar Mon,Unknown,No Borey,0,Unknown,92.0,0.0,0.0,18.0,2.0,2.0,0,0,0,0,0,0,1,0,1,1,0
 135000.0,Condo,Phnom Penh,Mean Chey,Unknown,No Borey,0,Unknown,50.0,0.0,0.0,13.0,1.0,1.0,0,0,0,0,0,0,0,0,0,1,0
 76000.0,Condo,Phnom Penh,Chroy Changvar,Chroy Changvar,No Borey,0,Unknown,60.0,0.0,0.0,12.0,1.0,1.0,0,0,0,0,0,0,0,0,0,1,0
@@ -12499,11 +12447,8 @@
 135000.0,Condo,Phnom Penh,Mean Chey,Chak Angrae Leu,No Borey,0,Hard Title,95.0,0.0,0.0,13.0,2.0,2.0,0,0,0,0,0,0,0,0,0,1,0
 225000.0,Condo,Phnom Penh,7 Makara,Veal Vong,No Borey,0,Soft Title,103.0,0.0,0.0,12.0,2.0,2.0,0,0,0,0,0,0,0,0,0,1,0
 270000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Hard Title,75.0,0.0,0.0,16.0,2.0,2.0,0,0,1,0,0,0,1,0,0,1,0
-7500000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 3,No Borey,0,Hard Title,65.0,0.0,0.0,18.0,2.0,2.0,1,1,1,1,1,0,1,1,1,0,0
-7500000.0,Condo,Phnom Penh,Daun Penh,Boeng Reang,No Borey,0,Hard Title,75.5,0.0,0.0,11.0,2.0,2.0,1,1,1,1,1,0,1,1,1,0,0
 170000.0,Condo,Phnom Penh,Chamkar Mon,Unknown,No Borey,0,Hard Title,48.0,0.0,0.0,18.0,2.0,2.0,0,0,1,1,0,0,0,0,0,1,0
 330000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Hard Title,68.0,0.0,0.0,11.0,2.0,2.0,1,1,1,1,1,1,0,0,0,0,0
-19500000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Hard Title,65.0,0.0,0.0,25.0,2.0,2.0,1,1,1,1,1,1,1,1,1,0,0
 280000.0,Condo,Phnom Penh,Daun Penh,Phsar Kandal 2,No Borey,0,Hard Title,132.0,0.0,0.0,6.0,2.0,1.0,0,0,0,0,0,0,0,0,0,1,0
 132110.0,Condo,Phnom Penh,Chbar Ampov,Nirouth,No Borey,0,Hard Title,74.0,0.0,0.0,15.0,2.0,1.0,1,1,1,1,0,0,0,0,0,1,0
 114000.0,Condo,Phnom Penh,Chbar Ampov,Nirouth,No Borey,0,Hard Title,65.0,0.0,0.0,15.0,1.0,1.0,1,1,1,1,0,0,0,0,0,1,0
@@ -12524,7 +12469,6 @@
 165000.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 3,No Borey,0,Hard Title,89.0,0.0,0.0,7.0,2.0,2.0,1,1,1,1,0,0,0,0,0,0,0
 1781000.0,Condo,Phnom Penh,Daun Penh,Wat Phnom,No Borey,0,Hard Title,498.0,0.0,0.0,13.0,3.0,3.0,1,1,0,1,0,0,0,0,0,0,0
 272402.0,Condo,Phnom Penh,Boeng Keng Kang,Boeng Keng Kang 1,No Borey,0,Hard Title,93.0,0.0,0.0,16.0,2.0,2.0,1,0,1,1,0,0,0,0,0,1,0
-2500000.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Hard Title,154.0,0.0,0.0,7.0,17.0,17.0,0,1,1,0,0,0,1,0,0,0,0
 216000.0,Condo,Phnom Penh,Daun Penh,Boeng Reang,No Borey,0,Hard Title,74.0,0.0,0.0,6.0,1.0,1.0,1,1,1,0,1,0,0,0,0,1,0
 120800.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Hard Title,45.0,0.0,0.0,7.0,1.0,1.0,1,1,1,1,0,0,0,0,0,0,0
 331550.0,Condo,Phnom Penh,Chamkar Mon,Tonle Bassac,No Borey,0,Hard Title,92.0,0.0,0.0,22.0,2.0,1.0,1,0,1,1,0,0,0,0,0,0,0

@@ -1,7 +1,7 @@
 # Dataset
 
 Training data for the price model: `laboratory/data/clean/data.csv`
-(12,547 sale listings × 25 columns, no missing values). 95% Phnom Penh.
+(12,491 sale listings × 25 columns, no missing values). 95% Phnom Penh.
 
 ## Sources
 
@@ -23,7 +23,7 @@ Run from `laboratory/`, in order:
 4. `scripts/extract_description_features.py` – fill land/house dimensions, bedrooms, bathrooms, title deed, floor area from descriptions. Parsed values agree with existing structured values 93–100% (floor area 84%: sites mix net and gross).
 5. `scripts/clean_dataset.py` – drop project pages, bad prices (< $5k, > $20M, impossible $/m²), duplicates; merge size columns; group property types; unify district/commune spellings; turn amenity lists into flags; null impossible values.
 6. Manual: keep one area column, drop low-value flags.
-7. `scripts/handle_missing.py` – handle missing values (below). Saves the pre-imputation table as `data_unimputed.csv`.
+7. `scripts/handle_missing.py` – handle missing values (below), then drop 56 rows whose imputed area gives an impossible price/m² (e.g. $18M "condos"). Saves the pre-imputation table as `data_unimputed.csv`.
 
 ## Columns
 
