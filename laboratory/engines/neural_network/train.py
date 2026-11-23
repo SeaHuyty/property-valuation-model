@@ -4,17 +4,22 @@ Usage (from laboratory/):
     python -m engines.neural_network.train                      # seeds from config (data.seeds)
     python -m engines.neural_network.train --seeds 42           # single quick run
     python -m engines.neural_network.train --seeds 42 7 13      # repeated hold-out
+    python -m engines.neural_network.train --name more_dropout  # save to <output_dir>/more_dropout/
 
 Each seed gives a different train/val/test split *and* a different weight init, so
 one run's score is noisy (test R2 swings ~0.15 between splits). With several seeds the
 script reports mean +- std, which is what model comparisons should use.
 
-Writes to <output_dir>/ (default models/neural_network/):
+Writes to <output_dir>/ (default models/neural_network/), or <output_dir>/<name>/ with --name
+so experiments don't overwrite each other:
     model.pt              model from the first seed (what inference loads)
     metrics.json          metrics of the first seed
     history.csv           loss per epoch of the first seed
-    seed_<s>/             model.pt, metrics.json, history.csv per seed (only with >1 seed)
+    test_predictions.csv  test rows of the first seed: actual vs predicted price
+    seed_<s>/             the four files above per seed (only with >1 seed)
     summary.json          mean / std / per-seed values of each metric (only with >1 seed)
+
+notebooks/compare_models.ipynb reads these folders and plots runs side by side.
 """
 from __future__ import annotations
 
@@ -59,7 +64,7 @@ def evaluate(model, pre, df, cat, num, target):
 
 
 def train_one(cfg, seed):
-    """Train on the split given by `seed`. Returns (checkpoint dict, metrics, history)."""
+    """Train on the split given by `seed`. Returns (checkpoint dict, metrics, history, test predictions)."""
     dc, fc, mc, tc = cfg["data"], cfg["features"], cfg["model"], cfg["train"]
     torch.manual_seed(seed)
     np.random.seed(seed)
@@ -121,14 +126,17 @@ def train_one(cfg, seed):
                for name, df, t in (("train", train_df, tr), ("val", val_df, va), ("test", test_df, te))}
     ckpt = {"state_dict": best, "preprocessor": pre.state_dict(), "config": cfg | {"seed": seed},
             "model_args": model_args}
-    return ckpt, metrics, history
+    preds = test_df[["property_type", "district", dc["target"]]].rename(columns={dc["target"]: "actual"})
+    preds["predicted"] = pre.inverse_target(predict_log(model, te[0], te[1]))
+    return ckpt, metrics, history, preds
 
 
-def save_run(out, ckpt, metrics, history):
+def save_run(out, ckpt, metrics, history, preds):
     out.mkdir(parents=True, exist_ok=True)
     torch.save(ckpt, out / "model.pt")
     json.dump(metrics, open(out / "metrics.json", "w"), indent=2)
     pd.DataFrame(history).to_csv(out / "history.csv", index=False)
+    preds.to_csv(out / "test_predictions.csv", index=False)
 
 
 def print_run(metrics):
@@ -178,19 +186,22 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--config", default=str(LAB / "configs" / "neural_network_config.yml"))
     ap.add_argument("--seeds", type=int, nargs="+", help="override data.seeds from the config")
+    ap.add_argument("--name", help="experiment name: save to <output_dir>/<name>/ instead of <output_dir>/")
     args = ap.parse_args()
     cfg = yaml.safe_load(open(args.config, encoding="utf-8"))
     seeds = args.seeds or cfg["data"].get("seeds") or [cfg["data"]["seed"]]
 
     out = LAB / cfg["output_dir"]
+    if args.name:
+        out = out / args.name
     runs = []
     for i, seed in enumerate(seeds):
-        ckpt, metrics, history = train_one(cfg, seed)
+        ckpt, metrics, history, preds = train_one(cfg, seed)
         runs.append(metrics)
         if len(seeds) > 1:
-            save_run(out / f"seed_{seed}", ckpt, metrics, history)
+            save_run(out / f"seed_{seed}", ckpt, metrics, history, preds)
         if i == 0:  # first seed's model is the one inference loads
-            save_run(out, ckpt, metrics, history)
+            save_run(out, ckpt, metrics, history, preds)
         if len(seeds) == 1:
             print_run(metrics)
 
