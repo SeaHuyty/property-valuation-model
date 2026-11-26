@@ -36,11 +36,9 @@ from torch import nn
 from torch.utils.data import DataLoader, TensorDataset
 from tqdm import tqdm
 
-from engines.common import LAB, load_splits, regression_metrics
+from engines.common import LAB, evaluate as score, load_splits, summarize
 from engines.neural_network.networks import PriceMLP
 from engines.neural_network.preprocessing import Preprocessor
-
-METRICS = ["rmse", "mae", "r2", "mape", "median_ape", "rmse_log"]
 
 
 def tensors(pre, df, target):
@@ -55,12 +53,7 @@ def predict_log(model, cat, num, batch=4096):
 
 
 def evaluate(model, pre, df, cat, num, target):
-    price = pre.inverse_target(predict_log(model, cat, num))
-    out = {"overall": regression_metrics(df[target], price)}
-    for t, idx in df.groupby("property_type").groups.items():
-        if len(idx) >= 10:
-            out[t] = regression_metrics(df.loc[idx, target], price[idx]) | {"n": len(idx)}
-    return out
+    return score(df, pre.inverse_target(predict_log(model, cat, num)), target)
 
 
 def train_one(cfg, seed):
@@ -149,20 +142,6 @@ def print_run(metrics):
     for t, m in metrics["test"].items():
         if t != "overall":
             print(f"  {t:<11} n={m['n']:>5}  MAE ${m['mae']:>10,.0f}  MdAPE {m['median_ape']:>5.1f}%  R2 {m['r2']:.3f}")
-
-
-def summarize(seeds, runs):
-    """mean / std / per-seed values for every split x group x metric."""
-    summary = {"seeds": seeds}
-    for split in ("train", "val", "test"):
-        groups = sorted(set().union(*(r[split].keys() for r in runs)))
-        summary[split] = {}
-        for g in groups:
-            rows = [r[split][g] for r in runs if g in r[split]]
-            summary[split][g] = {k: {"mean": float(np.mean(v)), "std": float(np.std(v, ddof=1)) if len(v) > 1 else 0.0,
-                                     "values": v}
-                                 for k in METRICS for v in [[row[k] for row in rows]]}
-    return summary
 
 
 def print_summary(summary):
