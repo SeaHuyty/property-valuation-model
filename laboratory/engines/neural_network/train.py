@@ -19,7 +19,7 @@ so experiments don't overwrite each other:
     seed_<s>/             the four files above per seed (only with >1 seed)
     summary.json          mean / std / per-seed values of each metric (only with >1 seed)
 
-notebooks/compare_models.ipynb reads these folders and plots runs side by side.
+evaluate/compare_models.ipynb reads these folders and plots runs side by side.
 """
 from __future__ import annotations
 
