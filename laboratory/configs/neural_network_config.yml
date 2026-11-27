@@ -1,6 +1,5 @@
-# Price MLP (engines/neural_network). Paths are relative to laboratory/.
 data:
-  path: data/clean/data.csv
+  path: data/clean/data_filtered.csv
   target: price_usd
   test_size: 0.2        
   val_size: 0.1         
